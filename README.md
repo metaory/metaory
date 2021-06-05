@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with [mxcolr](https://github.com/metaory/mxcolr)
 
-- 💬 Ask me about **lua, awesomewm, js, nix, vim**
+- 💬 Ask me about **vim, tiling window managers, terminals, vim, hacks**
 
 - 📫 How to reach me **metaory@gmail.com**
 
