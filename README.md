@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm metaory</h1>
-<h3 align="center">A passionate coder developer from planet 🌏</h3>
+<h3 align="center">A js, nix, vim guru from planet 🌏</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=metaory&label=Profile%20views&color=0e75b6&style=flat" alt="metaory" /> </p>
 
@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with [mxcolr](https://github.com/metaory/mxcolr)
 
-- 💬 Ask me about **js, nix, vim guru**
+- 💬 Ask me about **lua, awesomewm, js, nix, vim**
 
 - 📫 How to reach me **metaory@gmail.com**
 
