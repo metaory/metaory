@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=metaory&label=Profile%20views&color=0e75b6&style=flat" alt="metaory" /> </p>
 
-- 🔭 I’m currently working on [xencache](https://github.com/metaory/xencache)
+- 🔭 I’m currently working on [nvix](https://github.com/metaory/nvix)
 
 - 🌱 I’m currently learning **Rust**
 
-- 👯 I’m looking to collaborate on [axios-xencache-adapter](https://github.com/metaory/axios-xencache-adapter)
+- 👯 I’m looking to collaborate on [nvix](https://github.com/metaory/nvix)
 
 - 🤝 I’m looking for help with [mxcolr](https://github.com/metaory/mxcolr)
 
