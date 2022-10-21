@@ -7,9 +7,7 @@
 
 - 🌱 I’m currently learning **Rust**
 
-- 👯 I’m looking to collaborate on [nvix](https://github.com/metaory/nvix)
-
-- 🤝 I’m looking for help with [mxcolr](https://github.com/metaory/mxcolr)
+- 🤝 I’m looking for help with [mxflow-cli](https://github.com/metaory/mxflow-cli)
 
 - 💬 Ask me about **vim, tiling window managers, terminals, vim, hacks**
 
