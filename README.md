@@ -13,7 +13,7 @@
 
 <!-- - 🤝 I’m looking for help with [mxflow-cli](https://github.com/metaory/mxflow-cli) -->
 
-- 💬 Ask me about **vim, tiling window managers, window manager compositor, terminals, hacks**
+- 💬 Ask me about **vim, tiling window managers, terminals, hacks**
 
 - 📫 How to reach me **metaory@gmail.com**
 
