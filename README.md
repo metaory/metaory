@@ -7,7 +7,7 @@
 </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=metaory&label=Profile%20views&color=0e75b6&style=flat" alt="metaory" /> </p>
 
-- 🔭 I’m currently working on [...]([https://github.com/metaory/nvix](https://github.com/metaory?tab=repositories))
+- 🔭 I’m currently working on [...](https://github.com/metaory?tab=repositories)
 
 - 🌱 I’m currently learning **Rust**
 
