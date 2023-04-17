@@ -18,6 +18,11 @@
 - 📫 How to reach me **metaory@gmail.com**
 
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#3](https://github.com/metaory/mxflow-cli/pull/3) in [metaory/mxflow-cli](https://github.com/metaory/mxflow-cli)
+2. 🎉 Merged PR [#4](https://github.com/metaory/mxflow-cli/pull/4) in [metaory/mxflow-cli](https://github.com/metaory/mxflow-cli)
+3. 🎉 Merged PR [#6](https://github.com/metaory/mxflow-cli/pull/6) in [metaory/mxflow-cli](https://github.com/metaory/mxflow-cli)
+4. 🎉 Merged PR [#7](https://github.com/metaory/mxflow-cli/pull/7) in [metaory/mxflow-cli](https://github.com/metaory/mxflow-cli)
+5. 🎉 Merged PR [#8](https://github.com/metaory/mxflow-cli/pull/8) in [metaory/mxflow-cli](https://github.com/metaory/mxflow-cli)
 <!--END_SECTION:activity-->
 
 <h3 align="left">Connect with me:</h3>
