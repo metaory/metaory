@@ -17,6 +17,9 @@
 
 - 📫 How to reach me **metaory@gmail.com**
 
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/metaory" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="metaory" height="30" width="40" /></a>
