@@ -6,15 +6,15 @@ on:
   workflow_dispatch:
 
 jobs:
-  build:
+  generate-topics:
     runs-on: ubuntu-latest
     steps:
       - uses: metaory/github-readme-topics-action@master
         env:
           GH_PAT: ${{ secrets.GH_PAT }}
         with:
-          email: metaory@gmail.com
-          topics: |-
+          EMAIL: metaory@gmail.com
+          TOPICS: |-
             api
             automation
             challenge
