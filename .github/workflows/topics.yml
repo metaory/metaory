@@ -15,7 +15,7 @@ jobs:
         with:
           username: metaory
           email: metaory@gmail.com
-          repository: git-playground
+          # repository: git-playground
           topics: |-
             api
             automation
