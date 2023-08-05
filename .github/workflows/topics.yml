@@ -13,9 +13,7 @@ jobs:
         env:
           GH_PAT: ${{ secrets.GH_PAT }}
         with:
-          # username: metaory
           email: metaory@gmail.com
-          # repository: git-playground
           topics: |-
             api
             automation
