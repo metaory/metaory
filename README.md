@@ -49,7 +49,7 @@
 | ----- | ----------- | ---------- | -------- | ------ |
 | jsonresume-theme-meta | yet another JSON Resume theme with live reload and docker | 7 | CSS | 2023-08-04T18:32:39Z |
 | mxflow-cli | :zap: A Beautiful, Friendly, General purpose CLI task runner | 3 | JavaScript | 2023-07-07T13:30:10Z |
-| github-profile-pinned-action | Action to generate GitHub profile readme repos pin based on Topics | 1 | JavaScript | 2023-08-05T00:11:28Z |
+| github-readme-topics-action | Action to generate GitHub profile readme repos pin based on Topics | 1 | JavaScript | 2023-08-05T02:23:34Z |
 
 # CHALLENGE
 
