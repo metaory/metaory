@@ -35,7 +35,6 @@
 </p>
 
 <!--START_SECTION:topics-->
-zzxxx
 <!--END_SECTION:topics-->
 
 <h3 align="left">Languages and Tools:</h3>
