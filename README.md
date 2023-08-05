@@ -18,10 +18,10 @@
 - 📫 How to reach me **metaory@gmail.com**
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/metaory/mxflow-cli/pull/3) in [metaory/mxflow-cli](https://github.com/metaory/mxflow-cli)
-2. 🎉 Merged PR [#4](https://github.com/metaory/mxflow-cli/pull/4) in [metaory/mxflow-cli](https://github.com/metaory/mxflow-cli)
-3. 🎉 Merged PR [#6](https://github.com/metaory/mxflow-cli/pull/6) in [metaory/mxflow-cli](https://github.com/metaory/mxflow-cli)
-4. 🎉 Merged PR [#7](https://github.com/metaory/mxflow-cli/pull/7) in [metaory/mxflow-cli](https://github.com/metaory/mxflow-cli)
+1. 🎉 Merged PR [#34](https://github.com/metaory/git-playground/pull/34) in [metaory/git-playground](https://github.com/metaory/git-playground)
+2. 💪 Opened PR [#34](https://github.com/metaory/git-playground/pull/34) in [metaory/git-playground](https://github.com/metaory/git-playground)
+3. 🎉 Merged PR [#2](https://github.com/metaory/mail-delivery-trains-challenge/pull/2) in [metaory/mail-delivery-trains-challenge](https://github.com/metaory/mail-delivery-trains-challenge)
+4. 💪 Opened PR [#2](https://github.com/metaory/mail-delivery-trains-challenge/pull/2) in [metaory/mail-delivery-trains-challenge](https://github.com/metaory/mail-delivery-trains-challenge)
 5. 🎉 Merged PR [#8](https://github.com/metaory/mxflow-cli/pull/8) in [metaory/mxflow-cli](https://github.com/metaory/mxflow-cli)
 <!--END_SECTION:activity-->
 
