@@ -37,20 +37,20 @@
 <!--START_SECTION:topics-->
 
 
-# API
+### API
 
 | Name  | Description | Stargazers | Language | Update |
 | ----- | ----------- | ---------- | -------- | ------ |
 | [proxy-api-transformer](https://github.com/metaory/proxy-api-transformer) | Transform, Mutate, Wrap your existing APIs | 1 | JavaScript | this month |
 
-# AUTOMATION
+### AUTOMATION
 
 | Name  | Description | Stargazers | Language | Update |
 | ----- | ----------- | ---------- | -------- | ------ |
 | [jsonresume-theme-meta](https://github.com/metaory/jsonresume-theme-meta) | yet another JSON Resume theme with live reload and docker | 7 | CSS | this month |
 | [mxflow-cli](https://github.com/metaory/mxflow-cli) | :zap: A Beautiful, Friendly, General purpose CLI task runner | 3 | JavaScript | last month |
 
-# CHALLENGE
+### CHALLENGE
 
 | Name  | Description | Stargazers | Language | Update |
 | ----- | ----------- | ---------- | -------- | ------ |
@@ -67,7 +67,7 @@
 | [snake-cli-poc](https://github.com/metaory/snake-cli-poc) | cli snake grid challenge | 0 | JavaScript | this month |
 | [test-dupl](https://github.com/metaory/test-dupl) | CSV duplicate coding challenge | 0 | JavaScript | this month |
 
-# CLI
+### CLI
 
 | Name  | Description | Stargazers | Language | Update |
 | ----- | ----------- | ---------- | -------- | ------ |
@@ -84,21 +84,21 @@
 | [meta-aws-bastion-ssh](https://github.com/metaory/meta-aws-bastion-ssh) | AWS Bastion ssh cli | 0 | JavaScript | this month |
 | [meta-mount](https://github.com/metaory/meta-mount) | linux mounter | 0 | JavaScript | this month |
 
-# GITHUB-ACTIONS
+### GITHUB-ACTIONS
 
 | Name  | Description | Stargazers | Language | Update |
 | ----- | ----------- | ---------- | -------- | ------ |
 | [github-readme-topics-action](https://github.com/metaory/github-readme-topics-action) | Action to generate GitHub profile readme repos pin based on Topics | 1 | JavaScript | this month |
 | [ancestor-check-action](https://github.com/metaory/ancestor-check-action) | checks if PR have any commits from the target branch | 0 | JavaScript | this month |
 
-# NPM-PACKAGE
+### NPM-PACKAGE
 
 | Name  | Description | Stargazers | Language | Update |
 | ----- | ----------- | ---------- | -------- | ------ |
 | [simple-find-file-recursively-up](https://github.com/metaory/simple-find-file-recursively-up) | returns the path at which a provided pattern exists, checking the current directory and any parent folders recursively up | 1 | JavaScript | this month |
 | [uuidify](https://github.com/metaory/uuidify) | takes long string and return uuid format | 0 | JavaScript | this month |
 
-# THEME
+### THEME
 
 | Name  | Description | Stargazers | Language | Update |
 | ----- | ----------- | ---------- | -------- | ------ |
