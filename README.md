@@ -19,11 +19,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 🚀 Published release [Stable release](https://github.com/metaory/github-readme-topics-action/releases/tag/v1) in [metaory/github-readme-topics-action](https://github.com/metaory/github-readme-topics-action)
-2. 💪 Opened PR [#1071](https://github.com/abhisheknaiidu/awesome-github-profile-readme/pull/1071) in [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme)
-3. 🗣 Commented on [#1908](https://github.com/nektos/act/issues/1908#issuecomment-1666409804) in [nektos/act](https://github.com/nektos/act)
-4. 🗣 Commented on [#1908](https://github.com/nektos/act/issues/1908#issuecomment-1666408289) in [nektos/act](https://github.com/nektos/act)
-5. 🎉 Merged PR [#8](https://github.com/metaory/mxflow-cli/pull/8) in [metaory/mxflow-cli](https://github.com/metaory/mxflow-cli)
+1. 🗣 Commented on [#10](https://github.com/outsideris/potential-conflicts-checker-action/pull/10#issuecomment-1667097979) in [outsideris/potential-conflicts-checker-action](https://github.com/outsideris/potential-conflicts-checker-action)
+2. 🗣 Commented on [#9](https://github.com/outsideris/potential-conflicts-checker-action/issues/9#issuecomment-1667091438) in [outsideris/potential-conflicts-checker-action](https://github.com/outsideris/potential-conflicts-checker-action)
+3. 🚀 Published release [Stable release](https://github.com/metaory/github-readme-topics-action/releases/tag/v1) in [metaory/github-readme-topics-action](https://github.com/metaory/github-readme-topics-action)
+4. 🚀 Published release [Stable release](https://github.com/metaory/github-readme-topics-action/releases/tag/v1) in [metaory/github-readme-topics-action](https://github.com/metaory/github-readme-topics-action)
+5. 🚀 Published release [Stable release](https://github.com/metaory/github-readme-topics-action/releases/tag/v1) in [metaory/github-readme-topics-action](https://github.com/metaory/github-readme-topics-action)
 <!--END_SECTION:activity-->
 
 <h3 align="left">Connect with me:</h3>
