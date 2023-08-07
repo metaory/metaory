@@ -15,4 +15,4 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           COMMIT_MSG: "docs(README): auto-update activity [skip ci]"
-          MAX_LINES: 5
+          MAX_LINES: 10
