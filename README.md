@@ -57,7 +57,7 @@
 | ----- | ----------- | ----- | -------- | ------ |
 | [advent-of-code](https://github.com/metaory/advent-of-code) | Advent Of Code Solutions (2021-2022) | 1 | JavaScript | last month |
 | [mail-delivery-trains-challenge](https://github.com/metaory/mail-delivery-trains-challenge) | autonomous mail delivery trains challenge | 1 | JavaScript | this month |
-| [meta-vanilla-web-component](https://github.com/metaory/meta-vanilla-web-component) | Vanilla JS Web Components Demo | 1 | HTML | 13 months ago |
+| [meta-vanilla-web-component](https://github.com/metaory/meta-vanilla-web-component) | Vanilla JS Web Components Demo | 1 | HTML | 14 months ago |
 | [ace-demo](https://github.com/metaory/ace-demo) | Simple Amplify demo with API and Auth | 0 | Velocity Template Language | last month |
 | [meta-compose](https://github.com/metaory/meta-compose) | Pagination Fullstack POC | 0 | Vue | 15 months ago |
 | [meta-lemon-server](https://github.com/metaory/meta-lemon-server) | stream duplicate word finder | 0 | JavaScript | 14 months ago |
@@ -73,7 +73,7 @@
 | Name  | Description | Stars | Language | Update |
 | ----- | ----------- | ----- | -------- | ------ |
 | [mxcolr](https://github.com/metaory/mxcolr) | ヘ Generate, Preview and Apply beautiful unified human friendly pseudo random color schemes, SYSTEM WIDE! | 22 | Shell | 12 months ago |
-| [mxcolr-v2](https://github.com/metaory/mxcolr-v2) | [WIP] ヘ Generate, Preview and Apply beautiful unified human friendly pseudo random color schemes, SYSTEM WIDE! | 7 | Lua | 17 months ago |
+| [mxcolr-v2](https://github.com/metaory/mxcolr-v2) | [WIP] ヘ Generate, Preview and Apply beautiful unified human friendly pseudo random color schemes, SYSTEM WIDE! | 8 | Lua | 17 months ago |
 | [mxflow-cli](https://github.com/metaory/mxflow-cli) | :zap: A Beautiful, Friendly, General purpose CLI task runner | 3 | JavaScript | this month |
 | [fzf-launcher](https://github.com/metaory/fzf-launcher) | ヘ Fuzzy Fnd History / Apps with FZF in a Popup Terminal | 1 | Shell | 19 months ago |
 | [meta-deploy-cli](https://github.com/metaory/meta-deploy-cli) | Language Agnostic AWS ECS Deployment CLI | 1 | JavaScript | 7 months ago |
@@ -89,7 +89,7 @@
 
 | Name  | Description | Stars | Language | Update |
 | ----- | ----------- | ----- | -------- | ------ |
-| [github-readme-topics-action](https://github.com/metaory/github-readme-topics-action) | :pushpin: Action to generate GitHub profile readme repos pin based on Topics | 1 | JavaScript | this month |
+| [github-readme-topics-action](https://github.com/metaory/github-readme-topics-action) | :pushpin: GitHub Action to update GitHub profile README.md with categorized repos based on their Topics | 2 | JavaScript | this month |
 | [ancestor-check-action](https://github.com/metaory/ancestor-check-action) | checks if PR have any commits from the target branch | 0 | JavaScript | last month |
 
 ### NPM-PACKAGE
