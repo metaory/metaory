@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm metaory</h1>
-<h3 align="center">❤️ Lua, Js, Linux, Vim   </h3>
+<h3 align="center">❤️ Rust, Lua, Js, Linux, Vim   </h3>
 <p align="center">
   <img src ="https://github-readme-stats.vercel.app/api?username=outsideris&show_icons=true&count_private=true&theme=synthwave&hide_border=true&bg_color=00000000&hide_rank=true">
   <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=outsideris&layout=compact&hide_border=true&theme=synthwave&bg_color=00000000&langs_count=8">
