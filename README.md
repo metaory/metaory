@@ -66,7 +66,7 @@
 | [poc-log-parser-cli](https://github.com/metaory/poc-log-parser-cli) | Simple Log Parser | 0 | TypeScript | 12 months ago |
 | [poc-payslip-cli](https://github.com/metaory/poc-payslip-cli) | Employee payslip for a flexible pay cycle | 0 | JavaScript | 13 months ago |
 | [snake-cli-poc](https://github.com/metaory/snake-cli-poc) | cli snake grid challenge | 0 | JavaScript | 64 months ago |
-| [test-dupl](https://github.com/metaory/test-dupl) | CSV duplicate coding challenge | 0 | JavaScript | 51 months ago |
+| [test-dupl](https://github.com/metaory/test-dupl) | CSV duplicate coding challenge | 0 | JavaScript | 52 months ago |
 
 ### CLI
 
@@ -90,7 +90,6 @@
 | Name  | Description | Stars | Language | Update |
 | ----- | ----------- | ----- | -------- | ------ |
 | [github-readme-topics-action](https://github.com/metaory/github-readme-topics-action) | :pushpin: GitHub Action to update GitHub profile README.md with categorized repos based on their Topics | 2 | JavaScript | this month |
-| [ancestor-check-action](https://github.com/metaory/ancestor-check-action) | checks if PR have any commits from the target branch | 0 | JavaScript | last month |
 
 ### NPM-PACKAGE
 
@@ -104,7 +103,7 @@
 | Name  | Description | Stars | Language | Update |
 | ----- | ----------- | ----- | -------- | ------ |
 | [tmux-mxc](https://github.com/metaory/tmux-mxc) | dark minimal tmux theme, with random colors from mxcolr project | 7 | Shell | 3 months ago |
-| [kitty-mxc](https://github.com/metaory/kitty-mxc) | Dark theme for kitty | 1 | null | 18 months ago |
+| [kitty-mxc](https://github.com/metaory/kitty-mxc) | Dark theme for kitty | 1 | null | 19 months ago |
 <!--END_SECTION:topics-->
 
 <h3 align="left">Languages and Tools:</h3>
