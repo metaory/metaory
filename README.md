@@ -57,16 +57,16 @@
 | ----- | ----------- | ----- | -------- | ------ |
 | [advent-of-code](https://github.com/metaory/advent-of-code) | Advent Of Code Solutions (2021-2022) | 1 | JavaScript | 2 months ago |
 | [mail-delivery-trains-challenge](https://github.com/metaory/mail-delivery-trains-challenge) | autonomous mail delivery trains challenge | 1 | JavaScript | last month |
-| [meta-vanilla-web-component](https://github.com/metaory/meta-vanilla-web-component) | Vanilla JS Web Components Demo | 1 | HTML | 14 months ago |
+| [meta-vanilla-web-component](https://github.com/metaory/meta-vanilla-web-component) | Vanilla JS Web Components Demo | 1 | HTML | 15 months ago |
 | [ace-demo](https://github.com/metaory/ace-demo) | Simple Amplify demo with API and Auth | 0 | Velocity Template Language | 2 months ago |
 | [meta-compose](https://github.com/metaory/meta-compose) | Pagination Fullstack POC | 0 | Vue | 16 months ago |
-| [meta-lemon-server](https://github.com/metaory/meta-lemon-server) | stream duplicate word finder | 0 | JavaScript | 15 months ago |
+| [meta-lemon-server](https://github.com/metaory/meta-lemon-server) | stream duplicate word finder | 0 | JavaScript | 16 months ago |
 | [meta-zd-node-server-poc](https://github.com/metaory/meta-zd-node-server-poc) | Zero Dependency Node Server Challenge | 0 | JavaScript | 55 months ago |
 | [phone-ext-poc](https://github.com/metaory/phone-ext-poc) | Dummy Phone Number Extension Finder | 0 | JavaScript | 22 months ago |
 | [poc-log-parser-cli](https://github.com/metaory/poc-log-parser-cli) | Simple Log Parser | 0 | TypeScript | 13 months ago |
-| [poc-payslip-cli](https://github.com/metaory/poc-payslip-cli) | Employee payslip for a flexible pay cycle | 0 | JavaScript | 13 months ago |
-| [snake-cli-poc](https://github.com/metaory/snake-cli-poc) | cli snake grid challenge | 0 | JavaScript | 65 months ago |
-| [test-dupl](https://github.com/metaory/test-dupl) | CSV duplicate coding challenge | 0 | JavaScript | 52 months ago |
+| [poc-payslip-cli](https://github.com/metaory/poc-payslip-cli) | Employee payslip for a flexible pay cycle | 0 | JavaScript | 14 months ago |
+| [snake-cli-poc](https://github.com/metaory/snake-cli-poc) | cli snake grid challenge | 0 | JavaScript | 66 months ago |
+| [test-dupl](https://github.com/metaory/test-dupl) | CSV duplicate coding challenge | 0 | JavaScript | 53 months ago |
 
 ### CLI
 
@@ -75,11 +75,11 @@
 | [mxcolr](https://github.com/metaory/mxcolr) | ヘ Generate, Preview and Apply beautiful unified human friendly pseudo random color schemes, SYSTEM WIDE! | 22 | Shell | 13 months ago |
 | [mxcolr-v2](https://github.com/metaory/mxcolr-v2) | [WIP] ヘ Generate, Preview and Apply beautiful unified human friendly pseudo random color schemes, SYSTEM WIDE! | 8 | Lua | 18 months ago |
 | [mxflow-cli](https://github.com/metaory/mxflow-cli) | :zap: A Beautiful, Friendly, General purpose CLI task runner | 4 | JavaScript | this month |
-| [fzf-launcher](https://github.com/metaory/fzf-launcher) | ヘ Fuzzy Fnd History / Apps with FZF in a Popup Terminal | 1 | Shell | 19 months ago |
+| [fzf-launcher](https://github.com/metaory/fzf-launcher) | ヘ Fuzzy Fnd History / Apps with FZF in a Popup Terminal | 1 | Shell | 20 months ago |
 | [meta-deploy-cli](https://github.com/metaory/meta-deploy-cli) | Language Agnostic AWS ECS Deployment CLI | 1 | JavaScript | 8 months ago |
 | [mxcolr-cli](https://github.com/metaory/mxcolr-cli) | :construction::construction::construction: ヘ Generate, Preview and Apply beautiful unified human friendly pseudo random color schemes, SYSTEM WIDE! | 1 | JavaScript | 9 months ago |
 | [mxcolr-lite](https://github.com/metaory/mxcolr-lite) | ヘ Tiny script to Generate pseudo random color schemes | 1 | Shell | 19 months ago |
-| [random-frame](https://github.com/metaory/random-frame) | picks a random frame from a dir of videos and copy it to destination path | 1 | Shell | 10 months ago |
+| [random-frame](https://github.com/metaory/random-frame) | picks a random frame from a dir of videos and copy it to destination path | 1 | Shell | 11 months ago |
 | [simple-backup](https://github.com/metaory/simple-backup) | A :sparkles: very very simple ( under 30 LoC ) backup and restore tool written in pure Bash | 1 | Shell | 5 months ago |
 | [gwf](https://github.com/metaory/gwf) | GitHub Work Flow | 0 | Shell | 68 months ago |
 | [meta-aws-bastion-ssh](https://github.com/metaory/meta-aws-bastion-ssh) | AWS Bastion ssh cli | 0 | JavaScript | 19 months ago |
@@ -102,8 +102,8 @@
 
 | Name  | Description | Stars | Language | Update |
 | ----- | ----------- | ----- | -------- | ------ |
-| [tmux-mxc](https://github.com/metaory/tmux-mxc) | dark minimal tmux theme, with random colors from mxcolr project | 7 | Shell | 4 months ago |
-| [kitty-mxc](https://github.com/metaory/kitty-mxc) | Dark theme for kitty | 1 | null | 19 months ago |
+| [tmux-mxc](https://github.com/metaory/tmux-mxc) | dark minimal tmux theme, with random colors from mxcolr project | 7 | Shell | 5 months ago |
+| [kitty-mxc](https://github.com/metaory/kitty-mxc) | Dark theme for kitty | 1 | null | 20 months ago |
 <!--END_SECTION:topics-->
 
 <h3 align="left">Languages and Tools:</h3>
