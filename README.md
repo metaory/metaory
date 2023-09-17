@@ -43,20 +43,20 @@
 
 | Name  | Description | Stars | Language | Update |
 | ----- | ----------- | ----- | -------- | ------ |
-| [proxy-api-transformer](https://github.com/metaory/proxy-api-transformer) | Transform, Mutate, Wrap your existing APIs | 1 | JavaScript | 16 months ago |
+| [proxy-api-transformer](https://github.com/metaory/proxy-api-transformer) | Transform, Mutate, Wrap your existing APIs | 1 | JavaScript | 17 months ago |
 
 ### AUTOMATION
 
 | Name  | Description | Stars | Language | Update |
 | ----- | ----------- | ----- | -------- | ------ |
-| [jsonresume-theme-meta](https://github.com/metaory/jsonresume-theme-meta) | yet another JSON Resume theme with live reload and docker | 7 | CSS | 3 months ago |
+| [jsonresume-theme-meta](https://github.com/metaory/jsonresume-theme-meta) | yet another JSON Resume theme with live reload and docker | 7 | CSS | 4 months ago |
 
 ### CHALLENGE
 
 | Name  | Description | Stars | Language | Update |
 | ----- | ----------- | ----- | -------- | ------ |
 | [advent-of-code](https://github.com/metaory/advent-of-code) | Advent Of Code Solutions (2021-2022) | 1 | JavaScript | 2 months ago |
-| [mail-delivery-trains-challenge](https://github.com/metaory/mail-delivery-trains-challenge) | autonomous mail delivery trains challenge | 1 | JavaScript | last month |
+| [mail-delivery-trains-challenge](https://github.com/metaory/mail-delivery-trains-challenge) | autonomous mail delivery trains challenge | 1 | JavaScript | 2 months ago |
 | [meta-vanilla-web-component](https://github.com/metaory/meta-vanilla-web-component) | Vanilla JS Web Components Demo | 1 | HTML | 15 months ago |
 | [ace-demo](https://github.com/metaory/ace-demo) | Simple Amplify demo with API and Auth | 0 | Velocity Template Language | 2 months ago |
 | [meta-compose](https://github.com/metaory/meta-compose) | Pagination Fullstack POC | 0 | Vue | 16 months ago |
@@ -73,11 +73,11 @@
 | Name  | Description | Stars | Language | Update |
 | ----- | ----------- | ----- | -------- | ------ |
 | [mxcolr](https://github.com/metaory/mxcolr) | ヘ Generate, Preview and Apply beautiful unified human friendly pseudo random color schemes, SYSTEM WIDE! | 22 | Shell | 13 months ago |
-| [mxcolr-v2](https://github.com/metaory/mxcolr-v2) | [WIP] ヘ Generate, Preview and Apply beautiful unified human friendly pseudo random color schemes, SYSTEM WIDE! | 8 | Lua | 18 months ago |
+| [mxcolr-v2](https://github.com/metaory/mxcolr-v2) | [WIP] ヘ Generate, Preview and Apply beautiful unified human friendly pseudo random color schemes, SYSTEM WIDE! | 9 | Lua | 18 months ago |
 | [mxflow-cli](https://github.com/metaory/mxflow-cli) | :zap: A Beautiful, Friendly, General purpose CLI task runner | 4 | JavaScript | this month |
 | [fzf-launcher](https://github.com/metaory/fzf-launcher) | ヘ Fuzzy Fnd History / Apps with FZF in a Popup Terminal | 1 | Shell | 20 months ago |
 | [meta-deploy-cli](https://github.com/metaory/meta-deploy-cli) | Language Agnostic AWS ECS Deployment CLI | 1 | JavaScript | 8 months ago |
-| [mxcolr-cli](https://github.com/metaory/mxcolr-cli) | :construction::construction::construction: ヘ Generate, Preview and Apply beautiful unified human friendly pseudo random color schemes, SYSTEM WIDE! | 1 | JavaScript | 9 months ago |
+| [mxcolr-cli](https://github.com/metaory/mxcolr-cli) | :construction::construction::construction: ヘ Generate, Preview and Apply beautiful unified human friendly pseudo random color schemes, SYSTEM WIDE! | 1 | JavaScript | 10 months ago |
 | [mxcolr-lite](https://github.com/metaory/mxcolr-lite) | ヘ Tiny script to Generate pseudo random color schemes | 1 | Shell | 19 months ago |
 | [random-frame](https://github.com/metaory/random-frame) | picks a random frame from a dir of videos and copy it to destination path | 1 | Shell | 11 months ago |
 | [simple-backup](https://github.com/metaory/simple-backup) | A :sparkles: very very simple ( under 30 LoC ) backup and restore tool written in pure Bash | 1 | Shell | 5 months ago |
