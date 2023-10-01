@@ -19,8 +19,8 @@
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#38](https://github.com/sadoprotocol/ordit-sdk/pull/38) in [sadoprotocol/ordit-sdk](https://github.com/sadoprotocol/ordit-sdk)
-2. 💪 Opened PR [#11](https://github.com/sadoprotocol/ordit/pull/11) in [sadoprotocol/ordit](https://github.com/sadoprotocol/ordit)
+1. 🎉 Merged PR [#1](https://github.com/metaory/nvim/pull/1) in [metaory/nvim](https://github.com/metaory/nvim)
+2. 💪 Opened PR [#1](https://github.com/metaory/nvim/pull/1) in [metaory/nvim](https://github.com/metaory/nvim)
 3. 🎉 Merged PR [#1](https://github.com/metaory/ordit/pull/1) in [metaory/ordit](https://github.com/metaory/ordit)
 4. 💪 Opened PR [#1](https://github.com/metaory/ordit/pull/1) in [metaory/ordit](https://github.com/metaory/ordit)
 5. 💪 Opened PR [#10](https://github.com/sadoprotocol/ordit/pull/10) in [sadoprotocol/ordit](https://github.com/sadoprotocol/ordit)
