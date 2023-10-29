@@ -62,7 +62,7 @@
 | [meta-compose](https://github.com/metaory/meta-compose) | Pagination Fullstack POC | 0 | Vue | 18 months ago |
 | [meta-lemon-server](https://github.com/metaory/meta-lemon-server) | stream duplicate word finder | 0 | JavaScript | 17 months ago |
 | [meta-zd-node-server-poc](https://github.com/metaory/meta-zd-node-server-poc) | Zero Dependency Node Server Challenge | 0 | JavaScript | 57 months ago |
-| [phone-ext-poc](https://github.com/metaory/phone-ext-poc) | Dummy Phone Number Extension Finder | 0 | JavaScript | 23 months ago |
+| [phone-ext-poc](https://github.com/metaory/phone-ext-poc) | Dummy Phone Number Extension Finder | 0 | JavaScript | 24 months ago |
 | [poc-log-parser-cli](https://github.com/metaory/poc-log-parser-cli) | Simple Log Parser | 0 | TypeScript | 15 months ago |
 | [poc-payslip-cli](https://github.com/metaory/poc-payslip-cli) | Employee payslip for a flexible pay cycle | 0 | JavaScript | 15 months ago |
 | [snake-cli-poc](https://github.com/metaory/snake-cli-poc) | cli snake grid challenge | 0 | JavaScript | 67 months ago |
@@ -76,12 +76,12 @@
 | [mxcolr-v2](https://github.com/metaory/mxcolr-v2) | [WIP] ヘ Generate, Preview and Apply beautiful unified human friendly pseudo random color schemes, SYSTEM WIDE! | 9 | Lua | 19 months ago |
 | [mxflow-cli](https://github.com/metaory/mxflow-cli) | :zap: A Beautiful, Friendly, General purpose CLI task runner | 4 | JavaScript | last month |
 | [fzf-launcher](https://github.com/metaory/fzf-launcher) | ヘ Fuzzy Fnd History / Apps with FZF in a Popup Terminal | 1 | Shell | 21 months ago |
-| [meta-deploy-cli](https://github.com/metaory/meta-deploy-cli) | Language Agnostic AWS ECS Deployment CLI | 1 | JavaScript | 9 months ago |
+| [meta-deploy-cli](https://github.com/metaory/meta-deploy-cli) | Language Agnostic AWS ECS Deployment CLI | 1 | JavaScript | 10 months ago |
 | [mxcolr-js-cli](https://github.com/metaory/mxcolr-js-cli) | :construction::construction::construction: ヘ Generate, Preview and Apply beautiful unified human friendly pseudo random color schemes, SYSTEM WIDE! | 1 | JavaScript | 11 months ago |
-| [mxcolr-lite](https://github.com/metaory/mxcolr-lite) | ヘ Tiny script to Generate pseudo random color schemes | 1 | Shell | 20 months ago |
+| [mxcolr-lite](https://github.com/metaory/mxcolr-lite) | ヘ Tiny script to Generate pseudo random color schemes | 1 | Shell | 21 months ago |
 | [random-frame](https://github.com/metaory/random-frame) | picks a random frame from a dir of videos and copy it to destination path | 1 | Shell | 12 months ago |
-| [simple-backup](https://github.com/metaory/simple-backup) | A :sparkles: very very simple ( under 30 LoC ) backup and restore tool written in pure Bash | 1 | Shell | 6 months ago |
-| [gwf](https://github.com/metaory/gwf) | GitHub Work Flow | 0 | Shell | 69 months ago |
+| [simple-backup](https://github.com/metaory/simple-backup) | A :sparkles: very very simple ( under 30 LoC ) backup and restore tool written in pure Bash | 1 | Shell | 7 months ago |
+| [gwf](https://github.com/metaory/gwf) | GitHub Work Flow | 0 | Shell | 70 months ago |
 | [meta-aws-bastion-ssh](https://github.com/metaory/meta-aws-bastion-ssh) | AWS Bastion ssh cli | 0 | JavaScript | 21 months ago |
 | [meta-mount](https://github.com/metaory/meta-mount) | linux mounter | 0 | JavaScript | 21 months ago |
 
