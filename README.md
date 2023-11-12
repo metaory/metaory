@@ -43,7 +43,7 @@
 
 | Name  | Description | Stars | Language | Update |
 | ----- | ----------- | ----- | -------- | ------ |
-| [proxy-api-transformer](https://github.com/metaory/proxy-api-transformer) | Transform, Mutate, Wrap your existing APIs | 1 | JavaScript | 18 months ago |
+| [proxy-api-transformer](https://github.com/metaory/proxy-api-transformer) | Transform, Mutate, Wrap your existing APIs | 1 | JavaScript | 19 months ago |
 
 ### AUTOMATION
 
@@ -60,13 +60,13 @@
 | [meta-vanilla-web-component](https://github.com/metaory/meta-vanilla-web-component) | Vanilla JS Web Components Demo | 1 | HTML | 17 months ago |
 | [ace-demo](https://github.com/metaory/ace-demo) | Simple Amplify demo with API and Auth | 0 | Velocity Template Language | this month |
 | [meta-compose](https://github.com/metaory/meta-compose) | Pagination Fullstack POC | 0 | Vue | 18 months ago |
-| [meta-lemon-server](https://github.com/metaory/meta-lemon-server) | stream duplicate word finder | 0 | JavaScript | 17 months ago |
+| [meta-lemon-server](https://github.com/metaory/meta-lemon-server) | stream duplicate word finder | 0 | JavaScript | 18 months ago |
 | [meta-zd-node-server-poc](https://github.com/metaory/meta-zd-node-server-poc) | Zero Dependency Node Server Challenge | 0 | JavaScript | 57 months ago |
 | [phone-ext-poc](https://github.com/metaory/phone-ext-poc) | Dummy Phone Number Extension Finder | 0 | JavaScript | 24 months ago |
 | [poc-log-parser-cli](https://github.com/metaory/poc-log-parser-cli) | Simple Log Parser | 0 | TypeScript | 15 months ago |
 | [poc-payslip-cli](https://github.com/metaory/poc-payslip-cli) | Employee payslip for a flexible pay cycle | 0 | JavaScript | 16 months ago |
-| [snake-cli-poc](https://github.com/metaory/snake-cli-poc) | cli snake grid challenge | 0 | JavaScript | 67 months ago |
-| [test-dupl](https://github.com/metaory/test-dupl) | CSV duplicate coding challenge | 0 | JavaScript | 54 months ago |
+| [snake-cli-poc](https://github.com/metaory/snake-cli-poc) | cli snake grid challenge | 0 | JavaScript | 68 months ago |
+| [test-dupl](https://github.com/metaory/test-dupl) | CSV duplicate coding challenge | 0 | JavaScript | 55 months ago |
 
 ### CLI
 
@@ -74,7 +74,7 @@
 | ----- | ----------- | ----- | -------- | ------ |
 | [mxcolr](https://github.com/metaory/mxcolr) | ヘ Generate, Preview and Apply beautiful unified human friendly pseudo random color schemes, SYSTEM WIDE! | 23 | Shell | 15 months ago |
 | [mxcolr-v2](https://github.com/metaory/mxcolr-v2) | [WIP] ヘ Generate, Preview and Apply beautiful unified human friendly pseudo random color schemes, SYSTEM WIDE! | 9 | Lua | 20 months ago |
-| [mxflow-cli](https://github.com/metaory/mxflow-cli) | :zap: A Beautiful, Friendly, General purpose CLI task runner | 4 | JavaScript | last month |
+| [mxflow-cli](https://github.com/metaory/mxflow-cli) | :zap: A Beautiful, Friendly, General purpose CLI task runner | 4 | JavaScript | 2 months ago |
 | [fzf-launcher](https://github.com/metaory/fzf-launcher) | ヘ Fuzzy Fnd History / Apps with FZF in a Popup Terminal | 1 | Shell | 22 months ago |
 | [meta-deploy-cli](https://github.com/metaory/meta-deploy-cli) | Language Agnostic AWS ECS Deployment CLI | 1 | JavaScript | 10 months ago |
 | [mxcolr-js-cli](https://github.com/metaory/mxcolr-js-cli) | :construction::construction::construction: ヘ Generate, Preview and Apply beautiful unified human friendly pseudo random color schemes, SYSTEM WIDE! | 1 | JavaScript | 11 months ago |
@@ -102,8 +102,8 @@
 
 | Name  | Description | Stars | Language | Update |
 | ----- | ----------- | ----- | -------- | ------ |
-| [tmux-mxc](https://github.com/metaory/tmux-mxc) | dark minimal tmux theme, with random colors from mxcolr project | 8 | Shell | 6 months ago |
-| [kitty-mxc](https://github.com/metaory/kitty-mxc) | Dark theme for kitty | 1 | null | 21 months ago |
+| [tmux-mxc](https://github.com/metaory/tmux-mxc) | dark minimal tmux theme, with random colors from mxcolr project | 8 | Shell | 7 months ago |
+| [kitty-mxc](https://github.com/metaory/kitty-mxc) | Dark theme for kitty | 1 | null | 22 months ago |
 <!--END_SECTION:topics-->
 
 <h3 align="left">Languages and Tools:</h3>
