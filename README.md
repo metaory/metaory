@@ -19,8 +19,8 @@
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#1](https://github.com/metaory/nvim/pull/1) in [metaory/nvim](https://github.com/metaory/nvim)
-2. 💪 Opened PR [#1](https://github.com/metaory/nvim/pull/1) in [metaory/nvim](https://github.com/metaory/nvim)
+1. 🎉 Merged PR [#1](https://github.com/metaory/public/pull/1) in [metaory/public](https://github.com/metaory/public)
+2. 🗣 Commented on [#1](https://github.com/metaory/public/pull/1#issuecomment-1911685542) in [metaory/public](https://github.com/metaory/public)
 3. 🎉 Merged PR [#1](https://github.com/metaory/ordit/pull/1) in [metaory/ordit](https://github.com/metaory/ordit)
 4. 💪 Opened PR [#1](https://github.com/metaory/ordit/pull/1) in [metaory/ordit](https://github.com/metaory/ordit)
 5. 💪 Opened PR [#10](https://github.com/sadoprotocol/ordit/pull/10) in [sadoprotocol/ordit](https://github.com/sadoprotocol/ordit)
