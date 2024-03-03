@@ -19,7 +19,7 @@
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#1](https://github.com/metaory/public/pull/1) in [metaory/public](https://github.com/metaory/public)
+1. 💪 Opened PR [#2961](https://github.com/nvim-telescope/telescope.nvim/pull/2961) in [nvim-telescope/telescope.nvim](https://github.com/nvim-telescope/telescope.nvim)
 2. 🗣 Commented on [#1](https://github.com/metaory/public/pull/1#issuecomment-1911685542) in [metaory/public](https://github.com/metaory/public)
 3. 🎉 Merged PR [#1](https://github.com/metaory/ordit/pull/1) in [metaory/ordit](https://github.com/metaory/ordit)
 4. 💪 Opened PR [#1](https://github.com/metaory/ordit/pull/1) in [metaory/ordit](https://github.com/metaory/ordit)
