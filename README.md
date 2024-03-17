@@ -49,18 +49,19 @@
 
 | Name  | Description | Stars | Language | Update |
 | ----- | ----------- | ----- | -------- | ------ |
-| [jsonresume-theme-meta](https://github.com/metaory/jsonresume-theme-meta) | yet another JSON Resume theme with live reload and docker | 7 | CSS | 9 months ago |
+| [jsonresume-theme-meta](https://github.com/metaory/jsonresume-theme-meta) | yet another JSON Resume theme with live reload and docker | 7 | CSS | 10 months ago |
 
 ### CHALLENGE
 
 | Name  | Description | Stars | Language | Update |
 | ----- | ----------- | ----- | -------- | ------ |
 | [advent-of-code](https://github.com/metaory/advent-of-code) | Advent Of Code Solutions (2021-2022) | 1 | JavaScript | 8 months ago |
+| [mail-delivery-trains-challenge](https://github.com/metaory/mail-delivery-trains-challenge) | autonomous mail delivery trains challenge | 1 | JavaScript | 8 months ago |
 | [meta-vanilla-web-component](https://github.com/metaory/meta-vanilla-web-component) | Vanilla JS Web Components Demo | 1 | HTML | 3 months ago |
 | [ace-demo](https://github.com/metaory/ace-demo) | Simple Amplify demo with API and Auth | 0 | Velocity Template Language | 3 months ago |
-| [meta-compose](https://github.com/metaory/meta-compose) | Pagination Fullstack POC | 0 | Vue | 22 months ago |
+| [meta-compose](https://github.com/metaory/meta-compose) | Pagination Fullstack POC | 0 | Vue | 23 months ago |
 | [meta-lemon-server](https://github.com/metaory/meta-lemon-server) | stream duplicate word finder | 0 | JavaScript | 22 months ago |
-| [meta-zd-node-server-poc](https://github.com/metaory/meta-zd-node-server-poc) | Zero Dependency Node Server Challenge | 0 | JavaScript | 61 months ago |
+| [meta-zd-node-server-poc](https://github.com/metaory/meta-zd-node-server-poc) | Zero Dependency Node Server Challenge | 0 | JavaScript | 62 months ago |
 | [phone-ext-poc](https://github.com/metaory/phone-ext-poc) | Dummy Phone Number Extension Finder | 0 | JavaScript | 28 months ago |
 | [poc-log-parser-cli](https://github.com/metaory/poc-log-parser-cli) | Simple Log Parser | 0 | TypeScript | 19 months ago |
 | [poc-payslip-cli](https://github.com/metaory/poc-payslip-cli) | Employee payslip for a flexible pay cycle | 0 | JavaScript | 20 months ago |
@@ -74,14 +75,14 @@
 | [mxcolr](https://github.com/metaory/mxcolr) | ヘ Generate, Preview and Apply beautiful unified human friendly pseudo random color schemes, SYSTEM WIDE! | 24 | Shell | 19 months ago |
 | [mxcolr-v2](https://github.com/metaory/mxcolr-v2) | [WIP] ヘ Generate, Preview and Apply beautiful unified human friendly pseudo random color schemes, SYSTEM WIDE! | 8 | Lua | 24 months ago |
 | [mxflow-cli](https://github.com/metaory/mxflow-cli) | :zap: A Beautiful, Friendly, General purpose CLI task runner | 8 | JavaScript | 6 months ago |
+| [xyank](https://github.com/metaory/xyank) | build, execute or pass standard input and arguments to clipboard | 2 | Shell | this month |
 | [confsubst](https://github.com/metaory/confsubst) | Templating and Variable Interpolation CLI Utility -- Substitutes Placeholders • Run Pre/Post Hooks • Self-contained Options with modeline like syntax | 1 | Shell | this month |
 | [fzf-launcher](https://github.com/metaory/fzf-launcher) | ヘ Fuzzy Fnd History / Apps with FZF in a Popup Terminal | 1 | Shell | 26 months ago |
 | [meta-deploy-cli](https://github.com/metaory/meta-deploy-cli) | Language Agnostic AWS ECS Deployment CLI | 1 | JavaScript | 14 months ago |
-| [mxcolr-js-cli](https://github.com/metaory/mxcolr-js-cli) | :construction::construction::construction: ヘ Generate, Preview and Apply beautiful unified human friendly pseudo random color schemes, SYSTEM WIDE! | 1 | JavaScript | 15 months ago |
+| [mxcolr-js-cli](https://github.com/metaory/mxcolr-js-cli) | :construction::construction::construction: ヘ Generate, Preview and Apply beautiful unified human friendly pseudo random color schemes, SYSTEM WIDE! | 1 | JavaScript | 16 months ago |
 | [mxcolr-lite](https://github.com/metaory/mxcolr-lite) | ヘ Tiny script to Generate pseudo random color schemes | 1 | Shell | 25 months ago |
 | [random-frame](https://github.com/metaory/random-frame) | picks a random frame from a dir of videos and copy it to destination path | 1 | Shell | 17 months ago |
-| [simple-backup](https://github.com/metaory/simple-backup) | A :sparkles: very very simple ( under 30 LoC ) backup and restore tool written in pure Bash | 1 | Shell | 11 months ago |
-| [xyank](https://github.com/metaory/xyank) | build, execute or pass standard input and arguments to clipboard | 1 | Shell | this month |
+| [xback](https://github.com/metaory/xback) | :sparkles: A tiny backup and restore script | 1 | Shell | 11 months ago |
 | [gwf](https://github.com/metaory/gwf) | GitHub Work Flow | 0 | Shell | 74 months ago |
 | [meta-aws-bastion-ssh](https://github.com/metaory/meta-aws-bastion-ssh) | AWS Bastion ssh cli | 0 | JavaScript | 25 months ago |
 | [meta-mount](https://github.com/metaory/meta-mount) | linux mounter | 0 | JavaScript | 25 months ago |
@@ -96,7 +97,7 @@
 
 | Name  | Description | Stars | Language | Update |
 | ----- | ----------- | ----- | -------- | ------ |
-| [simple-find-file-recursively-up](https://github.com/metaory/simple-find-file-recursively-up) | returns the path at which a provided pattern exists, checking the current directory and any parent folders recursively up | 1 | JavaScript | 10 months ago |
+| [simple-find-file-recursively-up](https://github.com/metaory/simple-find-file-recursively-up) | returns the path at which a provided pattern exists, checking the current directory and any parent folders recursively up | 1 | JavaScript | 11 months ago |
 | [uuidify](https://github.com/metaory/uuidify) | takes long string and return uuid format | 1 | JavaScript | 9 months ago |
 
 ### THEME
