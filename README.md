@@ -19,9 +19,9 @@
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#2961](https://github.com/nvim-telescope/telescope.nvim/pull/2961) in [nvim-telescope/telescope.nvim](https://github.com/nvim-telescope/telescope.nvim)
-2. 🗣 Commented on [#1](https://github.com/metaory/public/pull/1#issuecomment-1911685542) in [metaory/public](https://github.com/metaory/public)
-3. 🎉 Merged PR [#1](https://github.com/metaory/ordit/pull/1) in [metaory/ordit](https://github.com/metaory/ordit)
+1. 🗣 Commented on [#216](https://github.com/unjs/mkdist/issues/216#issuecomment-2078298405) in [unjs/mkdist](https://github.com/unjs/mkdist)
+2. 💪 Opened PR [#217](https://github.com/unjs/mkdist/pull/217) in [unjs/mkdist](https://github.com/unjs/mkdist)
+3. ❗ Opened issue [#216](https://github.com/unjs/mkdist/issues/216) in [unjs/mkdist](https://github.com/unjs/mkdist)
 4. 💪 Opened PR [#1](https://github.com/metaory/ordit/pull/1) in [metaory/ordit](https://github.com/metaory/ordit)
 5. 💪 Opened PR [#10](https://github.com/sadoprotocol/ordit/pull/10) in [sadoprotocol/ordit](https://github.com/sadoprotocol/ordit)
 <!--END_SECTION:activity-->
