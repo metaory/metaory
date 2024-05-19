@@ -49,21 +49,21 @@
 
 | Name  | Description | Stars | Language | Update |
 | ----- | ----------- | ----- | -------- | ------ |
-| [jsonresume-theme-meta](https://github.com/metaory/jsonresume-theme-meta) | yet another JSON Resume theme with live reload and docker | 7 | CSS | 11 months ago |
+| [jsonresume-theme-meta](https://github.com/metaory/jsonresume-theme-meta) | yet another JSON Resume theme with live reload and docker | 7 | CSS | 12 months ago |
 
 ### CHALLENGE
 
 | Name  | Description | Stars | Language | Update |
 | ----- | ----------- | ----- | -------- | ------ |
 | [advent-of-code](https://github.com/metaory/advent-of-code) | Advent Of Code Solutions (2021-2022) | 1 | JavaScript | 10 months ago |
-| [mail-delivery-trains-challenge](https://github.com/metaory/mail-delivery-trains-challenge) | autonomous mail delivery trains challenge | 1 | JavaScript | 9 months ago |
+| [mail-delivery-trains-challenge](https://github.com/metaory/mail-delivery-trains-challenge) | autonomous mail delivery trains challenge | 1 | JavaScript | 10 months ago |
 | [meta-vanilla-web-component](https://github.com/metaory/meta-vanilla-web-component) | Vanilla JS Web Components Demo | 1 | HTML | 5 months ago |
-| [ace-demo](https://github.com/metaory/ace-demo) | Simple Amplify demo with API and Auth | 0 | Velocity Template Language | 5 months ago |
-| [meta-compose](https://github.com/metaory/meta-compose) | Pagination Fullstack POC | 0 | Vue | 24 months ago |
+| [ace-demo](https://github.com/metaory/ace-demo) | Simple Amplify demo with API and Auth | 0 | Velocity Template Language | 6 months ago |
+| [meta-compose](https://github.com/metaory/meta-compose) | Pagination Fullstack POC | 0 | Vue | 25 months ago |
 | [meta-lemon-server](https://github.com/metaory/meta-lemon-server) | stream duplicate word finder | 0 | JavaScript | 24 months ago |
-| [meta-zd-node-server-poc](https://github.com/metaory/meta-zd-node-server-poc) | Zero Dependency Node Server Challenge | 0 | JavaScript | 63 months ago |
+| [meta-zd-node-server-poc](https://github.com/metaory/meta-zd-node-server-poc) | Zero Dependency Node Server Challenge | 0 | JavaScript | 64 months ago |
 | [phone-ext-poc](https://github.com/metaory/phone-ext-poc) | Dummy Phone Number Extension Finder | 0 | JavaScript | 30 months ago |
-| [poc-log-parser-cli](https://github.com/metaory/poc-log-parser-cli) | Simple Log Parser | 0 | TypeScript | 21 months ago |
+| [poc-log-parser-cli](https://github.com/metaory/poc-log-parser-cli) | Simple Log Parser | 0 | TypeScript | 22 months ago |
 | [poc-payslip-cli](https://github.com/metaory/poc-payslip-cli) | Employee payslip for a flexible pay cycle | 0 | JavaScript | 22 months ago |
 | [snake-cli-poc](https://github.com/metaory/snake-cli-poc) | cli snake grid challenge | 0 | JavaScript | 74 months ago |
 | [test-dupl](https://github.com/metaory/test-dupl) | CSV duplicate coding challenge | 0 | JavaScript | 61 months ago |
@@ -72,8 +72,8 @@
 
 | Name  | Description | Stars | Language | Update |
 | ----- | ----------- | ----- | -------- | ------ |
-| [mxcolr](https://github.com/metaory/mxcolr) | ヘ Generate, Preview and Apply beautiful unified human friendly pseudo random color schemes, SYSTEM WIDE! | 24 | Shell | 21 months ago |
-| [mxcolr-v2](https://github.com/metaory/mxcolr-v2) | [WIP] ヘ Generate, Preview and Apply beautiful unified human friendly pseudo random color schemes, SYSTEM WIDE! | 8 | Lua | 26 months ago |
+| [mxcolr](https://github.com/metaory/mxcolr) | ヘ Generate, Preview and Apply beautiful unified human friendly pseudo random color schemes, SYSTEM WIDE! | 24 | Shell | 22 months ago |
+| [mxcolr-v2](https://github.com/metaory/mxcolr-v2) | [WIP] ヘ Generate, Preview and Apply beautiful unified human friendly pseudo random color schemes, SYSTEM WIDE! | 9 | Lua | 26 months ago |
 | [mxflow-cli](https://github.com/metaory/mxflow-cli) | :zap: A Beautiful, Friendly, General purpose CLI task runner | 8 | JavaScript | 8 months ago |
 | [xico](https://github.com/metaory/xico) | 👻 xico - make images from unicode characters | 3 | Shell | last month |
 | [confsubst](https://github.com/metaory/confsubst) | Templating and Variable Interpolation CLI Utility -- Substitutes Placeholders • Run Pre/Post Hooks • Self-contained Options with modeline like syntax | 1 | Shell | last month |
@@ -85,20 +85,20 @@
 | [xback](https://github.com/metaory/xback) | :sparkles: A tiny backup and restore script | 1 | Shell | 13 months ago |
 | [xyank](https://github.com/metaory/xyank) | build, execute or pass standard input and arguments to clipboard | 1 | Shell | 2 months ago |
 | [gwf](https://github.com/metaory/gwf) | GitHub Work Flow | 0 | Shell | 76 months ago |
-| [meta-aws-bastion-ssh](https://github.com/metaory/meta-aws-bastion-ssh) | AWS Bastion ssh cli | 0 | JavaScript | 27 months ago |
-| [meta-mount](https://github.com/metaory/meta-mount) | linux mounter | 0 | JavaScript | 27 months ago |
+| [meta-aws-bastion-ssh](https://github.com/metaory/meta-aws-bastion-ssh) | AWS Bastion ssh cli | 0 | JavaScript | 28 months ago |
+| [meta-mount](https://github.com/metaory/meta-mount) | linux mounter | 0 | JavaScript | 28 months ago |
 
 ### GITHUB-ACTIONS
 
 | Name  | Description | Stars | Language | Update |
 | ----- | ----------- | ----- | -------- | ------ |
-| [github-readme-topics-action](https://github.com/metaory/github-readme-topics-action) | :pushpin: GitHub Action to update GitHub profile README.md with categorized repos based on their Topics | 5 | JavaScript | 9 months ago |
+| [github-readme-topics-action](https://github.com/metaory/github-readme-topics-action) | :pushpin: GitHub Action to update GitHub profile README.md with categorized repos based on their Topics | 5 | JavaScript | 10 months ago |
 
 ### NPM-PACKAGE
 
 | Name  | Description | Stars | Language | Update |
 | ----- | ----------- | ----- | -------- | ------ |
-| [simple-find-file-recursively-up](https://github.com/metaory/simple-find-file-recursively-up) | returns the path at which a provided pattern exists, checking the current directory and any parent folders recursively up | 1 | JavaScript | 12 months ago |
+| [simple-find-file-recursively-up](https://github.com/metaory/simple-find-file-recursively-up) | returns the path at which a provided pattern exists, checking the current directory and any parent folders recursively up | 1 | JavaScript | 13 months ago |
 | [uuidify](https://github.com/metaory/uuidify) | takes long string and return uuid format | 1 | JavaScript | 11 months ago |
 
 ### THEME
