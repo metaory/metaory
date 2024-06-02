@@ -19,8 +19,8 @@
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#216](https://github.com/unjs/mkdist/issues/216#issuecomment-2078298405) in [unjs/mkdist](https://github.com/unjs/mkdist)
-2. 💪 Opened PR [#217](https://github.com/unjs/mkdist/pull/217) in [unjs/mkdist](https://github.com/unjs/mkdist)
+1. 🎉 Merged PR [#31](https://github.com/metaory/mxflow-cli/pull/31) in [metaory/mxflow-cli](https://github.com/metaory/mxflow-cli)
+2. 🎉 Merged PR [#30](https://github.com/metaory/mxflow-cli/pull/30) in [metaory/mxflow-cli](https://github.com/metaory/mxflow-cli)
 3. ❗ Opened issue [#216](https://github.com/unjs/mkdist/issues/216) in [unjs/mkdist](https://github.com/unjs/mkdist)
 4. 💪 Opened PR [#1](https://github.com/metaory/ordit/pull/1) in [metaory/ordit](https://github.com/metaory/ordit)
 5. 💪 Opened PR [#10](https://github.com/sadoprotocol/ordit/pull/10) in [sadoprotocol/ordit](https://github.com/sadoprotocol/ordit)
