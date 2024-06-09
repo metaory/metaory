@@ -19,11 +19,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#31](https://github.com/metaory/mxflow-cli/pull/31) in [metaory/mxflow-cli](https://github.com/metaory/mxflow-cli)
-2. 🎉 Merged PR [#30](https://github.com/metaory/mxflow-cli/pull/30) in [metaory/mxflow-cli](https://github.com/metaory/mxflow-cli)
-3. ❗ Opened issue [#216](https://github.com/unjs/mkdist/issues/216) in [unjs/mkdist](https://github.com/unjs/mkdist)
-4. 💪 Opened PR [#1](https://github.com/metaory/ordit/pull/1) in [metaory/ordit](https://github.com/metaory/ordit)
-5. 💪 Opened PR [#10](https://github.com/sadoprotocol/ordit/pull/10) in [sadoprotocol/ordit](https://github.com/sadoprotocol/ordit)
+1. 🎉 Merged PR [#45](https://github.com/metaory/mxflow-cli/pull/45) in [metaory/mxflow-cli](https://github.com/metaory/mxflow-cli)
+2. 🎉 Merged PR [#44](https://github.com/metaory/mxflow-cli/pull/44) in [metaory/mxflow-cli](https://github.com/metaory/mxflow-cli)
+3. 🎉 Merged PR [#43](https://github.com/metaory/mxflow-cli/pull/43) in [metaory/mxflow-cli](https://github.com/metaory/mxflow-cli)
+4. 🎉 Merged PR [#35](https://github.com/metaory/mxflow-cli/pull/35) in [metaory/mxflow-cli](https://github.com/metaory/mxflow-cli)
+5. 🎉 Merged PR [#31](https://github.com/metaory/mxflow-cli/pull/31) in [metaory/mxflow-cli](https://github.com/metaory/mxflow-cli)
 <!--END_SECTION:activity-->
 
 <h3 align="left">Connect with me:</h3>
