@@ -43,7 +43,7 @@
 
 | Name  | Description | Stars | Language | Update |
 | ----- | ----------- | ----- | -------- | ------ |
-| [proxy-api-transformer](https://github.com/metaory/proxy-api-transformer) | Transform, Mutate, Wrap your existing APIs | 1 | JavaScript | 25 months ago |
+| [proxy-api-transformer](https://github.com/metaory/proxy-api-transformer) | Transform, Mutate, Wrap your existing APIs | 1 | JavaScript | 26 months ago |
 
 ### AUTOMATION
 
@@ -58,15 +58,14 @@
 | [advent-of-code](https://github.com/metaory/advent-of-code) | Advent Of Code Solutions (2021-2022) | 1 | JavaScript | 11 months ago |
 | [mail-delivery-trains-challenge](https://github.com/metaory/mail-delivery-trains-challenge) | autonomous mail delivery trains challenge | 1 | JavaScript | 10 months ago |
 | [meta-vanilla-web-component](https://github.com/metaory/meta-vanilla-web-component) | Vanilla JS Web Components Demo | 1 | HTML | 6 months ago |
-| [ace-demo](https://github.com/metaory/ace-demo) | Simple Amplify demo with API and Auth | 0 | Velocity Template Language | 6 months ago |
 | [meta-compose](https://github.com/metaory/meta-compose) | Pagination Fullstack POC | 0 | Vue | 25 months ago |
-| [meta-lemon-server](https://github.com/metaory/meta-lemon-server) | stream duplicate word finder | 0 | JavaScript | 24 months ago |
+| [meta-lemon-server](https://github.com/metaory/meta-lemon-server) | stream duplicate word finder | 0 | JavaScript | 25 months ago |
 | [meta-zd-node-server-poc](https://github.com/metaory/meta-zd-node-server-poc) | Zero Dependency Node Server Challenge | 0 | JavaScript | 64 months ago |
 | [phone-ext-poc](https://github.com/metaory/phone-ext-poc) | Dummy Phone Number Extension Finder | 0 | JavaScript | 31 months ago |
 | [poc-log-parser-cli](https://github.com/metaory/poc-log-parser-cli) | Simple Log Parser | 0 | TypeScript | 22 months ago |
 | [poc-payslip-cli](https://github.com/metaory/poc-payslip-cli) | Employee payslip for a flexible pay cycle | 0 | JavaScript | 23 months ago |
-| [snake-cli-poc](https://github.com/metaory/snake-cli-poc) | cli snake grid challenge | 0 | JavaScript | 74 months ago |
-| [test-dupl](https://github.com/metaory/test-dupl) | CSV duplicate coding challenge | 0 | JavaScript | 61 months ago |
+| [snake-cli-poc](https://github.com/metaory/snake-cli-poc) | cli snake grid challenge | 0 | JavaScript | 75 months ago |
+| [test-dupl](https://github.com/metaory/test-dupl) | CSV duplicate coding challenge | 0 | JavaScript | 62 months ago |
 
 ### CLI
 
@@ -75,7 +74,7 @@
 | [mxcolr](https://github.com/metaory/mxcolr) | ヘ Generate, Preview and Apply beautiful unified human friendly pseudo random color schemes, SYSTEM WIDE! | 25 | Shell | 22 months ago |
 | [mxcolr-v2](https://github.com/metaory/mxcolr-v2) | [WIP] ヘ Generate, Preview and Apply beautiful unified human friendly pseudo random color schemes, SYSTEM WIDE! | 9 | Lua | 27 months ago |
 | [mxflow-cli](https://github.com/metaory/mxflow-cli) | :zap: A Beautiful, Friendly, General purpose CLI task runner | 9 | JavaScript | this month |
-| [xico](https://github.com/metaory/xico) | 👻 xico - make icon from character or unicode glyph | 3 | Shell | this month |
+| [xico](https://github.com/metaory/xico) | ⪽⪾ simple cli to make png images from any Unicode glyph character 𐓷 | 3 | Shell | this month |
 | [confsubst](https://github.com/metaory/confsubst) | Templating and Variable Interpolation CLI Utility -- Substitutes Placeholders • Run Pre/Post Hooks • Self-contained Options with modeline like syntax | 1 | Shell | this month |
 | [fzf-launcher](https://github.com/metaory/fzf-launcher) | ヘ Fuzzy Fnd History / Apps with FZF in a Popup Terminal | 1 | Shell | 29 months ago |
 | [meta-deploy-cli](https://github.com/metaory/meta-deploy-cli) | Language Agnostic AWS ECS Deployment CLI | 1 | JavaScript | 17 months ago |
@@ -106,7 +105,7 @@
 | Name  | Description | Stars | Language | Update |
 | ----- | ----------- | ----- | -------- | ------ |
 | [xtmux](https://github.com/metaory/xtmux) | ▼ dark minimal tmux setup | 11 | Shell | this month |
-| [kitty-mxc](https://github.com/metaory/kitty-mxc) | Dark theme for kitty | 2 | null | 28 months ago |
+| [kitty-mxc](https://github.com/metaory/kitty-mxc) | Dark theme for kitty | 2 | null | 29 months ago |
 <!--END_SECTION:topics-->
 
 <h3 align="left">Languages and Tools:</h3>
