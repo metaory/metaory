@@ -19,11 +19,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#45](https://github.com/metaory/mxflow-cli/pull/45) in [metaory/mxflow-cli](https://github.com/metaory/mxflow-cli)
-2. 🎉 Merged PR [#44](https://github.com/metaory/mxflow-cli/pull/44) in [metaory/mxflow-cli](https://github.com/metaory/mxflow-cli)
-3. 🎉 Merged PR [#43](https://github.com/metaory/mxflow-cli/pull/43) in [metaory/mxflow-cli](https://github.com/metaory/mxflow-cli)
-4. 🎉 Merged PR [#35](https://github.com/metaory/mxflow-cli/pull/35) in [metaory/mxflow-cli](https://github.com/metaory/mxflow-cli)
-5. 🎉 Merged PR [#31](https://github.com/metaory/mxflow-cli/pull/31) in [metaory/mxflow-cli](https://github.com/metaory/mxflow-cli)
+1. 🎉 Merged PR [#2](https://github.com/metaory/pcall.js/pull/2) in [metaory/pcall.js](https://github.com/metaory/pcall.js)
+2. 🎉 Merged PR [#1](https://github.com/metaory/pcall.js/pull/1) in [metaory/pcall.js](https://github.com/metaory/pcall.js)
+3. 💪 Opened PR [#1](https://github.com/metaory/pcall.js/pull/1) in [metaory/pcall.js](https://github.com/metaory/pcall.js)
+4. 🎉 Merged PR [#52](https://github.com/metaory/mxflow-cli/pull/52) in [metaory/mxflow-cli](https://github.com/metaory/mxflow-cli)
+5. 🎉 Merged PR [#1](https://github.com/metaory/xfind/pull/1) in [metaory/xfind](https://github.com/metaory/xfind)
 <!--END_SECTION:activity-->
 
 <h3 align="left">Connect with me:</h3>
