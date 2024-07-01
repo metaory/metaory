@@ -77,11 +77,11 @@
 
 | Name  | Description | Stars | Language | Update |
 | ----- | ----------- | ----- | -------- | ------ |
-| [mxcolr](https://github.com/metaory/mxcolr) | ヘ Generate, Preview and Apply beautiful unified human friendly pseudo random color schemes, SYSTEM WIDE! | 25 | Shell | 23 months ago |
+| [mxcolr](https://github.com/metaory/mxcolr) | ヘ Generate, Preview and Apply beautiful unified human friendly pseudo random color schemes, SYSTEM WIDE! | 26 | Shell | 23 months ago |
 | [mxcolr-v2](https://github.com/metaory/mxcolr-v2) | [WIP] ヘ Generate, Preview and Apply beautiful unified human friendly pseudo random color schemes, SYSTEM WIDE! | 9 | Lua | 28 months ago |
 | [mxflow-cli](https://github.com/metaory/mxflow-cli) | :zap: A Beautiful, Friendly, General purpose CLI task runner | 9 | JavaScript | this month |
 | [confsubst](https://github.com/metaory/confsubst) | Templating and Variable Interpolation CLI Utility -- Substitutes Placeholders • Run Pre/Post Hooks • Self-contained Options with modeline like syntax | 1 | Shell | last month |
-| [fzf-launcher](https://github.com/metaory/fzf-launcher) | ヘ Fuzzy Fnd History / Apps with FZF in a Popup Terminal | 1 | Shell | 29 months ago |
+| [fzf-launcher](https://github.com/metaory/fzf-launcher) | ヘ Fuzzy Fnd History / Apps with FZF in a Popup Terminal | 1 | Shell | 30 months ago |
 | [meta-deploy-cli](https://github.com/metaory/meta-deploy-cli) | Language Agnostic AWS ECS Deployment CLI | 1 | JavaScript | 18 months ago |
 | [mxcolr-js-cli](https://github.com/metaory/mxcolr-js-cli) | :construction::construction::construction: ヘ Generate, Preview and Apply beautiful unified human friendly pseudo random color schemes, SYSTEM WIDE! | 1 | JavaScript | 19 months ago |
 | [mxcolr-lite](https://github.com/metaory/mxcolr-lite) | ヘ Tiny script to Generate pseudo random color schemes | 1 | Shell | 29 months ago |
@@ -111,6 +111,7 @@
 | ----- | ----------- | ----- | -------- | ------ |
 | [xtmux](https://github.com/metaory/xtmux) | ▼ dark minimal tmux setup | 11 | Shell | this month |
 | [kitty-mxc](https://github.com/metaory/kitty-mxc) | Dark theme for kitty | 2 | null | 29 months ago |
+| [hexocd-colorscheme](https://github.com/metaory/hexocd-colorscheme) | HEX OCD Colorscheme | 1 | Shell | this month |
 <!--END_SECTION:topics-->
 
 <h3 align="left">Languages and Tools:</h3>
