@@ -19,11 +19,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#2](https://github.com/metaory/pcall.js/pull/2) in [metaory/pcall.js](https://github.com/metaory/pcall.js)
-2. 🎉 Merged PR [#1](https://github.com/metaory/pcall.js/pull/1) in [metaory/pcall.js](https://github.com/metaory/pcall.js)
-3. 💪 Opened PR [#1](https://github.com/metaory/pcall.js/pull/1) in [metaory/pcall.js](https://github.com/metaory/pcall.js)
-4. 🎉 Merged PR [#52](https://github.com/metaory/mxflow-cli/pull/52) in [metaory/mxflow-cli](https://github.com/metaory/mxflow-cli)
-5. 🎉 Merged PR [#1](https://github.com/metaory/xfind/pull/1) in [metaory/xfind](https://github.com/metaory/xfind)
+1. 🎉 Merged PR [#8](https://github.com/metaory/aws-rekognition-demo/pull/8) in [metaory/aws-rekognition-demo](https://github.com/metaory/aws-rekognition-demo)
+2. 🎉 Merged PR [#5](https://github.com/metaory/aws-rekognition-demo/pull/5) in [metaory/aws-rekognition-demo](https://github.com/metaory/aws-rekognition-demo)
+3. 🎉 Merged PR [#4](https://github.com/metaory/aws-rekognition-demo/pull/4) in [metaory/aws-rekognition-demo](https://github.com/metaory/aws-rekognition-demo)
+4. 🎉 Merged PR [#6](https://github.com/metaory/aws-rekognition-demo/pull/6) in [metaory/aws-rekognition-demo](https://github.com/metaory/aws-rekognition-demo)
+5. 🎉 Merged PR [#7](https://github.com/metaory/aws-rekognition-demo/pull/7) in [metaory/aws-rekognition-demo](https://github.com/metaory/aws-rekognition-demo)
 <!--END_SECTION:activity-->
 
 <h3 align="left">Connect with me:</h3>
