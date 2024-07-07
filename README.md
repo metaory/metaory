@@ -55,7 +55,7 @@
 | [fc-dump](https://github.com/metaory/fc-dump) | 🔥 dump all literal characters of all code-points of one or all uniq fonts | 1 | Shell | this month |
 | [slack-emoji-util](https://github.com/metaory/slack-emoji-util) | Slack emoji-API utility functions | 1 | Shell | 4 months ago |
 | [xfind](https://github.com/metaory/xfind) | Find (F/D)  ❯  Filter (SK/FZF)  ❯  Preview(CHROMA/BAT/CAT] ❯  Edit($EDITOR) ❯ Repeat  ⮔ | 1 | Shell | this month |
-| [xsyn](https://github.com/metaory/xsyn) | 📑 get similar words with fix length | 1 | Shell | this month |
+| [xsyn](https://github.com/metaory/xsyn) | 📑 get similar words with fix length | 1 | Shell | last month |
 
 ### CHALLENGE
 
@@ -65,13 +65,13 @@
 | [mail-delivery-trains-challenge](https://github.com/metaory/mail-delivery-trains-challenge) | autonomous mail delivery trains challenge | 1 | JavaScript | 11 months ago |
 | [meta-vanilla-web-component](https://github.com/metaory/meta-vanilla-web-component) | Vanilla JS Web Components Demo | 1 | HTML | 7 months ago |
 | [meta-compose](https://github.com/metaory/meta-compose) | Pagination Fullstack POC | 0 | Vue | 26 months ago |
-| [meta-lemon-server](https://github.com/metaory/meta-lemon-server) | stream duplicate word finder | 0 | JavaScript | 25 months ago |
+| [meta-lemon-server](https://github.com/metaory/meta-lemon-server) | stream duplicate word finder | 0 | JavaScript | 26 months ago |
 | [meta-zd-node-server-poc](https://github.com/metaory/meta-zd-node-server-poc) | Zero Dependency Node Server Challenge | 0 | JavaScript | 65 months ago |
 | [phone-ext-poc](https://github.com/metaory/phone-ext-poc) | Dummy Phone Number Extension Finder | 0 | JavaScript | 32 months ago |
 | [poc-log-parser-cli](https://github.com/metaory/poc-log-parser-cli) | Simple Log Parser | 0 | TypeScript | 23 months ago |
 | [poc-payslip-cli](https://github.com/metaory/poc-payslip-cli) | Employee payslip for a flexible pay cycle | 0 | JavaScript | 24 months ago |
-| [snake-cli-poc](https://github.com/metaory/snake-cli-poc) | cli snake grid challenge | 0 | JavaScript | 75 months ago |
-| [test-dupl](https://github.com/metaory/test-dupl) | CSV duplicate coding challenge | 0 | JavaScript | 62 months ago |
+| [snake-cli-poc](https://github.com/metaory/snake-cli-poc) | cli snake grid challenge | 0 | JavaScript | 76 months ago |
+| [test-dupl](https://github.com/metaory/test-dupl) | CSV duplicate coding challenge | 0 | JavaScript | 63 months ago |
 
 ### CLI
 
@@ -101,7 +101,7 @@
 | Name  | Description | Stars | Language | Update |
 | ----- | ----------- | ----- | -------- | ------ |
 | [pcall.js](https://github.com/metaory/pcall.js) | ✱ Minimal Result/Monad like tuples for JS ── zero-dependency | 2 | JavaScript | this month |
-| [mini-ansi](https://github.com/metaory/mini-ansi) | 🎨 Minimal ANSI color escape utility in under 10 line! | 1 | JavaScript | this month |
+| [mini-ansi](https://github.com/metaory/mini-ansi) | 🎨 Minimal ANSI color escape utility in under 10 line! | 1 | JavaScript | last month |
 | [simple-find-file-recursively-up](https://github.com/metaory/simple-find-file-recursively-up) | returns the path at which a provided pattern exists, checking the current directory and any parent folders recursively up | 1 | JavaScript | 14 months ago |
 | [uuidify](https://github.com/metaory/uuidify) | takes long string and return uuid format | 1 | JavaScript | 13 months ago |
 
@@ -109,9 +109,9 @@
 
 | Name  | Description | Stars | Language | Update |
 | ----- | ----------- | ----- | -------- | ------ |
-| [xtmux](https://github.com/metaory/xtmux) | ▼ dark minimal tmux setup | 11 | Shell | this month |
-| [kitty-mxc](https://github.com/metaory/kitty-mxc) | Dark theme for kitty | 2 | null | 29 months ago |
-| [hexocd-colorscheme](https://github.com/metaory/hexocd-colorscheme) | HEX OCD Colorscheme | 1 | Shell | this month |
+| [xtmux](https://github.com/metaory/xtmux) | ▼ dark minimal tmux setup | 11 | Shell | last month |
+| [kitty-mxc](https://github.com/metaory/kitty-mxc) | Dark theme for kitty | 2 | null | 30 months ago |
+| [hexocd-colorscheme](https://github.com/metaory/hexocd-colorscheme) | HEX OCD Colorscheme | 1 | Shell | last month |
 <!--END_SECTION:topics-->
 
 <h3 align="left">Languages and Tools:</h3>
