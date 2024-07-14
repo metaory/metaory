@@ -19,11 +19,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#8](https://github.com/metaory/aws-rekognition-demo/pull/8) in [metaory/aws-rekognition-demo](https://github.com/metaory/aws-rekognition-demo)
-2. 🎉 Merged PR [#5](https://github.com/metaory/aws-rekognition-demo/pull/5) in [metaory/aws-rekognition-demo](https://github.com/metaory/aws-rekognition-demo)
-3. 🎉 Merged PR [#4](https://github.com/metaory/aws-rekognition-demo/pull/4) in [metaory/aws-rekognition-demo](https://github.com/metaory/aws-rekognition-demo)
-4. 🎉 Merged PR [#6](https://github.com/metaory/aws-rekognition-demo/pull/6) in [metaory/aws-rekognition-demo](https://github.com/metaory/aws-rekognition-demo)
-5. 🎉 Merged PR [#7](https://github.com/metaory/aws-rekognition-demo/pull/7) in [metaory/aws-rekognition-demo](https://github.com/metaory/aws-rekognition-demo)
+1. ❌ Closed PR [#36](https://github.com/numToStr/Navigator.nvim/pull/36) in [numToStr/Navigator.nvim](https://github.com/numToStr/Navigator.nvim)
+2. 💪 Opened PR [#36](https://github.com/numToStr/Navigator.nvim/pull/36) in [numToStr/Navigator.nvim](https://github.com/numToStr/Navigator.nvim)
+3. 🗣 Commented on [#75](https://github.com/maurodesouza/profile-readme-generator/pull/75#issuecomment-2212415066) in [maurodesouza/profile-readme-generator](https://github.com/maurodesouza/profile-readme-generator)
+4. 🎉 Merged PR [#8](https://github.com/metaory/aws-rekognition-demo/pull/8) in [metaory/aws-rekognition-demo](https://github.com/metaory/aws-rekognition-demo)
+5. 🎉 Merged PR [#5](https://github.com/metaory/aws-rekognition-demo/pull/5) in [metaory/aws-rekognition-demo](https://github.com/metaory/aws-rekognition-demo)
 <!--END_SECTION:activity-->
 
 <h3 align="left">Connect with me:</h3>
