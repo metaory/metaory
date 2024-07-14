@@ -43,18 +43,18 @@
 
 | Name  | Description | Stars | Language | Update |
 | ----- | ----------- | ----- | -------- | ------ |
-| [proxy-api-transformer](https://github.com/metaory/proxy-api-transformer) | Transform, Mutate, Wrap your existing APIs | 1 | JavaScript | 26 months ago |
+| [proxy-api-transformer](https://github.com/metaory/proxy-api-transformer) | Transform, Mutate, Wrap your existing APIs | 1 | JavaScript | 27 months ago |
 
 ### AUTOMATION
 
 | Name  | Description | Stars | Language | Update |
 | ----- | ----------- | ----- | -------- | ------ |
-| [jsonresume-theme-meta](https://github.com/metaory/jsonresume-theme-meta) | yet another JSON Resume theme with live reload and docker | 7 | CSS | 13 months ago |
-| [github-readme-topics-action](https://github.com/metaory/github-readme-topics-action) | :pushpin: GitHub Action to update GitHub profile README.md with categorized repos based on their Topics | 5 | JavaScript | this month |
+| [jsonresume-theme-meta](https://github.com/metaory/jsonresume-theme-meta) | yet another JSON Resume theme with live reload and docker | 7 | CSS | 14 months ago |
+| [github-readme-topics-action](https://github.com/metaory/github-readme-topics-action) | :pushpin: GitHub Action to update GitHub profile README.md with categorized repos based on their Topics | 5 | JavaScript | last month |
 | [xico](https://github.com/metaory/xico) | ⪽⪾ simple cli to make png images from any Unicode glyph character 𐓷 | 3 | XC | this month |
-| [fc-dump](https://github.com/metaory/fc-dump) | 🔥 dump all literal characters of all code-points of one or all uniq fonts | 1 | Shell | this month |
+| [fc-dump](https://github.com/metaory/fc-dump) | 🔥 dump all literal characters of all code-points of one or all uniq fonts | 1 | Shell | last month |
 | [slack-emoji-util](https://github.com/metaory/slack-emoji-util) | Slack emoji-API utility functions | 1 | Shell | 4 months ago |
-| [xfind](https://github.com/metaory/xfind) | Find (F/D)  ❯  Filter (SK/FZF)  ❯  Preview(CHROMA/BAT/CAT] ❯  Edit($EDITOR) ❯ Repeat  ⮔ | 1 | Shell | this month |
+| [xfind](https://github.com/metaory/xfind) | Find (F/D)  ❯  Filter (SK/FZF)  ❯  Preview(CHROMA/BAT/CAT] ❯  Edit($EDITOR) ❯ Repeat  ⮔ | 1 | Shell | last month |
 | [xsyn](https://github.com/metaory/xsyn) | 📑 get similar words with fix length | 1 | Shell | last month |
 
 ### CHALLENGE
@@ -62,11 +62,11 @@
 | Name  | Description | Stars | Language | Update |
 | ----- | ----------- | ----- | -------- | ------ |
 | [advent-of-code](https://github.com/metaory/advent-of-code) | Advent Of Code Solutions (2021-2022) | 1 | JavaScript | 12 months ago |
-| [mail-delivery-trains-challenge](https://github.com/metaory/mail-delivery-trains-challenge) | autonomous mail delivery trains challenge | 1 | JavaScript | 11 months ago |
+| [mail-delivery-trains-challenge](https://github.com/metaory/mail-delivery-trains-challenge) | autonomous mail delivery trains challenge | 1 | JavaScript | 12 months ago |
 | [meta-vanilla-web-component](https://github.com/metaory/meta-vanilla-web-component) | Vanilla JS Web Components Demo | 1 | HTML | 7 months ago |
-| [meta-compose](https://github.com/metaory/meta-compose) | Pagination Fullstack POC | 0 | Vue | 26 months ago |
+| [meta-compose](https://github.com/metaory/meta-compose) | Pagination Fullstack POC | 0 | Vue | 27 months ago |
 | [meta-lemon-server](https://github.com/metaory/meta-lemon-server) | stream duplicate word finder | 0 | JavaScript | 26 months ago |
-| [meta-zd-node-server-poc](https://github.com/metaory/meta-zd-node-server-poc) | Zero Dependency Node Server Challenge | 0 | JavaScript | 65 months ago |
+| [meta-zd-node-server-poc](https://github.com/metaory/meta-zd-node-server-poc) | Zero Dependency Node Server Challenge | 0 | JavaScript | 66 months ago |
 | [phone-ext-poc](https://github.com/metaory/phone-ext-poc) | Dummy Phone Number Extension Finder | 0 | JavaScript | 32 months ago |
 | [poc-log-parser-cli](https://github.com/metaory/poc-log-parser-cli) | Simple Log Parser | 0 | TypeScript | 23 months ago |
 | [poc-payslip-cli](https://github.com/metaory/poc-payslip-cli) | Employee payslip for a flexible pay cycle | 0 | JavaScript | 24 months ago |
@@ -79,11 +79,11 @@
 | ----- | ----------- | ----- | -------- | ------ |
 | [mxcolr](https://github.com/metaory/mxcolr) | ヘ Generate, Preview and Apply beautiful unified human friendly pseudo random color schemes, SYSTEM WIDE! | 26 | Shell | 23 months ago |
 | [mxcolr-v2](https://github.com/metaory/mxcolr-v2) | [WIP] ヘ Generate, Preview and Apply beautiful unified human friendly pseudo random color schemes, SYSTEM WIDE! | 9 | Lua | 28 months ago |
-| [mxflow-cli](https://github.com/metaory/mxflow-cli) | :zap: A Beautiful, Friendly, General purpose CLI task runner | 9 | JavaScript | this month |
+| [mxflow-cli](https://github.com/metaory/mxflow-cli) | :zap: A Beautiful, Friendly, General purpose CLI task runner | 9 | JavaScript | last month |
 | [confsubst](https://github.com/metaory/confsubst) | Templating and Variable Interpolation CLI Utility -- Substitutes Placeholders • Run Pre/Post Hooks • Self-contained Options with modeline like syntax | 1 | Shell | last month |
 | [fzf-launcher](https://github.com/metaory/fzf-launcher) | ヘ Fuzzy Fnd History / Apps with FZF in a Popup Terminal | 1 | Shell | 30 months ago |
 | [meta-deploy-cli](https://github.com/metaory/meta-deploy-cli) | Language Agnostic AWS ECS Deployment CLI | 1 | JavaScript | 18 months ago |
-| [mxcolr-js-cli](https://github.com/metaory/mxcolr-js-cli) | :construction::construction::construction: ヘ Generate, Preview and Apply beautiful unified human friendly pseudo random color schemes, SYSTEM WIDE! | 1 | JavaScript | 19 months ago |
+| [mxcolr-js-cli](https://github.com/metaory/mxcolr-js-cli) | :construction::construction::construction: ヘ Generate, Preview and Apply beautiful unified human friendly pseudo random color schemes, SYSTEM WIDE! | 1 | JavaScript | 20 months ago |
 | [mxcolr-lite](https://github.com/metaory/mxcolr-lite) | ヘ Tiny script to Generate pseudo random color schemes | 1 | Shell | 29 months ago |
 | [random-frame](https://github.com/metaory/random-frame) | picks a random frame from a dir of videos and copy it to destination path | 1 | Shell | 21 months ago |
 | [xback](https://github.com/metaory/xback) | :sparkles: A tiny backup and restore script | 1 | Shell | 15 months ago |
@@ -100,7 +100,7 @@
 
 | Name  | Description | Stars | Language | Update |
 | ----- | ----------- | ----- | -------- | ------ |
-| [pcall.js](https://github.com/metaory/pcall.js) | ✱ Minimal Result/Monad like tuples for JS ── zero-dependency | 2 | JavaScript | this month |
+| [pcall.js](https://github.com/metaory/pcall.js) | ✱ Minimal Result/Monad like tuples for JS ── zero-dependency | 2 | JavaScript | last month |
 | [mini-ansi](https://github.com/metaory/mini-ansi) | 🎨 Minimal ANSI color escape utility in under 10 line! | 1 | JavaScript | last month |
 | [simple-find-file-recursively-up](https://github.com/metaory/simple-find-file-recursively-up) | returns the path at which a provided pattern exists, checking the current directory and any parent folders recursively up | 1 | JavaScript | 14 months ago |
 | [uuidify](https://github.com/metaory/uuidify) | takes long string and return uuid format | 1 | JavaScript | 13 months ago |
@@ -109,9 +109,9 @@
 
 | Name  | Description | Stars | Language | Update |
 | ----- | ----------- | ----- | -------- | ------ |
-| [xtmux](https://github.com/metaory/xtmux) | ▼ dark minimal tmux setup | 11 | Shell | last month |
+| [xtmux](https://github.com/metaory/xtmux) | ▼ dark minimal tmux setup | 11 | Shell | this month |
 | [kitty-mxc](https://github.com/metaory/kitty-mxc) | Dark theme for kitty | 2 | null | 30 months ago |
-| [hexocd-colorscheme](https://github.com/metaory/hexocd-colorscheme) | HEX OCD Colorscheme | 1 | Shell | last month |
+| [hexocd-colorscheme](https://github.com/metaory/hexocd-colorscheme) | HEX OCD Colorscheme | 1 | Shell | this month |
 <!--END_SECTION:topics-->
 
 <h3 align="left">Languages and Tools:</h3>
