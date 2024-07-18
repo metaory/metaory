@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm metaory</h1>
-<h3 align="center">❤️ Neovim:Tmux:ZSH:Alacritty:AwesomeWM:LightDM:X11:Arch </h3>
+<h4 align="center">❤️ Neovim:Tmux:ZSH:Alacritty:AwesomeWM:LightDM:X11:Arch </h4>
 <p align="center">
   <img src ="https://github-readme-stats.vercel.app/api?username=metaory&show_icons=true&count_private=true&theme=synthwave&hide_border=true&bg_color=00000000&hide_rank=true">
   <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=metaory&layout=compact&hide_border=true&theme=synthwave&bg_color=00000000&langs_count=8">
