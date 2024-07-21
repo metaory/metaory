@@ -19,11 +19,11 @@
 
 <!--START_SECTION:activity-->
 
-1. ❌ Closed PR [#36](https://github.com/numToStr/Navigator.nvim/pull/36) in [numToStr/Navigator.nvim](https://github.com/numToStr/Navigator.nvim)
-2. 💪 Opened PR [#36](https://github.com/numToStr/Navigator.nvim/pull/36) in [numToStr/Navigator.nvim](https://github.com/numToStr/Navigator.nvim)
-3. 🗣 Commented on [#75](https://github.com/maurodesouza/profile-readme-generator/pull/75#issuecomment-2212415066) in [maurodesouza/profile-readme-generator](https://github.com/maurodesouza/profile-readme-generator)
-4. 🎉 Merged PR [#8](https://github.com/metaory/aws-rekognition-demo/pull/8) in [metaory/aws-rekognition-demo](https://github.com/metaory/aws-rekognition-demo)
-5. 🎉 Merged PR [#5](https://github.com/metaory/aws-rekognition-demo/pull/5) in [metaory/aws-rekognition-demo](https://github.com/metaory/aws-rekognition-demo)
+1. ❌ Closed PR [#74](https://github.com/maurodesouza/profile-readme-generator/pull/74) in [maurodesouza/profile-readme-generator](https://github.com/maurodesouza/profile-readme-generator)
+2. 🗣 Commented on [#74](https://github.com/maurodesouza/profile-readme-generator/pull/74#issuecomment-2239491618) in [maurodesouza/profile-readme-generator](https://github.com/maurodesouza/profile-readme-generator)
+3. 🗣 Commented on [#66](https://github.com/maurodesouza/profile-readme-generator/issues/66#issuecomment-2239491049) in [maurodesouza/profile-readme-generator](https://github.com/maurodesouza/profile-readme-generator)
+4. 🗣 Commented on [#46](https://github.com/maurodesouza/profile-readme-generator/issues/46#issuecomment-2239490477) in [maurodesouza/profile-readme-generator](https://github.com/maurodesouza/profile-readme-generator)
+5. 🗣 Commented on [#1](https://github.com/sontungexpt/ldoc-css-styles/issues/1#issuecomment-2234066088) in [sontungexpt/ldoc-css-styles](https://github.com/sontungexpt/ldoc-css-styles)
 <!--END_SECTION:activity-->
 
 <h3 align="left">Connect with me:</h3>
