@@ -65,8 +65,8 @@
 | [meta-vanilla-web-component](https://github.com/metaory/meta-vanilla-web-component) | Vanilla JS Web Components Demo | 1 | HTML | 8 months ago |
 | [phone-ext-poc](https://github.com/metaory/phone-ext-poc) | Dummy Phone Number Extension Finder | 0 | JavaScript | 33 months ago |
 | [poc-log-parser-cli](https://github.com/metaory/poc-log-parser-cli) | Simple Log Parser | 0 | TypeScript | 24 months ago |
-| [poc-payslip-cli](https://github.com/metaory/poc-payslip-cli) | Employee payslip for a flexible pay cycle | 0 | JavaScript | 24 months ago |
-| [snake-cli-poc](https://github.com/metaory/snake-cli-poc) | cli snake grid challenge | 0 | JavaScript | 76 months ago |
+| [poc-payslip-cli](https://github.com/metaory/poc-payslip-cli) | Employee payslip for a flexible pay cycle | 0 | JavaScript | 25 months ago |
+| [snake-cli-poc](https://github.com/metaory/snake-cli-poc) | cli snake grid challenge | 0 | JavaScript | 77 months ago |
 
 ### CLI
 
@@ -76,11 +76,11 @@
 | [mxcolr-v2](https://github.com/metaory/mxcolr-v2) | [WIP] ヘ Generate, Preview and Apply beautiful unified human friendly pseudo random color schemes, SYSTEM WIDE! | 9 | Lua | 29 months ago |
 | [mxflow-cli](https://github.com/metaory/mxflow-cli) | :zap: A Beautiful, Friendly, General purpose CLI task runner | 9 | JavaScript | this month |
 | [confsubst](https://github.com/metaory/confsubst) | Templating and Variable Interpolation CLI Utility -- Substitutes Placeholders • Run Pre/Post Hooks • Self-contained Options with modeline like syntax | 1 | Shell | this month |
-| [fzf-launcher](https://github.com/metaory/fzf-launcher) | ヘ Fuzzy Fnd History / Apps with FZF in a Popup Terminal | 1 | Shell | 30 months ago |
+| [fzf-launcher](https://github.com/metaory/fzf-launcher) | ヘ Fuzzy Fnd History / Apps with FZF in a Popup Terminal | 1 | Shell | 31 months ago |
 | [meta-deploy-cli](https://github.com/metaory/meta-deploy-cli) | Language Agnostic AWS ECS Deployment CLI | 1 | JavaScript | 19 months ago |
 | [mxcolr-js-cli](https://github.com/metaory/mxcolr-js-cli) | :construction::construction::construction: ヘ Generate, Preview and Apply beautiful unified human friendly pseudo random color schemes, SYSTEM WIDE! | 1 | JavaScript | 20 months ago |
 | [mxcolr-lite](https://github.com/metaory/mxcolr-lite) | ヘ Tiny script to Generate pseudo random color schemes | 1 | Shell | 30 months ago |
-| [random-frame](https://github.com/metaory/random-frame) | picks a random frame from a dir of videos and copy it to destination path | 1 | Shell | 21 months ago |
+| [random-frame](https://github.com/metaory/random-frame) | picks a random frame from a dir of videos and copy it to destination path | 1 | Shell | 22 months ago |
 | [xback](https://github.com/metaory/xback) | :sparkles: A tiny backup and restore script | 1 | Shell | 16 months ago |
 | [xwatch](https://github.com/metaory/xwatch) | xwatch - execute a program on filesystem events | 1 | Shell | 5 months ago |
 | [xyank](https://github.com/metaory/xyank) | build, execute or pass standard input and arguments to clipboard | 1 | Shell | 5 months ago |
@@ -95,18 +95,18 @@
 
 | Name  | Description | Stars | Language | Update |
 | ----- | ----------- | ----- | -------- | ------ |
-| [pcall.js](https://github.com/metaory/pcall.js) | ✱ Minimal Result/Monad like tuples for JS ── zero-dependency | 2 | JavaScript | last month |
-| [mini-ansi](https://github.com/metaory/mini-ansi) | 🎨 Minimal ANSI color escape utility in under 10 line! | 1 | JavaScript | last month |
+| [pcall.js](https://github.com/metaory/pcall.js) | ✱ Minimal Result/Monad like tuples for JS ── zero-dependency | 2 | JavaScript | this month |
+| [mini-ansi](https://github.com/metaory/mini-ansi) | 🎨 Minimal ANSI color escape utility in under 10 line! | 1 | JavaScript | 2 months ago |
 | [simple-find-file-recursively-up](https://github.com/metaory/simple-find-file-recursively-up) | returns the path at which a provided pattern exists, checking the current directory and any parent folders recursively up | 1 | JavaScript | 15 months ago |
-| [uuidify](https://github.com/metaory/uuidify) | takes long string and return uuid format | 1 | JavaScript | 13 months ago |
+| [uuidify](https://github.com/metaory/uuidify) | takes long string and return uuid format | 1 | JavaScript | 14 months ago |
 
 ### THEME
 
 | Name  | Description | Stars | Language | Update |
 | ----- | ----------- | ----- | -------- | ------ |
-| [xtmux](https://github.com/metaory/xtmux) | ▼ dark minimal tmux setup | 11 | Shell | last month |
-| [kitty-mxc](https://github.com/metaory/kitty-mxc) | Dark theme for kitty | 2 | null | 30 months ago |
-| [hexocd-colorscheme](https://github.com/metaory/hexocd-colorscheme) | HEX OCD Colorscheme | 1 | Shell | this month |
+| [xtmux](https://github.com/metaory/xtmux) | ▼ dark minimal tmux setup | 11 | Shell | this month |
+| [hexocd-colorscheme](https://github.com/metaory/hexocd-colorscheme) | HEX OCD Colorscheme | 2 | Shell | this month |
+| [kitty-mxc](https://github.com/metaory/kitty-mxc) | Dark theme for kitty | 2 | null | 31 months ago |
 <!--END_SECTION:topics-->
 
 <h3 align="left">Languages and Tools:</h3>
