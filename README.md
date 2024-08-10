@@ -1,13 +1,12 @@
-
 <div align="center">
-  <img width="400" src="https://github.com/metaory/metaory/blob/master/.github/assets/mxc.png?raw=true"  />
+<img src="https://raw.githubusercontent.com/metaory/metaory/master/.github/assets/mxc.png"  />
+
 </div>
 <div align="center">
-  <img width="30%" src="https://github.com/metaory/metaory/blob/master/.github/assets/hr1.png?raw=true"  />
+  		<img width="30%" src="https://raw.githubusercontent.com/metaory/metaory/master/.github/assets/hr2.png?raw=true"  />
 </div>
-
 <div align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=metaory&ring_color=5522CC&bg_color=45,110022,110022,110022,110011,100010,000000&text_color=44BBFF&border_radius=30&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&locale=en&hide_border=true"  alt="stats graph" />
+<img height="150" src="https://github-readme-stats.vercel.app/api?username=metaory&ring_color=5522CC&bg_color=45,110022,110022,110022,110011,100010,000000&text_color=44BBFF&border_radius=30&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&locale=en&hide_border=true"  alt="stats graph" /> 
 
 <img	alt="current_streak"
 		height="110"
@@ -21,187 +20,273 @@
 		height="110"
 		src="https://streak-stats.demolab.com?background=10,110033,110022,000000&border_radius=30&dates=8866EE&hide_border=true&fire=1177DD&currStreakLabel=1177DD&ring=5522CC&mode=weekly&currStreakNum=FF0044&excludeDaysLabel=EB5454&sideLabels=1177DD&stroke=5522CC94&sideNums=44BBFF&theme=dark-minimalist&user=metaory&card_width=200&hide_current_streak=true&hide_longest_streak=true&"
 	/>
-</div>
 
-<div align="center">
-  <img width="40%" src="https://github.com/metaory/metaory/blob/master/.github/assets/hr2.png?raw=true"  />
 </div>
+<div align="center">
+  		<img width="20%" src="https://raw.githubusercontent.com/metaory/metaory/master/.github/assets/hr2.png?raw=true"  />
+</div>
+<div align="center">
+<h4>stuff I occasionally use and aspire</h4>
+<img src="https://cdn.simpleicons.org/c?viewbox=auto" height="20" />
+<img src="https://cdn.simpleicons.org/cmake?viewbox=auto" height="20" />
+<img src="https://cdn.simpleicons.org/cplusplus?viewbox=auto" height="20" />
+<img src="https://cdn.simpleicons.org/framework7?viewbox=auto" height="20" />
+<img src="https://cdn.simpleicons.org/kubernetes?viewbox=auto" height="20" />
+<img src="https://cdn.simpleicons.org/leptos?viewbox=auto" height="20" />
+<img src="https://cdn.simpleicons.org/hyperland?viewbox=auto" height="20" />
+<img src="https://cdn.simpleicons.org/creativecommons?viewbox=auto" height="20" />
+<img src="https://cdn.simpleicons.org/adventofcode?viewbox=auto" height="20" />
+<img src="https://cdn.simpleicons.org/k3s?viewbox=auto" height="20" />
+<img src="https://cdn.simpleicons.org/elixir?viewbox=auto" height="20" />
+<img src="https://cdn.simpleicons.org/erlang?viewbox=auto" height="20" />
+<img src="https://cdn.simpleicons.org/gnu?viewbox=auto" height="20" />
+<img src="https://cdn.simpleicons.org/houdini?viewbox=auto" height="20" />
+<img src="https://cdn.simpleicons.org/htmx?viewbox=auto" height="20" />
+<img src="https://cdn.simpleicons.org/libuv?viewbox=auto" height="20" />
+<img src="https://cdn.simpleicons.org/crunchbase?viewbox=auto" height="20" />
+<img src="https://cdn.simpleicons.org/linuxfoundation?viewbox=auto" height="20" />
+<img src="https://cdn.simpleicons.org/llvm?viewbox=auto" height="20" />
+<img src="https://cdn.simpleicons.org/mapbox?viewbox=auto" height="20" />
+<img src="https://cdn.simpleicons.org/ocaml?viewbox=auto" height="20" />
+<img src="https://cdn.simpleicons.org/opel?viewbox=auto" height="20" />
+<img src="https://cdn.simpleicons.org/opencollective?viewbox=auto" height="20" />
+<img src="https://cdn.simpleicons.org/openfaas?viewbox=auto" height="20" />
+<img src="https://cdn.simpleicons.org/opengl?viewbox=auto" height="20" />
+<img src="https://cdn.simpleicons.org/openid?viewbox=auto" height="20" />
+<img src="https://cdn.simpleicons.org/openjsfoundation?viewbox=auto" height="20" />
+<img src="https://cdn.simpleicons.org/openssl?viewbox=auto" height="20" />
+<img src="https://cdn.simpleicons.org/prometheus?viewbox=auto" height="20" />
+<img src="https://cdn.simpleicons.org/redis?viewbox=auto" height="20" />
+<img src="https://cdn.simpleicons.org/rust?viewbox=auto" height="20" />
+<img src="https://cdn.simpleicons.org/snowflake?viewbox=auto" height="20" />
+<img src="https://cdn.simpleicons.org/spacex?viewbox=auto" height="20" />
+<img src="https://cdn.simpleicons.org/steam?viewbox=auto" height="20" />
+<img src="https://cdn.simpleicons.org/steamdb?viewbox=auto" height="20" />
+<img src="https://cdn.simpleicons.org/trivy?viewbox=auto" height="20" />
+<img src="https://cdn.simpleicons.org/turso?viewbox=auto" height="20" />
+<img src="https://cdn.simpleicons.org/v8?viewbox=auto" height="20" />
+<img src="https://cdn.simpleicons.org/valve?viewbox=auto" height="20" />
+<img src="https://cdn.simpleicons.org/webassembly?viewbox=auto" height="20" />
+<img src="https://cdn.simpleicons.org/zig?viewbox=auto" height="20" />
 
-<div align="center">
-<h4>stuff I still can tolerate</h4>
 </div>
+<div align="center">
+  		<img width="40%" src="https://raw.githubusercontent.com/metaory/metaory/master/.github/assets/hr2.png?raw=true"  />
+</div>
+<div align="center">
+<h4>stuff I regularly use</h4>
+<img src="https://cdn.simpleicons.org/alacritty?viewbox=auto" height="20" />
+<img src="https://cdn.simpleicons.org/elastic?viewbox=auto" height="20" />
+<img src="https://cdn.simpleicons.org/gitter?viewbox=auto" height="20" />
+<img src="https://cdn.simpleicons.org/awesomewm?viewbox=auto" height="20" />
+<img src="https://cdn.simpleicons.org/caldotcom?viewbox=auto" height="20" />
+<img src="https://cdn.simpleicons.org/alpinelinux?viewbox=auto" height="20" />
+<img src="https://cdn.simpleicons.org/authy?viewbox=auto" height="20" />
+<img src="https://cdn.simpleicons.org/archlinux?viewbox=auto" height="20" />
+<img src="https://cdn.simpleicons.org/asciidoctor?viewbox=auto" height="20" />
+<img src="https://cdn.simpleicons.org/dotenv?viewbox=auto" height="20" />
+<img src="https://cdn.simpleicons.org/koa?viewbox=auto" height="20" />
+<img src="https://cdn.simpleicons.org/giphy?viewbox=auto" height="20" />
+<img src="https://cdn.simpleicons.org/githubpages?viewbox=auto" height="20" />
+<img src="https://cdn.simpleicons.org/gitter?viewbox=auto" height="20" />
+<img src="https://cdn.simpleicons.org/gimp?viewbox=auto" height="20" />
+<img src="https://cdn.simpleicons.org/cssmodules?viewbox=auto" height="20" />
+<img src="https://cdn.simpleicons.org/curl?viewbox=auto" height="20" />
+<img src="https://cdn.simpleicons.org/githubactions?viewbox=auto" height="20" />
+<img src="https://cdn.simpleicons.org/darkreader?viewbox=auto" height="20" />
+<img src="https://cdn.simpleicons.org/asciinema?viewbox=auto" height="20" />
+<img src="https://cdn.simpleicons.org/gravatar?viewbox=auto" height="20" />
+<img src="https://cdn.simpleicons.org/headlessui?viewbox=auto" height="20" />
+<img src="https://cdn.simpleicons.org/astro?viewbox=auto" height="20" />
+<img src="https://cdn.simpleicons.org/biome?viewbox=auto" height="20" />
+<img src="https://cdn.simpleicons.org/fastapi?viewbox=auto" height="20" />
+<img src="https://cdn.simpleicons.org/lightning?viewbox=auto" height="20" />
+<img src="https://cdn.simpleicons.org/linear?viewbox=auto" height="20" />
+<img src="https://cdn.simpleicons.org/bun?viewbox=auto" height="20" />
+<img src="https://cdn.simpleicons.org/fontbase?viewbox=auto" height="20" />
+<img src="https://cdn.simpleicons.org/deno?viewbox=auto" height="20" />
+<img src="https://cdn.simpleicons.org/docusaurus?viewbox=auto" height="20" />
+<img src="https://cdn.simpleicons.org/elasticsearch?viewbox=auto" height="20" />
+<img src="https://cdn.simpleicons.org/letsencrypt?viewbox=auto" height="20" />
+<img src="https://cdn.simpleicons.org/envoyproxy?viewbox=auto" height="20" />
+<img src="https://cdn.simpleicons.org/excalidraw?viewbox=auto" height="20" />
+<img src="https://cdn.simpleicons.org/ffmpeg?viewbox=auto" height="20" />
+<img src="https://cdn.simpleicons.org/git?viewbox=auto" height="20" />
+<img src="https://cdn.simpleicons.org/github?viewbox=auto" height="20" />
+<img src="https://cdn.simpleicons.org/gitkraken?viewbox=auto" height="20" />
+<img src="https://cdn.simpleicons.org/gnubash?viewbox=auto" height="20" />
+<img src="https://cdn.simpleicons.org/go?viewbox=auto" height="20" />
+<img src="https://cdn.simpleicons.org/graphite?viewbox=auto" height="20" />
+<img src="https://cdn.simpleicons.org/hoppscotch?viewbox=auto" height="20" />
+<img src="https://cdn.simpleicons.org/dota2?viewbox=auto" height="20" />
+<img src="https://cdn.simpleicons.org/docker?viewbox=auto" height="20" />
+<img src="https://cdn.simpleicons.org/hotjar?viewbox=auto" height="20" />
+<img src="https://cdn.simpleicons.org/drizzle?viewbox=auto" height="20" />
+<img src="https://cdn.simpleicons.org/devrant?viewbox=auto" height="20" />
+<img src="https://cdn.simpleicons.org/duckduckgo?viewbox=auto" height="20" />
+<img src="https://cdn.simpleicons.org/iconify?viewbox=auto" height="20" />
+<img src="https://cdn.simpleicons.org/ifttt?viewbox=auto" height="20" />
+<img src="https://cdn.simpleicons.org/inkscape?viewbox=auto" height="20" />
+<img src="https://cdn.simpleicons.org/javascript?viewbox=auto" height="20" />
+<img src="https://cdn.simpleicons.org/jsonwebtokens?viewbox=auto" height="20" />
+<img src="https://cdn.simpleicons.org/jsr?viewbox=auto" height="20" />
+<img src="https://cdn.simpleicons.org/knowledgebase?viewbox=auto" height="20" />
+<img src="https://cdn.simpleicons.org/less?viewbox=auto" height="20" />
+<img src="https://cdn.simpleicons.org/libreoffice?viewbox=auto" height="20" />
+<img src="https://cdn.simpleicons.org/linux?viewbox=auto" height="20" />
+<img src="https://cdn.simpleicons.org/linuxcontainers?viewbox=auto" height="20" />
+<img src="https://cdn.simpleicons.org/linuxserver?viewbox=auto" height="20" />
+<img src="https://cdn.simpleicons.org/commitlint?viewbox=auto" height="20" />
+<img src="https://cdn.simpleicons.org/logseq?viewbox=auto" height="20" />
+<img src="https://cdn.simpleicons.org/loom?viewbox=auto" height="20" />
+<img src="https://cdn.simpleicons.org/lua?viewbox=auto" height="20" />
+<img src="https://cdn.simpleicons.org/make?viewbox=auto" height="20" />
+<img src="https://cdn.simpleicons.org/man?viewbox=auto" height="20" />
+<img src="https://cdn.simpleicons.org/meta?viewbox=auto" height="20" />
+<img src="https://cdn.simpleicons.org/microstrategy?viewbox=auto" height="20" />
+<img src="https://cdn.simpleicons.org/miro?viewbox=auto" height="20" />
+<img src="https://cdn.simpleicons.org/mpv?viewbox=auto" height="20" />
+<img src="https://cdn.simpleicons.org/neovim?viewbox=auto" height="20" />
+<img src="https://cdn.simpleicons.org/nixos?viewbox=auto" height="20" />
+<img src="https://cdn.simpleicons.org/notion?viewbox=auto" height="20" />
+<img src="https://cdn.simpleicons.org/npm?viewbox=auto" height="20" />
+<img src="https://cdn.simpleicons.org/obsidian?viewbox=auto" height="20" />
+<img src="https://cdn.simpleicons.org/postgresql?viewbox=auto" height="20" />
+<img src="https://cdn.simpleicons.org/prettier?viewbox=auto" height="20" />
+<img src="https://cdn.simpleicons.org/puppeteer?viewbox=auto" height="20" />
+<img src="https://cdn.simpleicons.org/qmk?viewbox=auto" height="20" />
+<img src="https://cdn.simpleicons.org/readme?viewbox=auto" height="20" />
+<img src="https://cdn.simpleicons.org/runkit?viewbox=auto" height="20" />
+<img src="https://cdn.simpleicons.org/semver?viewbox=auto" height="20" />
+<img src="https://cdn.simpleicons.org/sentry?viewbox=auto" height="20" />
+<img src="https://cdn.simpleicons.org/shell?viewbox=auto" height="20" />
+<img src="https://cdn.simpleicons.org/stencil?viewbox=auto" height="20" />
+<img src="https://cdn.simpleicons.org/lucia?viewbox=auto" height="20" />
+<img src="https://cdn.simpleicons.org/suckless?viewbox=auto" height="20" />
+<img src="https://cdn.simpleicons.org/svelte?viewbox=auto" height="20" />
+<img src="https://cdn.simpleicons.org/svg?viewbox=auto" height="20" />
+<img src="https://cdn.simpleicons.org/tails?viewbox=auto" height="20" />
+<img src="https://cdn.simpleicons.org/tmux?viewbox=auto" height="20" />
+<img src="https://cdn.simpleicons.org/travisci?viewbox=auto" height="20" />
+<img src="https://cdn.simpleicons.org/tui?viewbox=auto" height="20" />
+<img src="https://cdn.simpleicons.org/unicode?viewbox=auto" height="20" />
+<img src="https://cdn.simpleicons.org/wezterm?viewbox=auto" height="20" />
+<img src="https://cdn.simpleicons.org/yaml?viewbox=auto" height="20" />
+<img src="https://cdn.simpleicons.org/zsh?viewbox=auto" height="20" />
+<img src="https://cdn.simpleicons.org/excalidraw?viewbox=auto" height="20" />
+<img src="https://cdn.simpleicons.org/brave?viewbox=auto" height="20" />
+<img src="https://cdn.simpleicons.org/markdown?viewbox=auto" height="20" />
+<img src="https://cdn.simpleicons.org/lit?viewbox=auto" height="20" />
+<img src="https://cdn.simpleicons.org/css3?viewbox=auto" height="20" />
+<img src="https://cdn.simpleicons.org/gtk?viewbox=auto" height="20" />
+<img src="https://cdn.simpleicons.org/cloudflarepages?viewbox=auto" height="20" />
 
-<div align="center">
-<img src="https://cdn.simpleicons.org/alacritty" height="30" />
-<img src="https://cdn.simpleicons.org/alpinelinux" height="30" />
-<img src="https://cdn.simpleicons.org/amazon" height="30" />
-<img src="https://cdn.simpleicons.org/amazonapigateway" height="30" />
-<img src="https://cdn.simpleicons.org/amazoncloudwatch" height="30" />
-<img src="https://cdn.simpleicons.org/amazoncognito" height="30" />
-<img src="https://cdn.simpleicons.org/amazondocumentdb" height="30" />
-<img src="https://cdn.simpleicons.org/amazondynamodb" height="30" />
-<img src="https://cdn.simpleicons.org/amazonec2" height="30" />
-<img src="https://cdn.simpleicons.org/amazonecs" height="30" />
-<img src="https://cdn.simpleicons.org/amazoneks" height="30" />
-<img src="https://cdn.simpleicons.org/amazonelasticache" height="30" />
-<img src="https://cdn.simpleicons.org/amazoniam" height="30" />
-<img src="https://cdn.simpleicons.org/amazonroute53" height="30" />
-<img src="https://cdn.simpleicons.org/amazons3" height="30" />
-<img src="https://cdn.simpleicons.org/amazonsimpleemailservice" height="30" />
-<img src="https://cdn.simpleicons.org/amazonsqs" height="30" />
-<img src="https://cdn.simpleicons.org/amazonwebservices" height="30" />
-<img src="https://cdn.simpleicons.org/archlinux" height="30" />
-<img src="https://cdn.simpleicons.org/asciinema" height="30" />
-<img src="https://cdn.simpleicons.org/astro" height="30" />
-<img src="https://cdn.simpleicons.org/awslambda" height="30" />
-<img src="https://cdn.simpleicons.org/awsorganizations" height="30" />
-<img src="https://cdn.simpleicons.org/awssecretsmanager" height="30" />
-<img src="https://cdn.simpleicons.org/backbonedotjs" height="30" />
-<img src="https://cdn.simpleicons.org/biome" height="30" />
-<img src="https://cdn.simpleicons.org/bun" height="30" />
-<img src="https://cdn.simpleicons.org/c" height="30" />
-<img src="https://cdn.simpleicons.org/clerk" height="30" />
-<img src="https://cdn.simpleicons.org/cloudflare" height="30" />
-<img src="https://cdn.simpleicons.org/cmake" height="30" />
-<img src="https://cdn.simpleicons.org/codesandbox" height="30" />
-<img src="https://cdn.simpleicons.org/creality" height="30" />
-<img src="https://cdn.simpleicons.org/creativecommons" height="30" />
-<img src="https://cdn.simpleicons.org/crunchyroll" height="30" />
-<img src="https://cdn.simpleicons.org/css3" height="30" />
-<img src="https://cdn.simpleicons.org/cssmodules" height="30" />
-<img src="https://cdn.simpleicons.org/deno" height="30" />
-<img src="https://cdn.simpleicons.org/discord" height="30" />
-<img src="https://cdn.simpleicons.org/docker" height="30" />
-<img src="https://cdn.simpleicons.org/docusaurus" height="30" />
-<img src="https://cdn.simpleicons.org/elasticsearch" height="30" />
-<img src="https://cdn.simpleicons.org/elixir" height="30" />
-<img src="https://cdn.simpleicons.org/envoyproxy" height="30" />
-<img src="https://cdn.simpleicons.org/erlang" height="30" />
-<img src="https://cdn.simpleicons.org/excalidraw" height="30" />
-<img src="https://cdn.simpleicons.org/ffmpeg" height="30" />
-<img src="https://cdn.simpleicons.org/genius" height="30" />
-<img src="https://cdn.simpleicons.org/git" height="30" />
-<img src="https://cdn.simpleicons.org/github" height="30" />
-<img src="https://cdn.simpleicons.org/gitkraken" height="30" />
-<img src="https://cdn.simpleicons.org/gnu" height="30" />
-<img src="https://cdn.simpleicons.org/gnubash" height="30" />
-<img src="https://cdn.simpleicons.org/go" height="30" />
-<img src="https://cdn.simpleicons.org/google" height="30" />
-<img src="https://cdn.simpleicons.org/googlechrome" height="30" />
-<img src="https://cdn.simpleicons.org/grafana" height="30" />
-<img src="https://cdn.simpleicons.org/graphite" height="30" />
-<img src="https://cdn.simpleicons.org/graphql" height="30" />
-<img src="https://cdn.simpleicons.org/gtk" height="30" />
-<img src="https://cdn.simpleicons.org/hcl" height="30" />
-<img src="https://cdn.simpleicons.org/hoppscotch" height="30" />
-<img src="https://cdn.simpleicons.org/hotjar" height="30" />
-<img src="https://cdn.simpleicons.org/houdini" height="30" />
-<img src="https://cdn.simpleicons.org/html5" height="30" />
-<img src="https://cdn.simpleicons.org/htmx" height="30" />
-<img src="https://cdn.simpleicons.org/hyper" height="30" />
-<img src="https://cdn.simpleicons.org/hyperland" height="30" />
-<img src="https://cdn.simpleicons.org/i3" height="30" />
-<img src="https://cdn.simpleicons.org/icomoon" height="30" />
-<img src="https://cdn.simpleicons.org/icon" height="30" />
-<img src="https://cdn.simpleicons.org/iconify" height="30" />
-<img src="https://cdn.simpleicons.org/inkscape" height="30" />
-<img src="https://cdn.simpleicons.org/javascript" height="30" />
-<img src="https://cdn.simpleicons.org/jsonwebtokens" height="30" />
-<img src="https://cdn.simpleicons.org/jsr" height="30" />
-<img src="https://cdn.simpleicons.org/knowledgebase" height="30" />
-<img src="https://cdn.simpleicons.org/less" height="30" />
-<img src="https://cdn.simpleicons.org/libreoffice" height="30" />
-<img src="https://cdn.simpleicons.org/libuv" height="30" />
-<img src="https://cdn.simpleicons.org/linux" height="30" />
-<img src="https://cdn.simpleicons.org/linuxcontainers" height="30" />
-<img src="https://cdn.simpleicons.org/linuxfoundation" height="30" />
-<img src="https://cdn.simpleicons.org/linuxserver" height="30" />
-<img src="https://cdn.simpleicons.org/llvm" height="30" />
-<img src="https://cdn.simpleicons.org/local" height="30" />
-<img src="https://cdn.simpleicons.org/logspec" height="30" />
-<img src="https://cdn.simpleicons.org/logstash" height="30" />
-<img src="https://cdn.simpleicons.org/loom" height="30" />
-<img src="https://cdn.simpleicons.org/lua" height="30" />
-<img src="https://cdn.simpleicons.org/make" height="30" />
-<img src="https://cdn.simpleicons.org/man" height="30" />
-<img src="https://cdn.simpleicons.org/mapbox" height="30" />
-<img src="https://cdn.simpleicons.org/meta" height="30" />
-<img src="https://cdn.simpleicons.org/microstrategy" height="30" />
-<img src="https://cdn.simpleicons.org/miro" height="30" />
-<img src="https://cdn.simpleicons.org/monorepo" height="30" />
-<img src="https://cdn.simpleicons.org/mpv" height="30" />
-<img src="https://cdn.simpleicons.org/neovim" height="30" />
-<img src="https://cdn.simpleicons.org/nixos" height="30" />
-<img src="https://cdn.simpleicons.org/notion" height="30" />
-<img src="https://cdn.simpleicons.org/npm" height="30" />
-<img src="https://cdn.simpleicons.org/obsidian" height="30" />
-<img src="https://cdn.simpleicons.org/ocaml" height="30" />
-<img src="https://cdn.simpleicons.org/opel" height="30" />
-<img src="https://cdn.simpleicons.org/opencollective" height="30" />
-<img src="https://cdn.simpleicons.org/openfaas" height="30" />
-<img src="https://cdn.simpleicons.org/opengl" height="30" />
-<img src="https://cdn.simpleicons.org/openid" height="30" />
-<img src="https://cdn.simpleicons.org/openjsfoundation" height="30" />
-<img src="https://cdn.simpleicons.org/openssl" height="30" />
-<img src="https://cdn.simpleicons.org/openvpn" height="30" />
-<img src="https://cdn.simpleicons.org/owasp" height="30" />
-<img src="https://cdn.simpleicons.org/postgresql" height="30" />
-<img src="https://cdn.simpleicons.org/prettier" height="30" />
-<img src="https://cdn.simpleicons.org/prometheus" height="30" />
-<img src="https://cdn.simpleicons.org/puppeteer" height="30" />
-<img src="https://cdn.simpleicons.org/pwa" height="30" />
-<img src="https://cdn.simpleicons.org/qmk" height="30" />
-<img src="https://cdn.simpleicons.org/react" height="30" />
-<img src="https://cdn.simpleicons.org/readme" height="30" />
-<img src="https://cdn.simpleicons.org/redis" height="30" />
-<img src="https://cdn.simpleicons.org/runkit" height="30" />
-<img src="https://cdn.simpleicons.org/rust" height="30" />
-<img src="https://cdn.simpleicons.org/semver" height="30" />
-<img src="https://cdn.simpleicons.org/sentry" height="30" />
-<img src="https://cdn.simpleicons.org/shell" height="30" />
-<img src="https://cdn.simpleicons.org/snowflake" height="30" />
-<img src="https://cdn.simpleicons.org/snyk" height="30" />
-<img src="https://cdn.simpleicons.org/spacex" height="30" />
-<img src="https://cdn.simpleicons.org/spotify" height="30" />
-<img src="https://cdn.simpleicons.org/steam" height="30" />
-<img src="https://cdn.simpleicons.org/steamdb" height="30" />
-<img src="https://cdn.simpleicons.org/stencil" height="30" />
-<img src="https://cdn.simpleicons.org/stripe" height="30" />
-<img src="https://cdn.simpleicons.org/suckless" height="30" />
-<img src="https://cdn.simpleicons.org/supabase" height="30" />
-<img src="https://cdn.simpleicons.org/svelte" height="30" />
-<img src="https://cdn.simpleicons.org/svg" height="30" />
-<img src="https://cdn.simpleicons.org/tails" height="30" />
-<img src="https://cdn.simpleicons.org/terraform" height="30" />
-<img src="https://cdn.simpleicons.org/tmux" height="30" />
-<img src="https://cdn.simpleicons.org/travisci" height="30" />
-<img src="https://cdn.simpleicons.org/trivy" height="30" />
-<img src="https://cdn.simpleicons.org/trpc" height="30" />
-<img src="https://cdn.simpleicons.org/tui" height="30" />
-<img src="https://cdn.simpleicons.org/turso" height="30" />
-<img src="https://cdn.simpleicons.org/twilio" height="30" />
-<img src="https://cdn.simpleicons.org/twitch" height="30" />
-<img src="https://cdn.simpleicons.org/typescript" height="30" />
-<img src="https://cdn.simpleicons.org/unicode" height="30" />
-<img src="https://cdn.simpleicons.org/unlicense" height="30" />
-<img src="https://cdn.simpleicons.org/upstash" height="30" />
-<img src="https://cdn.simpleicons.org/v8" height="30" />
-<img src="https://cdn.simpleicons.org/valve" height="30" />
-<img src="https://cdn.simpleicons.org/vercel" height="30" />
-<img src="https://cdn.simpleicons.org/vue" height="30" />
-<img src="https://cdn.simpleicons.org/webassembly" height="30" />
-<img src="https://cdn.simpleicons.org/wezterm" height="30" />
-<img src="https://cdn.simpleicons.org/xo" height="30" />
-<img src="https://cdn.simpleicons.org/yaml" height="30" />
-<img src="https://cdn.simpleicons.org/zig" height="30" />
-<img src="https://cdn.simpleicons.org/zsh" height="30" />
 </div>
+<div align="center">
+  		<img width="40%" src="https://raw.githubusercontent.com/metaory/metaory/master/.github/assets/hr2.png?raw=true"  />
+</div>
+<div align="center">
+<h4>stuff I moderately tolerate</h4>
+<img src="https://cdn.simpleicons.org/amazon?viewbox=auto" height="20" />
+<img src="https://cdn.simpleicons.org/amazonapigateway?viewbox=auto" height="20" />
+<img src="https://cdn.simpleicons.org/amazoncloudwatch?viewbox=auto" height="20" />
+<img src="https://cdn.simpleicons.org/amazoncognito?viewbox=auto" height="20" />
+<img src="https://cdn.simpleicons.org/amazondocumentdb?viewbox=auto" height="20" />
+<img src="https://cdn.simpleicons.org/amazondynamodb?viewbox=auto" height="20" />
+<img src="https://cdn.simpleicons.org/amazonec2?viewbox=auto" height="20" />
+<img src="https://cdn.simpleicons.org/amazonecs?viewbox=auto" height="20" />
+<img src="https://cdn.simpleicons.org/amazoneks?viewbox=auto" height="20" />
+<img src="https://cdn.simpleicons.org/amazonelasticache?viewbox=auto" height="20" />
+<img src="https://cdn.simpleicons.org/amazoniam?viewbox=auto" height="20" />
+<img src="https://cdn.simpleicons.org/amazonroute53?viewbox=auto" height="20" />
+<img src="https://cdn.simpleicons.org/amazons3?viewbox=auto" height="20" />
+<img src="https://cdn.simpleicons.org/amazonsimpleemailservice?viewbox=auto" height="20" />
+<img src="https://cdn.simpleicons.org/amazonsqs?viewbox=auto" height="20" />
+<img src="https://cdn.simpleicons.org/amazonwebservices?viewbox=auto" height="20" />
+<img src="https://cdn.simpleicons.org/awslambda?viewbox=auto" height="20" />
+<img src="https://cdn.simpleicons.org/awsorganizations?viewbox=auto" height="20" />
+<img src="https://cdn.simpleicons.org/awssecretsmanager?viewbox=auto" height="20" />
+<img src="https://cdn.simpleicons.org/backbonedotjs?viewbox=auto" height="20" />
+<img src="https://cdn.simpleicons.org/clerk?viewbox=auto" height="20" />
+<img src="https://cdn.simpleicons.org/clickup?viewbox=auto" height="20" />
+<img src="https://cdn.simpleicons.org/buildkite?viewbox=auto" height="20" />
+<img src="https://cdn.simpleicons.org/crowdin?viewbox=auto" height="20" />
+<img src="https://cdn.simpleicons.org/cloudflare?viewbox=auto" height="20" />
+<img src="https://cdn.simpleicons.org/express?viewbox=auto" height="20" />
+<img src="https://cdn.simpleicons.org/codesandbox?viewbox=auto" height="20" />
+<img src="https://cdn.simpleicons.org/esbuild?viewbox=auto" height="20" />
+<img src="https://cdn.simpleicons.org/creality?viewbox=auto" height="20" />
+<img src="https://cdn.simpleicons.org/discord?viewbox=auto" height="20" />
+<img src="https://cdn.simpleicons.org/genius?viewbox=auto" height="20" />
+<img src="https://cdn.simpleicons.org/google?viewbox=auto" height="20" />
+<img src="https://cdn.simpleicons.org/datadog?viewbox=auto" height="20" />
+<img src="https://cdn.simpleicons.org/debian?viewbox=auto" height="20" />
+<img src="https://cdn.simpleicons.org/auth0?viewbox=auto" height="20" />
+<img src="https://cdn.simpleicons.org/googlechrome?viewbox=auto" height="20" />
+<img src="https://cdn.simpleicons.org/awsamplify?viewbox=auto" height="20" />
+<img src="https://cdn.simpleicons.org/jetbrains?viewbox=auto" height="20" />
+<img src="https://cdn.simpleicons.org/grafana?viewbox=auto" height="20" />
+<img src="https://cdn.simpleicons.org/graphql?viewbox=auto" height="20" />
+<img src="https://cdn.simpleicons.org/hcl?viewbox=auto" height="20" />
+<img src="https://cdn.simpleicons.org/html5?viewbox=auto" height="20" />
+<img src="https://cdn.simpleicons.org/icon?viewbox=auto" height="20" />
+<img src="https://cdn.simpleicons.org/logstash?viewbox=auto" height="20" />
+<img src="https://cdn.simpleicons.org/openvpn?viewbox=auto" height="20" />
+<img src="https://cdn.simpleicons.org/owasp?viewbox=auto" height="20" />
+<img src="https://cdn.simpleicons.org/pwa?viewbox=auto" height="20" />
+<img src="https://cdn.simpleicons.org/react?viewbox=auto" height="20" />
+<img src="https://cdn.simpleicons.org/snyk?viewbox=auto" height="20" />
+<img src="https://cdn.simpleicons.org/stripe?viewbox=auto" height="20" />
+<img src="https://cdn.simpleicons.org/supabase?viewbox=auto" height="20" />
+<img src="https://cdn.simpleicons.org/terraform?viewbox=auto" height="20" />
+<img src="https://cdn.simpleicons.org/googlecloud?viewbox=auto" height="20" />
+<img src="https://cdn.simpleicons.org/axios?viewbox=auto" height="20" />
+<img src="https://cdn.simpleicons.org/trpc?viewbox=auto" height="20" />
+<img src="https://cdn.simpleicons.org/twilio?viewbox=auto" height="20" />
+<img src="https://cdn.simpleicons.org/twitch?viewbox=auto" height="20" />
+<img src="https://cdn.simpleicons.org/typescript?viewbox=auto" height="20" />
+<img src="https://cdn.simpleicons.org/upstash?viewbox=auto" height="20" />
+<img src="https://cdn.simpleicons.org/circleci?viewbox=auto" height="20" />
+<img src="https://cdn.simpleicons.org/vercel?viewbox=auto" height="20" />
+<img src="https://cdn.simpleicons.org/less?viewbox=auto" height="20" />
+<img src="https://cdn.simpleicons.org/mailchimp?viewbox=auto" height="20" />
+<img src="https://cdn.simpleicons.org/sass?viewbox=auto" height="20" />
+<img src="https://cdn.simpleicons.org/vue?viewbox=auto" height="20" />
+<img src="https://cdn.simpleicons.org/xo?viewbox=auto" height="20" />
 
-<div align="center">
-  <img height="280" alt="activity-graph graph" src="https://github-readme-activity-graph.vercel.app/graph?username=metaory&bg_color=00000000&color=4411FF&title_color=000000&line=4411FF&point=5522CC&area_color=5522CC&hide_border=true&hide_title=true&area=true&radius=20" />
 </div>
+<div align="center">
+  		<img width="20%" src="https://raw.githubusercontent.com/metaory/metaory/master/.github/assets/hr0.png?raw=true"  />
+</div>
+<div align="center">
+<h4>stuff I actively avoid</h4>
+<img src="https://cdn.simpleicons.org/dotnet?viewbox=auto" height="20" />
+<img src="https://cdn.simpleicons.org/atlassian?viewbox=auto" height="20" />
+<img src="https://cdn.simpleicons.org/grunt?viewbox=auto" height="20" />
+<img src="https://cdn.simpleicons.org/gulp?viewbox=auto" height="20" />
+<img src="https://cdn.simpleicons.org/bitbucket?viewbox=auto" height="20" />
+<img src="https://cdn.simpleicons.org/facebook?viewbox=auto" height="20" />
+<img src="https://cdn.simpleicons.org/bitcoin?viewbox=auto" height="20" />
+<img src="https://cdn.simpleicons.org/heroku?viewbox=auto" height="20" />
+<img src="https://cdn.simpleicons.org/hibernate?viewbox=auto" height="20" />
+<img src="https://cdn.simpleicons.org/instagram?viewbox=auto" height="20" />
+<img src="https://cdn.simpleicons.org/angular?viewbox=auto" height="20" />
+<img src="https://cdn.simpleicons.org/chef?viewbox=auto" height="20" />
+<img src="https://cdn.simpleicons.org/dynatrace?viewbox=auto" height="20" />
+<img src="https://cdn.simpleicons.org/githubcopilot?viewbox=auto" height="20" />
+<img src="https://cdn.simpleicons.org/eclipseide?viewbox=auto" height="20" />
+<img src="https://cdn.simpleicons.org/jira?viewbox=auto" height="20" />
+<img src="https://cdn.simpleicons.org/jirasoftware?viewbox=auto" height="20" />
+<img src="https://cdn.simpleicons.org/jquery?viewbox=auto" height="20" />
+<img src="https://cdn.simpleicons.org/jenkins?viewbox=auto" height="20" />
+<img src="https://cdn.simpleicons.org/jest?viewbox=auto" height="20" />
+<img src="https://cdn.simpleicons.org/firebase?viewbox=auto" height="20" />
+<img src="https://cdn.simpleicons.org/django?viewbox=auto" height="20" />
+<img src="https://cdn.simpleicons.org/lodash?viewbox=auto" height="20" />
+<img src="https://cdn.simpleicons.org/ansible?viewbox=auto" height="20" />
 
-<div align="center">
-  <img src="https://github.com/metaory/metaory/blob/master/.github/assets/home.webp?raw=true" />
-  <img src="https://github.com/metaory/metaory/blob/master/.github/assets/hr2.png?raw=true" />
 </div>
+<div align="center">
+  		<img width="20%" src="https://raw.githubusercontent.com/metaory/metaory/master/.github/assets/hr1.png?raw=true"  />
+</div>
+<img src="https://raw.githubusercontent.com/metaory/metaory/master/.github/assets/home.webp"  />
