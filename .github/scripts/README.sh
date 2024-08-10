@@ -392,7 +392,7 @@ function put_streak_stats {
 }
 
 function put_tech {
-    cat <<< "<h4>${1:?NO_TITLE}</h4>" >> README.md
+    cat <<< "<h3>${1:?NO_TITLE}</h3>" >> README.md
     shift
 
     while [ "$1" ]; do
