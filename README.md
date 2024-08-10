@@ -3,7 +3,7 @@
 
 </div>
 <div align="center">
-  		<img width="30%" src="https://raw.githubusercontent.com/metaory/metaory/master/.github/assets/hr1.png?raw=true"  />
+  		<img width="30%" src="https://raw.githubusercontent.com/metaory/metaory/master/.github/assets/hr3.png?raw=true"  />
 </div>
 <div align="center">
 <img height="150" src="https://github-readme-stats.vercel.app/api?username=metaory&ring_color=5522CC&bg_color=45,110022,110022,110022,110011,100010,000000&text_color=44BBFF&border_radius=30&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&locale=en&hide_border=true"  alt="stats graph" /> 
@@ -23,7 +23,7 @@
 
 </div>
 <div align="center">
-  		<img width="20%" src="https://raw.githubusercontent.com/metaory/metaory/master/.github/assets/hr1.png?raw=true"  />
+  		<img width="40%" src="https://raw.githubusercontent.com/metaory/metaory/master/.github/assets/hr2.png?raw=true"  />
 </div>
 <div align="center">
 <h3>stuff I occasionally use or aspire</h3>
@@ -85,7 +85,7 @@
 
 </div>
 <div align="center">
-  		<img width="40%" src="https://raw.githubusercontent.com/metaory/metaory/master/.github/assets/hr1.png?raw=true"  />
+  		<img width="60%" src="https://raw.githubusercontent.com/metaory/metaory/master/.github/assets/hr3.png?raw=true"  />
 </div>
 <div align="center">
 <h3>stuff I regularly use</h3>
@@ -224,7 +224,7 @@
 
 </div>
 <div align="center">
-  		<img width="40%" src="https://raw.githubusercontent.com/metaory/metaory/master/.github/assets/hr3.png?raw=true"  />
+  		<img width="50%" src="https://raw.githubusercontent.com/metaory/metaory/master/.github/assets/hr0.png?raw=true"  />
 </div>
 <div align="center">
 <h3>stuff I moderately tolerate</h3>
@@ -314,7 +314,7 @@
 
 </div>
 <div align="center">
-  		<img width="20%" src="https://raw.githubusercontent.com/metaory/metaory/master/.github/assets/hr1.png?raw=true"  />
+  		<img width="40%" src="https://raw.githubusercontent.com/metaory/metaory/master/.github/assets/hr2.png?raw=true"  />
 </div>
 <div align="center">
 <h3>stuff I actively avoid</h3>
@@ -370,6 +370,6 @@
 
 </div>
 <div align="center">
-  		<img width="20%" src="https://raw.githubusercontent.com/metaory/metaory/master/.github/assets/hr3.png?raw=true"  />
+  		<img width="40%" src="https://raw.githubusercontent.com/metaory/metaory/master/.github/assets/hr2.png?raw=true"  />
 </div>
 <img src="https://raw.githubusercontent.com/metaory/metaory/master/.github/assets/home.webp"  />
