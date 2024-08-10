@@ -3,7 +3,7 @@
 
 </div>
 <div align="center">
-  		<img width="30%" src="https://raw.githubusercontent.com/metaory/metaory/master/.github/assets/hr3.png?raw=true"  />
+  		<img width="30%" src="https://raw.githubusercontent.com/metaory/metaory/master/.github/assets/hr1.png?raw=true"  />
 </div>
 <div align="center">
 <img height="150" src="https://github-readme-stats.vercel.app/api?username=metaory&ring_color=5522CC&bg_color=45,110022,110022,110022,110011,100010,000000&text_color=44BBFF&border_radius=30&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&locale=en&hide_border=true"  alt="stats graph" /> 
@@ -23,10 +23,10 @@
 
 </div>
 <div align="center">
-  		<img width="20%" src="https://raw.githubusercontent.com/metaory/metaory/master/.github/assets/hr0.png?raw=true"  />
+  		<img width="20%" src="https://raw.githubusercontent.com/metaory/metaory/master/.github/assets/hr1.png?raw=true"  />
 </div>
 <div align="center">
-<h4>stuff I occasionally use or aspire</h4>
+<h3>stuff I occasionally use or aspire</h3>
 <img src="https://cdn.simpleicons.org/adventofcode?viewbox=auto" height="20" />
 <img src="https://cdn.simpleicons.org/c?viewbox=auto" height="20" />
 <img src="https://cdn.simpleicons.org/cmake?viewbox=auto" height="20" />
@@ -88,7 +88,7 @@
   		<img width="40%" src="https://raw.githubusercontent.com/metaory/metaory/master/.github/assets/hr1.png?raw=true"  />
 </div>
 <div align="center">
-<h4>stuff I regularly use</h4>
+<h3>stuff I regularly use</h3>
 <img src="https://cdn.simpleicons.org/alacritty?viewbox=auto" height="20" />
 <img src="https://cdn.simpleicons.org/alpinelinux?viewbox=auto" height="20" />
 <img src="https://cdn.simpleicons.org/archlinux?viewbox=auto" height="20" />
@@ -227,7 +227,7 @@
   		<img width="40%" src="https://raw.githubusercontent.com/metaory/metaory/master/.github/assets/hr3.png?raw=true"  />
 </div>
 <div align="center">
-<h4>stuff I moderately tolerate</h4>
+<h3>stuff I moderately tolerate</h3>
 <img src="https://cdn.simpleicons.org/amazon?viewbox=auto" height="20" />
 <img src="https://cdn.simpleicons.org/amazonapigateway?viewbox=auto" height="20" />
 <img src="https://cdn.simpleicons.org/amazoncloudwatch?viewbox=auto" height="20" />
@@ -314,10 +314,10 @@
 
 </div>
 <div align="center">
-  		<img width="20%" src="https://raw.githubusercontent.com/metaory/metaory/master/.github/assets/hr0.png?raw=true"  />
+  		<img width="20%" src="https://raw.githubusercontent.com/metaory/metaory/master/.github/assets/hr1.png?raw=true"  />
 </div>
 <div align="center">
-<h4>stuff I actively avoid</h4>
+<h3>stuff I actively avoid</h3>
 <img src="https://cdn.simpleicons.org/angular?viewbox=auto" height="20" />
 <img src="https://cdn.simpleicons.org/ansible?viewbox=auto" height="20" />
 <img src="https://cdn.simpleicons.org/atlassian?viewbox=auto" height="20" />
@@ -370,6 +370,6 @@
 
 </div>
 <div align="center">
-  		<img width="20%" src="https://raw.githubusercontent.com/metaory/metaory/master/.github/assets/hr1.png?raw=true"  />
+  		<img width="20%" src="https://raw.githubusercontent.com/metaory/metaory/master/.github/assets/hr3.png?raw=true"  />
 </div>
 <img src="https://raw.githubusercontent.com/metaory/metaory/master/.github/assets/home.webp"  />
