@@ -428,15 +428,15 @@ function put_footer {
 put_section put_image "$ASSETS"/mxc.png
 put_breaker 30
 put_section put_streak_stats
-put_breaker 20
+put_breaker 40
 put_section put_tech 'stuff I occasionally use or aspire' "${ASPIRED_TECH[@]}"
-put_breaker 40
+put_breaker 60
 put_section put_tech 'stuff I regularly use' "${PERSONAL_TECH[@]}"
-put_breaker 40
+put_breaker 50
 put_section put_tech 'stuff I moderately tolerate' "${TOLERATE_TECH[@]}"
-put_breaker 20
+put_breaker 40
 put_section put_tech 'stuff I actively avoid' "${AVOID_TECH[@]}"
-put_breaker 20
+put_breaker 40
 put_image "$ASSETS"/home.webp
 
 
