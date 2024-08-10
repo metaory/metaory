@@ -7,124 +7,115 @@
 declare ASSETS=https://raw.githubusercontent.com/metaory/metaory/master/.github/assets
 
 declare -a ASPIRED_TECH=(
+    adventofcode
     c
     cmake
     cplusplus
-    framework7
-    kubernetes
-    leptos
-    hyperland
     creativecommons
-    adventofcode
-    k3s
+    crunchbase
     elixir
     erlang
+    framework7
     gnu
     houdini
     htmx
+    hyperland
+    k3s
+    kubernetes
+    leptos
     libuv
-    crunchbase
     linuxfoundation
     llvm
     mapbox
+    nasa
+    nim
     ocaml
     opel
+    opencollective
     opencollective
     openfaas
     opengl
     openid
     openjsfoundation
+    openlayers
     openssl
+    opentofu
+    pocketbase
     prometheus
+    rabbitmq
     redis
+    remix
     rust
+    sennheiser
     snowflake
     spacex
+    spacex
+    stackshare
     steam
     steamdb
+    temporal
     trivy
     turso
     v8
     valve
     webassembly
+    webgl
+    zedindustries
     zig
-)
-declare -a AVOID_TECH=(
-    dotnet
-    atlassian
-    grunt
-    gulp
-    bitbucket
-    facebook
-    bitcoin
-    heroku
-    hibernate
-    instagram
-angular
-    chef
-    dynatrace
-    githubcopilot
-    eclipseide
-    jira
-    jirasoftware
-    jquery
-    jenkins
-    jest
-    firebase
-    django
-    lodash
-    ansible
 )
 declare -a PERSONAL_TECH=(
     alacritty
-    elastic
-    gitter
-    awesomewm
-    caldotcom
     alpinelinux
-    authy
     archlinux
     asciidoctor
-    dotenv
-    koa
-    giphy
-    githubpages
-    gitter
-    gimp
+    asciinema
+    astro
+    authy
+    awesomewm
+    biome
+    brave
+    bun
+    caldotcom
+    cloudflarepages
+    commitlint
+    css3
     cssmodules
     curl
-    githubactions
     darkreader
-    asciinema
-    gravatar
-    headlessui
-    astro
-    biome
-    fastapi
-    lightning
-    linear
-    bun
-    fontbase
     deno
+    devrant
+    docker
     docusaurus
+    dota2
+    dotenv
+    drizzle
+    duckduckgo
+    elastic
     elasticsearch
-    letsencrypt
     envoyproxy
     excalidraw
+    excalidraw
+    fastapi
     ffmpeg
+    fontbase
+    gimp
+    giphy
     git
     github
+    githubactions
+    githubpages
     gitkraken
+    gitter
+    gitter
     gnubash
     go
     graphite
+    gravatar
+    gtk
+    headlessui
+    hono
     hoppscotch
-    dota2
-    docker
     hotjar
-    drizzle
-    devrant
-    duckduckgo
     iconify
     ifttt
     inkscape
@@ -132,114 +123,206 @@ declare -a PERSONAL_TECH=(
     jsonwebtokens
     jsr
     knowledgebase
+    koa
     less
+    letsencrypt
     libreoffice
+    lightning
+    linear
     linux
     linuxcontainers
     linuxserver
-    commitlint
+    lit
     logseq
     loom
     lua
+    lucia
     make
     man
-    meta
+    markdown
     microstrategy
     miro
     mpv
+    n8n
     neovim
+    nginx
+    nginxproxymanager
+    ngrok
     nixos
+    nodedotjs
+    nomad
     notion
     npm
+    observable
     obsidian
+    outline
+    p5dotjs
+    pagerduty
+    planetscale
     postgresql
+    precommit
     prettier
+    proton
     puppeteer
     qmk
-    readme
+    radixui
+    replit
     runkit
+    semanticrelease
     semver
     sentry
+    shadcnui
     shell
+    signal
+    sqlite
+    sst
+    stackbit
+    stackedit
+    standardjs
     stencil
-    lucia
     suckless
     svelte
     svg
-    tails
+    tampermonkey
     tmux
+    toml
     travisci
     tui
     unicode
+    wakatime
     wezterm
+    wikidata
     yaml
+    yaml
+    zapier
     zsh
-    excalidraw
-    brave
-    markdown
-    lit
-    css3
-    gtk
-    cloudflarepages
 )
 
 declare -a TOLERATE_TECH=(
     amazon amazonapigateway amazoncloudwatch amazoncognito amazondocumentdb amazondynamodb amazonec2 amazonecs amazoneks amazonelasticache amazoniam amazonroute53 amazons3 amazonsimpleemailservice amazonsqs amazonwebservices awslambda awsorganizations awssecretsmanager
+    auth0
+    awsamplify
+    axios
     backbonedotjs
+    buildkite
+    circleci
     clerk
     clickup
-    buildkite
-    crowdin
     cloudflare
-    express
     codesandbox
-    esbuild
     creality
-    discord
-    genius
-    google
+    crowdin
     datadog
     debian
-    auth0
+    discord
+    esbuild
+    express
+    genius
+    google
     googlechrome
-    awsamplify
-    jetbrains
+    googlecloud
     grafana
     graphql
     hcl
     html5
+    hubspot
     icon
+    jetbrains
+    less
     logstash
+    mailchimp
+    mozilla
+    nestjs
+    nextdotjs
+    nuxtdotjs
     openvpn
     owasp
+    perl
+    postman
+    pug
     pwa
+    railway
     react
+    rollupdotjs
+    sass
+    sequelize
     snyk
+    socketdotio
     stripe
     supabase
+    swagger
+    swc
+    tailwindcss
     terraform
-    googlecloud
-    axios
+    testinglibrary
     trpc
     twilio
     twitch
     typescript
     upstash
-    circleci
     vercel
-    less
-    mailchimp
-    sass
     vue
+    webrtc
     xo
 )
 
+declare -a AVOID_TECH=(
+    angular
+    ansible
+    atlassian
+    bitbucket
+    bitcoin
+    chef
+    django
+    dotnet
+    dynatrace
+    eclipseide
+    facebook
+    firebase
+    githubcopilot
+    grunt
+    gulp
+    heroku
+    hibernate
+    instagram
+    jenkins
+    jest
+    jira
+    jirasoftware
+    jquery
+    lodash
+    meta
+    mobx
+    mocha
+    modx
+    mongodb
+    mongoosedotws
+    mui
+    newrelic
+    php
+    postcss
+    prisma
+    python
+    qt
+    reddit
+    relay
+    ruby
+    sap
+    sonarcloud
+    splunk
+    springboot
+    storybook
+    underscoredotjs
+    vuedotjs
+    webpack
+    zoom
+)
 declare -a SHADES=('000000,110022,110033' '110033,110022,110022,110033' '110033,110022,000000')
 
 function put_breaker {
     cat <<- EOF >> README.md
 		<div align="center">
-  		<img width="${1:-50}%" src="${ASSETS}/hr$((RANDOM%3)).png?raw=true"  />
+  		<img width="${1:-50}%" src="${ASSETS}/hr$((RANDOM%4)).png?raw=true"  />
 		</div>
 		EOF
 }
@@ -346,7 +429,7 @@ put_section put_image "$ASSETS"/mxc.png
 put_breaker 30
 put_section put_streak_stats
 put_breaker 20
-put_section put_tech 'stuff I occasionally use and aspire' "${ASPIRED_TECH[@]}"
+put_section put_tech 'stuff I occasionally use or aspire' "${ASPIRED_TECH[@]}"
 put_breaker 40
 put_section put_tech 'stuff I regularly use' "${PERSONAL_TECH[@]}"
 put_breaker 40
