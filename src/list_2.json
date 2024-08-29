@@ -31,7 +31,6 @@
     "elasticsearch",
     "envoyproxy",
     "excalidraw",
-    "excalidraw",
     "fastapi",
     "ffmpeg",
     "fontbase",
@@ -53,6 +52,7 @@
     "hono",
     "hoppscotch",
     "hotjar",
+    "html5",
     "iconify",
     "ifttt",
     "inkscape",
@@ -129,7 +129,6 @@
     "wakatime",
     "wezterm",
     "wikidata",
-    "yaml",
     "yaml",
     "zapier",
     "zsh"

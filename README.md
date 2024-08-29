@@ -43,7 +43,6 @@
 	<img src="https://cdn.simpleicons.org/ocaml?viewbox=auto&" height="20" />
 	<img src="https://cdn.simpleicons.org/opel?viewbox=auto&" height="20" />
 	<img src="https://cdn.simpleicons.org/opencollective?viewbox=auto&" height="20" />
-	<img src="https://cdn.simpleicons.org/opencollective?viewbox=auto&" height="20" />
 	<img src="https://cdn.simpleicons.org/openfaas?viewbox=auto&" height="20" />
 	<img src="https://cdn.simpleicons.org/opengl?viewbox=auto&" height="20" />
 	<img src="https://cdn.simpleicons.org/openid?viewbox=auto&" height="20" />
@@ -109,7 +108,6 @@
 	<img src="https://cdn.simpleicons.org/elasticsearch?viewbox=auto&" height="20" />
 	<img src="https://cdn.simpleicons.org/envoyproxy?viewbox=auto&" height="20" />
 	<img src="https://cdn.simpleicons.org/excalidraw?viewbox=auto&" height="20" />
-	<img src="https://cdn.simpleicons.org/excalidraw?viewbox=auto&" height="20" />
 	<img src="https://cdn.simpleicons.org/fastapi?viewbox=auto&" height="20" />
 	<img src="https://cdn.simpleicons.org/ffmpeg?viewbox=auto&" height="20" />
 	<img src="https://cdn.simpleicons.org/fontbase?viewbox=auto&" height="20" />
@@ -131,6 +129,7 @@
 	<img src="https://cdn.simpleicons.org/hono?viewbox=auto&" height="20" />
 	<img src="https://cdn.simpleicons.org/hoppscotch?viewbox=auto&" height="20" />
 	<img src="https://cdn.simpleicons.org/hotjar?viewbox=auto&" height="20" />
+	<img src="https://cdn.simpleicons.org/html5?viewbox=auto&" height="20" />
 	<img src="https://cdn.simpleicons.org/iconify?viewbox=auto&" height="20" />
 	<img src="https://cdn.simpleicons.org/ifttt?viewbox=auto&" height="20" />
 	<img src="https://cdn.simpleicons.org/inkscape?viewbox=auto&" height="20" />
@@ -208,7 +207,6 @@
 	<img src="https://cdn.simpleicons.org/wezterm?viewbox=auto&" height="20" />
 	<img src="https://cdn.simpleicons.org/wikidata?viewbox=auto&" height="20" />
 	<img src="https://cdn.simpleicons.org/yaml?viewbox=auto&" height="20" />
-	<img src="https://cdn.simpleicons.org/yaml?viewbox=auto&" height="20" />
 	<img src="https://cdn.simpleicons.org/zapier?viewbox=auto&" height="20" />
 	<img src="https://cdn.simpleicons.org/zsh?viewbox=auto&" height="20" />
 </div>
@@ -259,7 +257,6 @@
 	<img src="https://cdn.simpleicons.org/grafana?viewbox=auto&" height="20" />
 	<img src="https://cdn.simpleicons.org/graphql?viewbox=auto&" height="20" />
 	<img src="https://cdn.simpleicons.org/hcl?viewbox=auto&" height="20" />
-	<img src="https://cdn.simpleicons.org/html5?viewbox=auto&" height="20" />
 	<img src="https://cdn.simpleicons.org/hubspot?viewbox=auto&" height="20" />
 	<img src="https://cdn.simpleicons.org/icon?viewbox=auto&" height="20" />
 	<img src="https://cdn.simpleicons.org/jetbrains?viewbox=auto&" height="20" />
