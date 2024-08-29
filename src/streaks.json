@@ -1,0 +1,96 @@
+[
+  [
+    "div",
+    { "align": "center" },
+    [
+      "img",
+      {
+        "height": "$CH",
+        "src": [
+          "https://streak-stats.demolab.com?",
+          {
+            "background": "$GR",
+            "border_radius": "$RD",
+            "card_width": "$CW",
+            "currStreakLabel": "$C4",
+            "currStreakNum": "$C1",
+            "dates": "$C5",
+            "excludeDaysLabel": "$C3",
+            "fire": "$C4",
+            "hide_border": true,
+            "hide_current_streak": false,
+            "hide_longest_streak": true,
+            "hide_total_contributions": true,
+            "mode": "weekly",
+            "ring": "$C5",
+            "sideLabels": "$C4",
+            "sideNums": "$C5",
+            "stroke": "$C6",
+            "theme": "$STREAK_THEME",
+            "user": "$USR"
+          }
+        ]
+      }
+    ],
+    [
+      "img",
+      {
+        "height": "$CH",
+        "src": [
+          "https://streak-stats.demolab.com?",
+          {
+            "background": "$GR",
+            "border_radius": "$RD",
+            "card_width": "$CW",
+            "currStreakLabel": "$C4",
+            "currStreakNum": "$C1",
+            "dates": "$C5",
+            "excludeDaysLabel": "$C3",
+            "fire": "$C4",
+            "hide_border": true,
+            "hide_current_streak": true,
+            "hide_longest_streak": false,
+            "hide_total_contributions": true,
+            "mode": "weekly",
+            "ring": "$C5",
+            "sideLabels": "$C4",
+            "sideNums": "$C5",
+            "stroke": "$C6",
+            "theme": "$STREAK_THEME",
+            "user": "$USR"
+          }
+        ]
+      }
+    ],
+    [
+      "img",
+      {
+        "height": "$CH",
+        "src": [
+          "https://streak-stats.demolab.com?",
+          {
+            "background": "$GR",
+            "border_radius": "$RD",
+            "card_width": "$CW",
+            "currStreakLabel": "$C4",
+            "currStreakNum": "$C1",
+            "dates": "$C5",
+            "excludeDaysLabel": "$C3",
+            "fire": "$C4",
+            "hide_border": true,
+            "hide_current_streak": true,
+            "hide_longest_streak": true,
+            "hide_total_contributions": false,
+            "mode": "weekly",
+            "ring": "$C5",
+            "sideLabels": "$C4",
+            "sideNums": "$C5",
+            "stroke": "$C6",
+            "theme": "$STREAK_THEME",
+            "user": "$USR"
+          }
+        ]
+      }
+    ]
+  ]
+]
