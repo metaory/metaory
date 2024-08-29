@@ -16,7 +16,7 @@
 
 <div align="center">
 	<h3>
-		stuff I occasionally use or aspire
+		🤩 stuff I occasionally use or aspire 🔥
 	</h3>
 	<img src="https://cdn.simpleicons.org/adventofcode?viewbox=auto&" height="20" />
 	<img src="https://cdn.simpleicons.org/c?viewbox=auto&" height="20" />
@@ -77,7 +77,7 @@
 
 <div align="center">
 	<h3>
-		stuff I regularly use
+		😊 stuff I regularly use 🚀
 	</h3>
 	<img src="https://cdn.simpleicons.org/alacritty?viewbox=auto&" height="20" />
 	<img src="https://cdn.simpleicons.org/alpinelinux?viewbox=auto&" height="20" />
@@ -215,7 +215,7 @@
 
 <div align="center">
 	<h3>
-		stuff I moderately tolerate
+		🤢 stuff I moderately tolerate 🛠️
 	</h3>
 	<img src="https://cdn.simpleicons.org/amazon?viewbox=auto&" height="20" />
 	<img src="https://cdn.simpleicons.org/amazonapigateway?viewbox=auto&" height="20" />
@@ -304,7 +304,7 @@
 
 <div align="center">
 	<h3>
-		stuff I actively avoid
+		🤮 stuff I actively avoid 💩
 	</h3>
 	<img src="https://cdn.simpleicons.org/angular?viewbox=auto&" height="20" />
 	<img src="https://cdn.simpleicons.org/ansible?viewbox=auto&" height="20" />
