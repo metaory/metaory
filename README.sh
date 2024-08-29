@@ -16,8 +16,8 @@ function parse {
 
 parse header stats streaks
 
-# shellcheck disable=SC2016
-ICO_QUERY='["",["div",{align:"center"},
+for i in {1..4}; do
+  jq '["",["div",{align:"center"},
     (["h3",.[0]]), (
       .[1]|map(
           ["img", {
@@ -25,16 +25,8 @@ ICO_QUERY='["",["div",{align:"center"},
             height:"$IH"
           }]
         ).[]
-      )]]'
-
-function icons {
-  while [ "$1" ]; do
-    jq "$ICO_QUERY" <"src/${1:?MISS}.json" | envsubst | markup >>README.md
-    shift
-  done
-}
-
-icons list_a list_b list_c list_d
+      )]]' <"src/list_${i}.json" | envsubst | markup >>README.md
+done
 
 parse footer
 
