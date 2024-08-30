@@ -14,14 +14,9 @@
 <div align="center">
 	<img height="150" src="https://github-readme-stats.vercel.app/api?bg_color=110022&border_radius=30&count_private=true&disable_animations=false&hide_border=true&hide_rank=false&hide_title=true&include_all_commits=true&locale=en&ring_color=4411FF&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&text_color=6688FF&username=metaory&" />
 </div>
-<div align="center">
-	<img height="110" src="https://streak-stats.demolab.com?background=10,000000,110022,110033&border_radius=30&card_width=200&currStreakLabel=1177DD&currStreakNum=CC3377&dates=6644DD&excludeDaysLabel=DDAA33&fire=1177DD&hide_border=true&hide_current_streak=false&hide_longest_streak=true&hide_total_contributions=true&mode=weekly&ring=6644DD&sideLabels=1177DD&sideNums=6644DD&stroke=44DDBB&theme=dark-minimalist&user=metaory&" />
-	<img height="110" src="https://streak-stats.demolab.com?background=10,000000,110022,110033&border_radius=30&card_width=200&currStreakLabel=1177DD&currStreakNum=CC3377&dates=6644DD&excludeDaysLabel=DDAA33&fire=1177DD&hide_border=true&hide_current_streak=true&hide_longest_streak=false&hide_total_contributions=true&mode=weekly&ring=6644DD&sideLabels=1177DD&sideNums=6644DD&stroke=44DDBB&theme=dark-minimalist&user=metaory&" />
-	<img height="110" src="https://streak-stats.demolab.com?background=10,000000,110022,110033&border_radius=30&card_width=200&currStreakLabel=1177DD&currStreakNum=CC3377&dates=6644DD&excludeDaysLabel=DDAA33&fire=1177DD&hide_border=true&hide_current_streak=true&hide_longest_streak=true&hide_total_contributions=false&mode=weekly&ring=6644DD&sideLabels=1177DD&sideNums=6644DD&stroke=44DDBB&theme=dark-minimalist&user=metaory&" />
-</div>
 
 <div align="center">
-	<img sr="https://raw.githubusercontent.com/metaory/metaory/master/.github/assets/hr2.png" />
+	<img sr="https://raw.githubusercontent.com/metaory/metaory/master/.github/assets/hr0.png" />
 </div>
 <div align="center">
 	<h3>
@@ -96,7 +91,7 @@
 </div>
 
 <div align="center">
-	<img sr="https://raw.githubusercontent.com/metaory/metaory/master/.github/assets/hr0.png" />
+	<img sr="https://raw.githubusercontent.com/metaory/metaory/master/.github/assets/hr2.png" />
 </div>
 <div align="center">
 	<h3>
@@ -254,7 +249,7 @@
 </div>
 
 <div align="center">
-	<img sr="https://raw.githubusercontent.com/metaory/metaory/master/.github/assets/hr1.png" />
+	<img sr="https://raw.githubusercontent.com/metaory/metaory/master/.github/assets/hr2.png" />
 </div>
 <div align="center">
 	<h3>
@@ -381,7 +376,7 @@
 </div>
 
 <div align="center">
-	<img sr="https://raw.githubusercontent.com/metaory/metaory/master/.github/assets/hr3.png" />
+	<img sr="https://raw.githubusercontent.com/metaory/metaory/master/.github/assets/hr0.png" />
 </div>
 <div align="center">
 	<h3>
@@ -473,6 +468,11 @@
 	<img src="https://cdn.simpleicons.org/wordpress?viewbox=auto&" height="20" />
 	<img src="https://cdn.simpleicons.org/youtube?viewbox=auto&" height="20" />
 	<img src="https://cdn.simpleicons.org/zoom?viewbox=auto&" height="20" />
+</div>
+<div align="center">
+	<img height="110" src="https://streak-stats.demolab.com?background=10,000000,110022,110033&border_radius=30&card_width=200&currStreakLabel=1177DD&currStreakNum=CC3377&dates=6644DD&excludeDaysLabel=DDAA33&fire=1177DD&hide_border=true&hide_current_streak=false&hide_longest_streak=true&hide_total_contributions=true&mode=weekly&ring=6644DD&sideLabels=1177DD&sideNums=6644DD&stroke=44DDBB&theme=dark-minimalist&user=metaory&" />
+	<img height="110" src="https://streak-stats.demolab.com?background=10,000000,110022,110033&border_radius=30&card_width=200&currStreakLabel=1177DD&currStreakNum=CC3377&dates=6644DD&excludeDaysLabel=DDAA33&fire=1177DD&hide_border=true&hide_current_streak=true&hide_longest_streak=false&hide_total_contributions=true&mode=weekly&ring=6644DD&sideLabels=1177DD&sideNums=6644DD&stroke=44DDBB&theme=dark-minimalist&user=metaory&" />
+	<img height="110" src="https://streak-stats.demolab.com?background=10,000000,110022,110033&border_radius=30&card_width=200&currStreakLabel=1177DD&currStreakNum=CC3377&dates=6644DD&excludeDaysLabel=DDAA33&fire=1177DD&hide_border=true&hide_current_streak=true&hide_longest_streak=true&hide_total_contributions=false&mode=weekly&ring=6644DD&sideLabels=1177DD&sideNums=6644DD&stroke=44DDBB&theme=dark-minimalist&user=metaory&" />
 </div>
 
 <div align="center">

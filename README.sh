@@ -22,7 +22,7 @@ function parse {
   done
 }
 
-parse header stats streaks
+parse header stats
 
 function hr { echo '["div",{"align":"center"},["img",{"sr":"'"${ASSETS}/hr$((RANDOM % 4))"'.png"}]]'; }
 
@@ -38,6 +38,6 @@ for i in {1..4}; do
       )]]' <"src/list_${i}.json" | envsubst | markup >>README.md
 done
 
-parse footer
+parse streaks footer
 
 # vim: ft=bash
