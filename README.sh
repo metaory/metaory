@@ -2,6 +2,14 @@
 
 : >README.md
 
+cat << EOF > README.md
+<!-- generated with
+     ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+     ░░█▀▄▀█ ▄▀█ █▀█ █▄▀ █░█ █▀█ ░ ░░█ █▀ █▀█ █▄░█░░
+     ░░█░▀░█ █▀█ █▀▄ █░█ █▄█ █▀▀ ▄ █▄█ ▄█ █▄█ █░▀█░░
+     ░░ github.com/metaory/markup.json ░░░░░░░░░░░░░ -->
+EOF
+
 command -v markup >/dev/null || npm i -g markup.json
 command -v jq >/dev/null || exit 1
 
