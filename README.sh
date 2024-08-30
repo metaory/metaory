@@ -16,8 +16,10 @@ function parse {
 
 parse header stats streaks
 
+function hr { echo '["div",{"align":"center"},["img",{"sr":"'"${ASSETS}/hr$((RANDOM % 4))"'.png"}]]'; }
+
 for i in {1..4}; do
-  jq '["",["div",{align:"center"},
+  jq '["",'"$(hr)"',["div",{align:"center"},
     (["h3",.[0]]), (
       .[1]|map(
           ["img", {

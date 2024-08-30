@@ -15,8 +15,11 @@
 </div>
 
 <div align="center">
+	<img sr="https://raw.githubusercontent.com/metaory/metaory/master/.github/assets/hr2.png" />
+</div>
+<div align="center">
 	<h3>
-		🤩 stuff I occasionally use or aspire 🔥
+		🤩 stuff I aspire 🔥
 	</h3>
 	<img src="https://cdn.simpleicons.org/adventofcode?viewbox=auto&" height="20" />
 	<img src="https://cdn.simpleicons.org/c?viewbox=auto&" height="20" />
@@ -74,6 +77,9 @@
 	<img src="https://cdn.simpleicons.org/zig?viewbox=auto&" height="20" />
 </div>
 
+<div align="center">
+	<img sr="https://raw.githubusercontent.com/metaory/metaory/master/.github/assets/hr2.png" />
+</div>
 <div align="center">
 	<h3>
 		😊 stuff I regularly use 🚀
@@ -212,8 +218,11 @@
 </div>
 
 <div align="center">
+	<img sr="https://raw.githubusercontent.com/metaory/metaory/master/.github/assets/hr3.png" />
+</div>
+<div align="center">
 	<h3>
-		🤢 stuff I moderately tolerate 🛠️
+		🤢 stuff I moderately tolerate
 	</h3>
 	<img src="https://cdn.simpleicons.org/amazon?viewbox=auto&" height="20" />
 	<img src="https://cdn.simpleicons.org/amazonapigateway?viewbox=auto&" height="20" />
@@ -299,6 +308,9 @@
 	<img src="https://cdn.simpleicons.org/xo?viewbox=auto&" height="20" />
 </div>
 
+<div align="center">
+	<img sr="https://raw.githubusercontent.com/metaory/metaory/master/.github/assets/hr1.png" />
+</div>
 <div align="center">
 	<h3>
 		🤮 stuff I actively avoid 💩
