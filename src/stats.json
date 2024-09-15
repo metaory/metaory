@@ -1,5 +1,6 @@
 [
   "",
+  ["div", { "align": "center" }, ["img", { "src": "${ASSETS}/hr1.png" }]],
   [
     "div",
     { "align": "center" },
@@ -28,5 +29,6 @@
         ]
       }
     ]
-  ]
+  ],
+  ["div", { "align": "center" }, ["img", { "src": "${ASSETS}/hr3.png" }]]
 ]

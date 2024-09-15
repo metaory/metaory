@@ -31,7 +31,9 @@ for i in {1..4}; do
     (["h3",.[0]]), (
       .[1]|map(
           ["img", {
+            alt:.,
             src:["${SICO}/"+.+"?",{viewbox:"auto"}],
+            width:"$IH",
             height:"$IH"
           }]
         ).[]
