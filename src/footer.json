@@ -1,15 +1,17 @@
 [
-  "",
-  ["div", { "align": "center" }, ["img", { "src": "${ASSETS}/hr2.png" }]],
   ["img", { "src": "${ASSETS}/home.webp" }],
   [
     "div",
     { "align": "center" },
     [
-      "h4",
+      "h5",
       ["a", { "href": "README.sh" }, "README.sh"],
       "generated this readme with",
-      ["a", { "href": "https://github.com/metaory/markup.json" }, "markup.json"],
+      [
+        "a",
+        { "href": "https://github.com/metaory/markup.json" },
+        "markup.json"
+      ],
       "from",
       ["a", { "href": "src" }, "src/*.json"],
       "markups"
