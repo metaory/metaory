@@ -3,21 +3,12 @@
      ░░█▀▄▀█ ▄▀█ █▀█ █▄▀ █░█ █▀█ ░ ░░█ █▀ █▀█ █▄░█░░
      ░░█░▀░█ █▀█ █▀▄ █░█ █▄█ █▀▀ ▄ █▄█ ▄█ █▄█ █░▀█░░
      ░░ github.com/metaory/markup.json ░░░░░░░░░░░░░ -->
-
 <div
   align="center"
 >
-  <img
-    src="https://raw.githubusercontent.com/metaory/metaory/master/.github/assets/mxc.png"
-   />
-</div>
-<div
-  align="center"
->
-  <img
-    src="https://raw.githubusercontent.com/metaory/metaory/master/.github/assets/hr3.png"
-    width="30%"
-   />
+  <h3>
+    Platform Engineer · Lead · Solution Architect · DevOps · Full-Stack · AWS · Lua · Node · Linux · nVim
+  </h3>
 </div>
 
 <div
@@ -25,13 +16,18 @@
 >
   <img
     src="https://raw.githubusercontent.com/metaory/metaory/master/.github/assets/hr1.png"
+    width="45%"
    />
 </div>
 <div
   align="center"
 >
   <img
+    src="https://raw.githubusercontent.com/metaory/metaory/master/.github/assets/mxc.png"
+   />
+  <img
     height="150"
+    width="45%"
     src="https://github-readme-stats.vercel.app/api?bg_color=110022&border_radius=30&count_private=true&disable_animations=false&hide_border=true&hide_rank=false&hide_title=true&include_all_commits=true&locale=en&ring_color=4411FF&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&text_color=6688FF&username=metaory&"
    />
 </div>
@@ -39,6 +35,7 @@
   align="center"
 >
   <img
+    width="45%"
     src="https://raw.githubusercontent.com/metaory/metaory/master/.github/assets/hr3.png"
    />
 </div>
@@ -47,7 +44,7 @@
   align="center"
 >
   <img
-    sr="https://raw.githubusercontent.com/metaory/metaory/master/.github/assets/hr1.png"
+    sr="https://raw.githubusercontent.com/metaory/metaory/master/.github/assets/hr3.png"
    />
 </div>
 <div
@@ -458,7 +455,7 @@
   align="center"
 >
   <img
-    sr="https://raw.githubusercontent.com/metaory/metaory/master/.github/assets/hr0.png"
+    sr="https://raw.githubusercontent.com/metaory/metaory/master/.github/assets/hr3.png"
    />
 </div>
 <div
@@ -1373,7 +1370,7 @@
   align="center"
 >
   <img
-    sr="https://raw.githubusercontent.com/metaory/metaory/master/.github/assets/hr2.png"
+    sr="https://raw.githubusercontent.com/metaory/metaory/master/.github/assets/hr0.png"
    />
 </div>
 <div
@@ -2084,7 +2081,7 @@
   align="center"
 >
   <img
-    sr="https://raw.githubusercontent.com/metaory/metaory/master/.github/assets/hr2.png"
+    sr="https://raw.githubusercontent.com/metaory/metaory/master/.github/assets/hr0.png"
    />
 </div>
 <div
@@ -2546,12 +2543,6 @@
   <img
     alt="vagrant"
     src="https://cdn.simpleicons.org/vagrant?viewbox=auto&"
-    width="24"
-    height="24"
-   />
-  <img
-    alt="vuedotjs"
-    src="https://cdn.simpleicons.org/vuedotjs?viewbox=auto&"
     width="24"
     height="24"
    />

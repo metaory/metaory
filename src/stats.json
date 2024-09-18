@@ -1,13 +1,25 @@
 [
   "",
-  ["div", { "align": "center" }, ["img", { "src": "${ASSETS}/hr1.png" }]],
   [
     "div",
     { "align": "center" },
     [
       "img",
       {
+        "src": "${ASSETS}/hr1.png",
+        "width": "45%"
+      }
+    ]
+  ],
+  [
+    "div",
+    { "align": "center" },
+    ["img", { "src": "${ASSETS}/mxc.png" }],
+    [
+      "img",
+      {
         "height": "$SH",
+        "width": "45%",
         "src": [
           "https://github-readme-stats.vercel.app/api?",
           {
@@ -30,5 +42,15 @@
       }
     ]
   ],
-  ["div", { "align": "center" }, ["img", { "src": "${ASSETS}/hr3.png" }]]
+  [
+    "div",
+    { "align": "center" },
+    [
+      "img",
+      {
+        "width": "45%",
+        "src": "${ASSETS}/hr3.png"
+      }
+    ]
+  ]
 ]

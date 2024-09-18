@@ -1,5 +1,10 @@
 [
-  "",
-  ["div", { "align": "center" }, ["img", { "src": "${ASSETS}/mxc.png" }]],
-  ["div", { "align": "center" }, ["img", { "src": "${ASSETS}/hr3.png", "width": "30%" }]]
+  [
+    "div",
+    { "align": "center" },
+    [
+      "h3",
+      "Platform Engineer · Lead · Solution Architect · DevOps · Full-Stack · AWS · Lua · Node · Linux · nVim"
+    ]
+  ]
 ]
