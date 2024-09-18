@@ -3,21 +3,16 @@
   [
     "div",
     { "align": "center" },
-    [
-      "img",
-      {
-        "src": "${ASSETS}/hr1.png",
-        "width": "45%"
-      }
-    ]
+    ["img", { "src": "${ASSETS}/hr1.png", "width": "45%" }]
   ],
   [
     "div",
     { "align": "center" },
-    ["img", { "src": "${ASSETS}/mxc.png" }],
+    ["img", { "src": "${ASSETS}/mxc.png", "valign": "center" }],
     [
       "img",
       {
+        "valign": "center",
         "height": "$SH",
         "width": "45%",
         "src": [
@@ -39,17 +34,6 @@
             "username": "$USR"
           }
         ]
-      }
-    ]
-  ],
-  [
-    "div",
-    { "align": "center" },
-    [
-      "img",
-      {
-        "width": "45%",
-        "src": "${ASSETS}/hr3.png"
       }
     ]
   ]
