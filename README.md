@@ -38,7 +38,7 @@
   align="center"
 >
   <img
-    sr="https://raw.githubusercontent.com/metaory/metaory/master/.github/assets/hr1.png"
+    sr="https://raw.githubusercontent.com/metaory/metaory/master/.github/assets/hr3.png"
    />
 </div>
 <div
@@ -449,7 +449,7 @@
   align="center"
 >
   <img
-    sr="https://raw.githubusercontent.com/metaory/metaory/master/.github/assets/hr0.png"
+    sr="https://raw.githubusercontent.com/metaory/metaory/master/.github/assets/hr3.png"
    />
 </div>
 <div
@@ -2613,7 +2613,7 @@
    />
 </div>
 <img
-  src="https://raw.githubusercontent.com/metaory/metaory/master/.github/assets/home.webp"
+  src="https://raw.githubusercontent.com/metaory/metaory/master/.github/assets/home.png"
  />
 <div
   align="center"

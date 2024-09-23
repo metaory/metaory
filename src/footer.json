@@ -1,5 +1,5 @@
 [
-  ["img", { "src": "${ASSETS}/home.webp" }],
+  ["img", { "src": "${ASSETS}/home.png" }],
   [
     "div",
     { "align": "center" },
