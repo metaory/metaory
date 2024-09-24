@@ -38,7 +38,7 @@
   align="center"
 >
   <img
-    sr="https://raw.githubusercontent.com/metaory/metaory/master/.github/assets/hr3.png"
+    sr="https://raw.githubusercontent.com/metaory/metaory/master/.github/assets/hr2.png"
    />
 </div>
 <div
@@ -449,7 +449,7 @@
   align="center"
 >
   <img
-    sr="https://raw.githubusercontent.com/metaory/metaory/master/.github/assets/hr3.png"
+    sr="https://raw.githubusercontent.com/metaory/metaory/master/.github/assets/hr1.png"
    />
 </div>
 <div
@@ -1364,7 +1364,7 @@
   align="center"
 >
   <img
-    sr="https://raw.githubusercontent.com/metaory/metaory/master/.github/assets/hr0.png"
+    sr="https://raw.githubusercontent.com/metaory/metaory/master/.github/assets/hr2.png"
    />
 </div>
 <div
@@ -2075,7 +2075,7 @@
   align="center"
 >
   <img
-    sr="https://raw.githubusercontent.com/metaory/metaory/master/.github/assets/hr3.png"
+    sr="https://raw.githubusercontent.com/metaory/metaory/master/.github/assets/hr2.png"
    />
 </div>
 <div
@@ -2612,12 +2612,12 @@
     src="https://streak-stats.demolab.com?background=10,000000,110022,110033&border_radius=30&card_width=200&currStreakLabel=1177DD&currStreakNum=CC3377&dates=6644DD&excludeDaysLabel=DDAA33&fire=1177DD&hide_border=true&hide_current_streak=true&hide_longest_streak=true&hide_total_contributions=false&mode=weekly&ring=6644DD&sideLabels=1177DD&sideNums=6644DD&stroke=44DDBB&theme=dark-minimalist&user=metaory&"
    />
 </div>
-<img
-  src="https://raw.githubusercontent.com/metaory/metaory/master/.github/assets/home.png"
- />
 <div
   align="center"
 >
+  <img
+    src="https://raw.githubusercontent.com/metaory/metaory/master/.github/assets/home.png"
+   />
   <h5>
     <a
       href="README.sh"
