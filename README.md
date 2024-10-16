@@ -37,7 +37,7 @@
   align="center"
 >
   <h3>
-    ≛ stuff I aspire
+    🔸 stuff I aspire
   </h3>
   <img
     alt="adventofcode"
@@ -515,7 +515,7 @@
   align="center"
 >
   <h3>
-    ≜ stuff I regularly use
+    🔹 stuff I regularly use
   </h3>
   <img
     alt="1dot1dot1dot1"
@@ -1581,7 +1581,7 @@
   align="center"
 >
   <h3>
-    ≙ stuff I moderately tolerate
+    🔺 stuff I moderately tolerate
   </h3>
   <img
     alt="amazon"
@@ -2409,7 +2409,7 @@
   align="center"
 >
   <h3>
-    ≚ stuff I actively avoid
+    🔻 stuff I actively avoid
   </h3>
   <img
     alt="adobe"
