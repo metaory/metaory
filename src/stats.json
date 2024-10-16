@@ -1,10 +1,4 @@
 [
-  "",
-  [
-    "div",
-    { "align": "center" },
-    ["img", { "src": "${ASSETS}/hr1.png", "width": "45%" }]
-  ],
   [
     "div",
     { "align": "center" },

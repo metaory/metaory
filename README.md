@@ -10,15 +10,6 @@
     Platform Engineer · Lead · Solution Architect · DevOps · Full-Stack · AWS · Lua · Node · Linux · nVim
   </h4>
 </div>
-
-<div
-  align="center"
->
-  <img
-    src="https://raw.githubusercontent.com/metaory/metaory/master/.github/assets/hr1.png"
-    width="45%"
-   />
-</div>
 <div
   align="center"
 >
@@ -33,2557 +24,2977 @@
     src="https://github-readme-stats.vercel.app/api?bg_color=110022&border_radius=30&count_private=true&disable_animations=false&hide_border=true&hide_rank=false&hide_title=true&include_all_commits=true&locale=en&ring_color=4411FF&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&text_color=6688FF&username=metaory&"
    />
 </div>
-
 <div
   align="center"
 >
   <img
-    sr="https://raw.githubusercontent.com/metaory/metaory/master/.github/assets/hr2.png"
+    src="https://raw.githubusercontent.com/metaory/metaory/master/.github/assets/divider.gif"
+    height="2"
+    width="100%"
    />
 </div>
 <div
   align="center"
 >
   <h3>
-    🤩 stuff I aspire 🔥
+    ≛ stuff I aspire
   </h3>
   <img
     alt="adventofcode"
+    title="adventofcode"
     src="https://cdn.simpleicons.org/adventofcode?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="arc"
+    title="arc"
     src="https://cdn.simpleicons.org/arc?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="arduino"
+    title="arduino"
     src="https://cdn.simpleicons.org/arduino?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="awesomelists"
+    title="awesomelists"
     src="https://cdn.simpleicons.org/awesomelists?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="c"
+    title="c"
     src="https://cdn.simpleicons.org/c?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="cmake"
+    title="cmake"
     src="https://cdn.simpleicons.org/cmake?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="cncf"
+    title="cncf"
     src="https://cdn.simpleicons.org/cncf?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="cplusplus"
+    title="cplusplus"
     src="https://cdn.simpleicons.org/cplusplus?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="creativecommons"
+    title="creativecommons"
     src="https://cdn.simpleicons.org/creativecommons?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="crunchbase"
+    title="crunchbase"
     src="https://cdn.simpleicons.org/crunchbase?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="elixir"
+    title="elixir"
     src="https://cdn.simpleicons.org/elixir?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="erlang"
+    title="erlang"
     src="https://cdn.simpleicons.org/erlang?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="gnu"
+    title="gnu"
     src="https://cdn.simpleicons.org/gnu?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="haskell"
+    title="haskell"
     src="https://cdn.simpleicons.org/haskell?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="houdini"
+    title="houdini"
     src="https://cdn.simpleicons.org/houdini?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="htmx"
+    title="htmx"
     src="https://cdn.simpleicons.org/htmx?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="hyprland"
+    title="hyprland"
     src="https://cdn.simpleicons.org/hyprland?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="k3s"
+    title="k3s"
     src="https://cdn.simpleicons.org/k3s?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="kubernetes"
+    title="kubernetes"
     src="https://cdn.simpleicons.org/kubernetes?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="leptos"
+    title="leptos"
     src="https://cdn.simpleicons.org/leptos?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="libuv"
+    title="libuv"
     src="https://cdn.simpleicons.org/libuv?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="linuxfoundation"
+    title="linuxfoundation"
     src="https://cdn.simpleicons.org/linuxfoundation?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="llvm"
+    title="llvm"
     src="https://cdn.simpleicons.org/llvm?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="mapbox"
+    title="mapbox"
     src="https://cdn.simpleicons.org/mapbox?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="mqtt"
+    title="mqtt"
     src="https://cdn.simpleicons.org/mqtt?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="nasa"
+    title="nasa"
     src="https://cdn.simpleicons.org/nasa?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="nim"
+    title="nim"
     src="https://cdn.simpleicons.org/nim?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="ocaml"
+    title="ocaml"
     src="https://cdn.simpleicons.org/ocaml?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="opel"
+    title="opel"
     src="https://cdn.simpleicons.org/opel?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="openapiinitiative"
+    title="openapiinitiative"
     src="https://cdn.simpleicons.org/openapiinitiative?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="opencollective"
+    title="opencollective"
     src="https://cdn.simpleicons.org/opencollective?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="openfaas"
+    title="openfaas"
     src="https://cdn.simpleicons.org/openfaas?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="opengl"
+    title="opengl"
     src="https://cdn.simpleicons.org/opengl?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="openid"
+    title="openid"
     src="https://cdn.simpleicons.org/openid?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="openjsfoundation"
+    title="openjsfoundation"
     src="https://cdn.simpleicons.org/openjsfoundation?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="openlayers"
+    title="openlayers"
     src="https://cdn.simpleicons.org/openlayers?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="opensourceinitiative"
+    title="opensourceinitiative"
     src="https://cdn.simpleicons.org/opensourceinitiative?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="openssl"
+    title="openssl"
     src="https://cdn.simpleicons.org/openssl?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="opentofu"
+    title="opentofu"
     src="https://cdn.simpleicons.org/opentofu?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="pocketbase"
+    title="pocketbase"
     src="https://cdn.simpleicons.org/pocketbase?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="prometheus"
+    title="prometheus"
     src="https://cdn.simpleicons.org/prometheus?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="protondb"
+    title="protondb"
     src="https://cdn.simpleicons.org/protondb?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="qwik"
+    title="qwik"
     src="https://cdn.simpleicons.org/qwik?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="rabbitmq"
+    title="rabbitmq"
     src="https://cdn.simpleicons.org/rabbitmq?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="remix"
+    title="remix"
     src="https://cdn.simpleicons.org/remix?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="rust"
+    title="rust"
     src="https://cdn.simpleicons.org/rust?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="sennheiser"
+    title="sennheiser"
     src="https://cdn.simpleicons.org/sennheiser?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="snowflake"
+    title="snowflake"
     src="https://cdn.simpleicons.org/snowflake?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="spacex"
+    title="spacex"
     src="https://cdn.simpleicons.org/spacex?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="stackshare"
+    title="stackshare"
     src="https://cdn.simpleicons.org/stackshare?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="steamdb"
+    title="steamdb"
     src="https://cdn.simpleicons.org/steamdb?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="surrealdb"
+    title="surrealdb"
     src="https://cdn.simpleicons.org/surrealdb?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="temporal"
+    title="temporal"
     src="https://cdn.simpleicons.org/temporal?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="torproject"
+    title="torproject"
     src="https://cdn.simpleicons.org/torproject?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="trivy"
+    title="trivy"
     src="https://cdn.simpleicons.org/trivy?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="turso"
+    title="turso"
     src="https://cdn.simpleicons.org/turso?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="v8"
+    title="v8"
     src="https://cdn.simpleicons.org/v8?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="valve"
+    title="valve"
     src="https://cdn.simpleicons.org/valve?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="wasmer"
+    title="wasmer"
     src="https://cdn.simpleicons.org/wasmer?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="wayland"
+    title="wayland"
     src="https://cdn.simpleicons.org/wayland?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="webassembly"
+    title="webassembly"
     src="https://cdn.simpleicons.org/webassembly?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="webauthn"
+    title="webauthn"
     src="https://cdn.simpleicons.org/webauthn?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="webgl"
+    title="webgl"
     src="https://cdn.simpleicons.org/webgl?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="xdotorg"
+    title="xdotorg"
     src="https://cdn.simpleicons.org/xdotorg?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="zedindustries"
+    title="zedindustries"
     src="https://cdn.simpleicons.org/zedindustries?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="zig"
+    title="zig"
     src="https://cdn.simpleicons.org/zig?viewbox=auto&"
     width="24"
     height="24"
    />
 </div>
-
 <div
   align="center"
 >
   <img
-    sr="https://raw.githubusercontent.com/metaory/metaory/master/.github/assets/hr1.png"
+    src="https://raw.githubusercontent.com/metaory/metaory/master/.github/assets/divider.gif"
+    height="2"
+    width="100%"
    />
 </div>
 <div
   align="center"
 >
   <h3>
-    😊 stuff I regularly use 🚀
+    ≜ stuff I regularly use
   </h3>
   <img
     alt="1dot1dot1dot1"
+    title="1dot1dot1dot1"
     src="https://cdn.simpleicons.org/1dot1dot1dot1?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="alacritty"
+    title="alacritty"
     src="https://cdn.simpleicons.org/alacritty?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="alpinelinux"
+    title="alpinelinux"
     src="https://cdn.simpleicons.org/alpinelinux?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="archlinux"
+    title="archlinux"
     src="https://cdn.simpleicons.org/archlinux?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="asciidoctor"
+    title="asciidoctor"
     src="https://cdn.simpleicons.org/asciidoctor?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="asciinema"
+    title="asciinema"
     src="https://cdn.simpleicons.org/asciinema?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="astro"
+    title="astro"
     src="https://cdn.simpleicons.org/astro?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="authy"
+    title="authy"
     src="https://cdn.simpleicons.org/authy?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="awesomewm"
+    title="awesomewm"
     src="https://cdn.simpleicons.org/awesomewm?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="biome"
+    title="biome"
     src="https://cdn.simpleicons.org/biome?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="bun"
+    title="bun"
     src="https://cdn.simpleicons.org/bun?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="caldotcom"
+    title="caldotcom"
     src="https://cdn.simpleicons.org/caldotcom?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="cloudflarepages"
+    title="cloudflarepages"
     src="https://cdn.simpleicons.org/cloudflarepages?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="cloudflareworkers"
+    title="cloudflareworkers"
     src="https://cdn.simpleicons.org/cloudflareworkers?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="commitlint"
+    title="commitlint"
     src="https://cdn.simpleicons.org/commitlint?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="crunchyroll"
+    title="crunchyroll"
     src="https://cdn.simpleicons.org/crunchyroll?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="css3"
+    title="css3"
     src="https://cdn.simpleicons.org/css3?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="cssmodules"
+    title="cssmodules"
     src="https://cdn.simpleicons.org/cssmodules?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="curl"
+    title="curl"
     src="https://cdn.simpleicons.org/curl?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="darkreader"
+    title="darkreader"
     src="https://cdn.simpleicons.org/darkreader?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="deno"
+    title="deno"
     src="https://cdn.simpleicons.org/deno?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="devrant"
+    title="devrant"
     src="https://cdn.simpleicons.org/devrant?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="docker"
+    title="docker"
     src="https://cdn.simpleicons.org/docker?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="docusaurus"
+    title="docusaurus"
     src="https://cdn.simpleicons.org/docusaurus?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="dota2"
+    title="dota2"
     src="https://cdn.simpleicons.org/dota2?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="dotenv"
+    title="dotenv"
     src="https://cdn.simpleicons.org/dotenv?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="drizzle"
+    title="drizzle"
     src="https://cdn.simpleicons.org/drizzle?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="duckdb"
+    title="duckdb"
     src="https://cdn.simpleicons.org/duckdb?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="duckduckgo"
+    title="duckduckgo"
     src="https://cdn.simpleicons.org/duckduckgo?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="elastic"
+    title="elastic"
     src="https://cdn.simpleicons.org/elastic?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="elasticsearch"
+    title="elasticsearch"
     src="https://cdn.simpleicons.org/elasticsearch?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="envoyproxy"
+    title="envoyproxy"
     src="https://cdn.simpleicons.org/envoyproxy?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="esbuild"
+    title="esbuild"
     src="https://cdn.simpleicons.org/esbuild?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="eslint"
+    title="eslint"
     src="https://cdn.simpleicons.org/eslint?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="excalidraw"
+    title="excalidraw"
     src="https://cdn.simpleicons.org/excalidraw?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="fastapi"
+    title="fastapi"
     src="https://cdn.simpleicons.org/fastapi?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="ffmpeg"
+    title="ffmpeg"
     src="https://cdn.simpleicons.org/ffmpeg?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="fontbase"
+    title="fontbase"
     src="https://cdn.simpleicons.org/fontbase?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="gimp"
+    title="gimp"
     src="https://cdn.simpleicons.org/gimp?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="giphy"
+    title="giphy"
     src="https://cdn.simpleicons.org/giphy?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="git"
+    title="git"
     src="https://cdn.simpleicons.org/git?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="gitbook"
+    title="gitbook"
     src="https://cdn.simpleicons.org/gitbook?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="github"
+    title="github"
     src="https://cdn.simpleicons.org/github?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="githubactions"
+    title="githubactions"
     src="https://cdn.simpleicons.org/githubactions?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="githubpages"
+    title="githubpages"
     src="https://cdn.simpleicons.org/githubpages?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="gitkraken"
+    title="gitkraken"
     src="https://cdn.simpleicons.org/gitkraken?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="gitter"
+    title="gitter"
     src="https://cdn.simpleicons.org/gitter?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="gnubash"
+    title="gnubash"
     src="https://cdn.simpleicons.org/gnubash?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="go"
+    title="go"
     src="https://cdn.simpleicons.org/go?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="graphite"
+    title="graphite"
     src="https://cdn.simpleicons.org/graphite?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="gravatar"
+    title="gravatar"
     src="https://cdn.simpleicons.org/gravatar?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="gtk"
+    title="gtk"
     src="https://cdn.simpleicons.org/gtk?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="headlessui"
+    title="headlessui"
     src="https://cdn.simpleicons.org/headlessui?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="hono"
+    title="hono"
     src="https://cdn.simpleicons.org/hono?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="hoppscotch"
+    title="hoppscotch"
     src="https://cdn.simpleicons.org/hoppscotch?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="hotjar"
+    title="hotjar"
     src="https://cdn.simpleicons.org/hotjar?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="html5"
+    title="html5"
     src="https://cdn.simpleicons.org/html5?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="iconify"
+    title="iconify"
     src="https://cdn.simpleicons.org/iconify?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="ifttt"
+    title="ifttt"
     src="https://cdn.simpleicons.org/ifttt?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="inkscape"
+    title="inkscape"
     src="https://cdn.simpleicons.org/inkscape?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="javascript"
+    title="javascript"
     src="https://cdn.simpleicons.org/javascript?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="json"
+    title="json"
     src="https://cdn.simpleicons.org/json?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="jsonwebtokens"
+    title="jsonwebtokens"
     src="https://cdn.simpleicons.org/jsonwebtokens?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="jsr"
+    title="jsr"
     src="https://cdn.simpleicons.org/jsr?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="knowledgebase"
+    title="knowledgebase"
     src="https://cdn.simpleicons.org/knowledgebase?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="koa"
+    title="koa"
     src="https://cdn.simpleicons.org/koa?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="less"
+    title="less"
     src="https://cdn.simpleicons.org/less?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="letsencrypt"
+    title="letsencrypt"
     src="https://cdn.simpleicons.org/letsencrypt?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="libreoffice"
+    title="libreoffice"
     src="https://cdn.simpleicons.org/libreoffice?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="lightning"
+    title="lightning"
     src="https://cdn.simpleicons.org/lightning?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="linear"
+    title="linear"
     src="https://cdn.simpleicons.org/linear?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="linux"
+    title="linux"
     src="https://cdn.simpleicons.org/linux?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="linuxcontainers"
+    title="linuxcontainers"
     src="https://cdn.simpleicons.org/linuxcontainers?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="linuxserver"
+    title="linuxserver"
     src="https://cdn.simpleicons.org/linuxserver?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="lit"
+    title="lit"
     src="https://cdn.simpleicons.org/lit?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="logseq"
+    title="logseq"
     src="https://cdn.simpleicons.org/logseq?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="loom"
+    title="loom"
     src="https://cdn.simpleicons.org/loom?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="lua"
+    title="lua"
     src="https://cdn.simpleicons.org/lua?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="lucia"
+    title="lucia"
     src="https://cdn.simpleicons.org/lucia?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="make"
+    title="make"
     src="https://cdn.simpleicons.org/make?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="man"
+    title="man"
     src="https://cdn.simpleicons.org/man?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="markdown"
+    title="markdown"
     src="https://cdn.simpleicons.org/markdown?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="mdx"
+    title="mdx"
     src="https://cdn.simpleicons.org/mdx?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="microstrategy"
+    title="microstrategy"
     src="https://cdn.simpleicons.org/microstrategy?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="miro"
+    title="miro"
     src="https://cdn.simpleicons.org/miro?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="mpv"
+    title="mpv"
     src="https://cdn.simpleicons.org/mpv?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="n8n"
+    title="n8n"
     src="https://cdn.simpleicons.org/n8n?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="neovim"
+    title="neovim"
     src="https://cdn.simpleicons.org/neovim?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="nginx"
+    title="nginx"
     src="https://cdn.simpleicons.org/nginx?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="nginxproxymanager"
+    title="nginxproxymanager"
     src="https://cdn.simpleicons.org/nginxproxymanager?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="ngrok"
+    title="ngrok"
     src="https://cdn.simpleicons.org/ngrok?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="nixos"
+    title="nixos"
     src="https://cdn.simpleicons.org/nixos?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="nodedotjs"
+    title="nodedotjs"
     src="https://cdn.simpleicons.org/nodedotjs?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="nomad"
+    title="nomad"
     src="https://cdn.simpleicons.org/nomad?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="notion"
+    title="notion"
     src="https://cdn.simpleicons.org/notion?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="npm"
+    title="npm"
     src="https://cdn.simpleicons.org/npm?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="observable"
+    title="observable"
     src="https://cdn.simpleicons.org/observable?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="obsidian"
+    title="obsidian"
     src="https://cdn.simpleicons.org/obsidian?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="outline"
+    title="outline"
     src="https://cdn.simpleicons.org/outline?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="p5dotjs"
+    title="p5dotjs"
     src="https://cdn.simpleicons.org/p5dotjs?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="pagerduty"
+    title="pagerduty"
     src="https://cdn.simpleicons.org/pagerduty?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="planetscale"
+    title="planetscale"
     src="https://cdn.simpleicons.org/planetscale?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="postgresql"
+    title="postgresql"
     src="https://cdn.simpleicons.org/postgresql?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="precommit"
+    title="precommit"
     src="https://cdn.simpleicons.org/precommit?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="prettier"
+    title="prettier"
     src="https://cdn.simpleicons.org/prettier?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="proton"
+    title="proton"
     src="https://cdn.simpleicons.org/proton?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="puppeteer"
+    title="puppeteer"
     src="https://cdn.simpleicons.org/puppeteer?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="qmk"
+    title="qmk"
     src="https://cdn.simpleicons.org/qmk?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="radixui"
+    title="radixui"
     src="https://cdn.simpleicons.org/radixui?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="replit"
+    title="replit"
     src="https://cdn.simpleicons.org/replit?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="rollupdotjs"
+    title="rollupdotjs"
     src="https://cdn.simpleicons.org/rollupdotjs?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="runkit"
+    title="runkit"
     src="https://cdn.simpleicons.org/runkit?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="semanticrelease"
+    title="semanticrelease"
     src="https://cdn.simpleicons.org/semanticrelease?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="semver"
+    title="semver"
     src="https://cdn.simpleicons.org/semver?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="sentry"
+    title="sentry"
     src="https://cdn.simpleicons.org/sentry?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="shadcnui"
+    title="shadcnui"
     src="https://cdn.simpleicons.org/shadcnui?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="shell"
+    title="shell"
     src="https://cdn.simpleicons.org/shell?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="signal"
+    title="signal"
     src="https://cdn.simpleicons.org/signal?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="slack"
+    title="slack"
     src="https://cdn.simpleicons.org/slack?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="spotify"
+    title="spotify"
     src="https://cdn.simpleicons.org/spotify?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="sqlite"
+    title="sqlite"
     src="https://cdn.simpleicons.org/sqlite?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="sst"
+    title="sst"
     src="https://cdn.simpleicons.org/sst?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="stackbit"
+    title="stackbit"
     src="https://cdn.simpleicons.org/stackbit?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="stackedit"
+    title="stackedit"
     src="https://cdn.simpleicons.org/stackedit?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="standardjs"
+    title="standardjs"
     src="https://cdn.simpleicons.org/standardjs?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="starbucks"
+    title="starbucks"
     src="https://cdn.simpleicons.org/starbucks?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="steam"
+    title="steam"
     src="https://cdn.simpleicons.org/steam?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="stencil"
+    title="stencil"
     src="https://cdn.simpleicons.org/stencil?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="stylelint"
+    title="stylelint"
     src="https://cdn.simpleicons.org/stylelint?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="stylus"
+    title="stylus"
     src="https://cdn.simpleicons.org/stylus?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="suckless"
+    title="suckless"
     src="https://cdn.simpleicons.org/suckless?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="svelte"
+    title="svelte"
     src="https://cdn.simpleicons.org/svelte?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="svg"
+    title="svg"
     src="https://cdn.simpleicons.org/svg?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="swc"
+    title="swc"
     src="https://cdn.simpleicons.org/swc?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="tauri"
+    title="tauri"
     src="https://cdn.simpleicons.org/tauri?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="tmux"
+    title="tmux"
     src="https://cdn.simpleicons.org/tmux?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="toml"
+    title="toml"
     src="https://cdn.simpleicons.org/toml?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="travisci"
+    title="travisci"
     src="https://cdn.simpleicons.org/travisci?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="tui"
+    title="tui"
     src="https://cdn.simpleicons.org/tui?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="unicode"
+    title="unicode"
     src="https://cdn.simpleicons.org/unicode?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="uniqlo"
+    title="uniqlo"
     src="https://cdn.simpleicons.org/uniqlo?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="vim"
+    title="vim"
     src="https://cdn.simpleicons.org/vim?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="vite"
+    title="vite"
     src="https://cdn.simpleicons.org/vite?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="wakatime"
+    title="wakatime"
     src="https://cdn.simpleicons.org/wakatime?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="webcomponentsdotorg"
+    title="webcomponentsdotorg"
     src="https://cdn.simpleicons.org/webcomponentsdotorg?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="wezterm"
+    title="wezterm"
     src="https://cdn.simpleicons.org/wezterm?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="wikidata"
+    title="wikidata"
     src="https://cdn.simpleicons.org/wikidata?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="yaml"
+    title="yaml"
     src="https://cdn.simpleicons.org/yaml?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="zapier"
+    title="zapier"
     src="https://cdn.simpleicons.org/zapier?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="zsh"
+    title="zsh"
     src="https://cdn.simpleicons.org/zsh?viewbox=auto&"
     width="24"
     height="24"
    />
 </div>
-
 <div
   align="center"
 >
   <img
-    sr="https://raw.githubusercontent.com/metaory/metaory/master/.github/assets/hr2.png"
+    src="https://raw.githubusercontent.com/metaory/metaory/master/.github/assets/divider.gif"
+    height="2"
+    width="100%"
    />
 </div>
 <div
   align="center"
 >
   <h3>
-    🤢 stuff I moderately tolerate
+    ≙ stuff I moderately tolerate
   </h3>
   <img
     alt="amazon"
+    title="amazon"
     src="https://cdn.simpleicons.org/amazon?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="amazonapigateway"
+    title="amazonapigateway"
     src="https://cdn.simpleicons.org/amazonapigateway?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="amazoncloudwatch"
+    title="amazoncloudwatch"
     src="https://cdn.simpleicons.org/amazoncloudwatch?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="amazoncognito"
+    title="amazoncognito"
     src="https://cdn.simpleicons.org/amazoncognito?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="amazondocumentdb"
+    title="amazondocumentdb"
     src="https://cdn.simpleicons.org/amazondocumentdb?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="amazondynamodb"
+    title="amazondynamodb"
     src="https://cdn.simpleicons.org/amazondynamodb?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="amazonec2"
+    title="amazonec2"
     src="https://cdn.simpleicons.org/amazonec2?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="amazonecs"
+    title="amazonecs"
     src="https://cdn.simpleicons.org/amazonecs?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="amazoneks"
+    title="amazoneks"
     src="https://cdn.simpleicons.org/amazoneks?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="amazonelasticache"
+    title="amazonelasticache"
     src="https://cdn.simpleicons.org/amazonelasticache?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="amazoniam"
+    title="amazoniam"
     src="https://cdn.simpleicons.org/amazoniam?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="amazonroute53"
+    title="amazonroute53"
     src="https://cdn.simpleicons.org/amazonroute53?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="amazons3"
+    title="amazons3"
     src="https://cdn.simpleicons.org/amazons3?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="amazonsimpleemailservice"
+    title="amazonsimpleemailservice"
     src="https://cdn.simpleicons.org/amazonsimpleemailservice?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="amazonsqs"
+    title="amazonsqs"
     src="https://cdn.simpleicons.org/amazonsqs?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="amazonwebservices"
+    title="amazonwebservices"
     src="https://cdn.simpleicons.org/amazonwebservices?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="antdesign"
+    title="antdesign"
     src="https://cdn.simpleicons.org/antdesign?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="anthropic"
+    title="anthropic"
     src="https://cdn.simpleicons.org/anthropic?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="apache"
+    title="apache"
     src="https://cdn.simpleicons.org/apache?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="apollographql"
+    title="apollographql"
     src="https://cdn.simpleicons.org/apollographql?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="apple"
+    title="apple"
     src="https://cdn.simpleicons.org/apple?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="argo"
+    title="argo"
     src="https://cdn.simpleicons.org/argo?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="asana"
+    title="asana"
     src="https://cdn.simpleicons.org/asana?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="auth0"
+    title="auth0"
     src="https://cdn.simpleicons.org/auth0?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="awsamplify"
+    title="awsamplify"
     src="https://cdn.simpleicons.org/awsamplify?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="awslambda"
+    title="awslambda"
     src="https://cdn.simpleicons.org/awslambda?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="awssecretsmanager"
+    title="awssecretsmanager"
     src="https://cdn.simpleicons.org/awssecretsmanager?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="axios"
+    title="axios"
     src="https://cdn.simpleicons.org/axios?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="babel"
+    title="babel"
     src="https://cdn.simpleicons.org/babel?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="backbonedotjs"
+    title="backbonedotjs"
     src="https://cdn.simpleicons.org/backbonedotjs?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="bit"
+    title="bit"
     src="https://cdn.simpleicons.org/bit?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="brave"
+    title="brave"
     src="https://cdn.simpleicons.org/brave?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="buildkite"
+    title="buildkite"
     src="https://cdn.simpleicons.org/buildkite?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="calendly"
+    title="calendly"
     src="https://cdn.simpleicons.org/calendly?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="centos"
+    title="centos"
     src="https://cdn.simpleicons.org/centos?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="circleci"
+    title="circleci"
     src="https://cdn.simpleicons.org/circleci?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="clerk"
+    title="clerk"
     src="https://cdn.simpleicons.org/clerk?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="clickup"
+    title="clickup"
     src="https://cdn.simpleicons.org/clickup?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="cloudflare"
+    title="cloudflare"
     src="https://cdn.simpleicons.org/cloudflare?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="codesandbox"
+    title="codesandbox"
     src="https://cdn.simpleicons.org/codesandbox?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="couchbase"
+    title="couchbase"
     src="https://cdn.simpleicons.org/couchbase?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="crowdin"
+    title="crowdin"
     src="https://cdn.simpleicons.org/crowdin?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="datadog"
+    title="datadog"
     src="https://cdn.simpleicons.org/datadog?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="dbeaver"
+    title="dbeaver"
     src="https://cdn.simpleicons.org/dbeaver?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="debian"
+    title="debian"
     src="https://cdn.simpleicons.org/debian?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="dependabot"
+    title="dependabot"
     src="https://cdn.simpleicons.org/dependabot?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="discord"
+    title="discord"
     src="https://cdn.simpleicons.org/discord?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="electron"
+    title="electron"
     src="https://cdn.simpleicons.org/electron?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="expo"
+    title="expo"
     src="https://cdn.simpleicons.org/expo?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="express"
+    title="express"
     src="https://cdn.simpleicons.org/express?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="figma"
+    title="figma"
     src="https://cdn.simpleicons.org/figma?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="firefox"
+    title="firefox"
     src="https://cdn.simpleicons.org/firefox?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="formik"
+    title="formik"
     src="https://cdn.simpleicons.org/formik?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="gatsby"
+    title="gatsby"
     src="https://cdn.simpleicons.org/gatsby?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="genius"
+    title="genius"
     src="https://cdn.simpleicons.org/genius?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="gmail"
+    title="gmail"
     src="https://cdn.simpleicons.org/gmail?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="gnuemacs"
+    title="gnuemacs"
     src="https://cdn.simpleicons.org/gnuemacs?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="google"
+    title="google"
     src="https://cdn.simpleicons.org/google?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="googlechrome"
+    title="googlechrome"
     src="https://cdn.simpleicons.org/googlechrome?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="googlecloud"
+    title="googlecloud"
     src="https://cdn.simpleicons.org/googlecloud?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="grafana"
+    title="grafana"
     src="https://cdn.simpleicons.org/grafana?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="graphql"
+    title="graphql"
     src="https://cdn.simpleicons.org/graphql?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="hubspot"
+    title="hubspot"
     src="https://cdn.simpleicons.org/hubspot?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="icon"
+    title="icon"
     src="https://cdn.simpleicons.org/icon?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="jetbrains"
+    title="jetbrains"
     src="https://cdn.simpleicons.org/jetbrains?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="kibana"
+    title="kibana"
     src="https://cdn.simpleicons.org/kibana?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="knexdotjs"
+    title="knexdotjs"
     src="https://cdn.simpleicons.org/knexdotjs?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="kubernetes"
+    title="kubernetes"
     src="https://cdn.simpleicons.org/kubernetes?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="less"
+    title="less"
     src="https://cdn.simpleicons.org/less?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="logstash"
+    title="logstash"
     src="https://cdn.simpleicons.org/logstash?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="mailchimp"
+    title="mailchimp"
     src="https://cdn.simpleicons.org/mailchimp?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="mozilla"
+    title="mozilla"
     src="https://cdn.simpleicons.org/mozilla?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="nestjs"
+    title="nestjs"
     src="https://cdn.simpleicons.org/nestjs?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="nextdotjs"
+    title="nextdotjs"
     src="https://cdn.simpleicons.org/nextdotjs?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="nuxtdotjs"
+    title="nuxtdotjs"
     src="https://cdn.simpleicons.org/nuxtdotjs?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="openvpn"
+    title="openvpn"
     src="https://cdn.simpleicons.org/openvpn?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="owasp"
+    title="owasp"
     src="https://cdn.simpleicons.org/owasp?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="perl"
+    title="perl"
     src="https://cdn.simpleicons.org/perl?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="pnpm"
+    title="pnpm"
     src="https://cdn.simpleicons.org/pnpm?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="podman"
+    title="podman"
     src="https://cdn.simpleicons.org/podman?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="posthog"
+    title="posthog"
     src="https://cdn.simpleicons.org/posthog?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="postman"
+    title="postman"
     src="https://cdn.simpleicons.org/postman?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="pug"
+    title="pug"
     src="https://cdn.simpleicons.org/pug?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="pwa"
+    title="pwa"
     src="https://cdn.simpleicons.org/pwa?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="railway"
+    title="railway"
     src="https://cdn.simpleicons.org/railway?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="react"
+    title="react"
     src="https://cdn.simpleicons.org/react?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="reactquery"
+    title="reactquery"
     src="https://cdn.simpleicons.org/reactquery?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="redis"
+    title="redis"
     src="https://cdn.simpleicons.org/redis?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="render"
+    title="render"
     src="https://cdn.simpleicons.org/render?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="sass"
+    title="sass"
     src="https://cdn.simpleicons.org/sass?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="sequelize"
+    title="sequelize"
     src="https://cdn.simpleicons.org/sequelize?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="snyk"
+    title="snyk"
     src="https://cdn.simpleicons.org/snyk?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="solid"
+    title="solid"
     src="https://cdn.simpleicons.org/solid?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="stackexchange"
+    title="stackexchange"
     src="https://cdn.simpleicons.org/stackexchange?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="stackoverflow"
+    title="stackoverflow"
     src="https://cdn.simpleicons.org/stackoverflow?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="stripe"
+    title="stripe"
     src="https://cdn.simpleicons.org/stripe?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="supabase"
+    title="supabase"
     src="https://cdn.simpleicons.org/supabase?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="swagger"
+    title="swagger"
     src="https://cdn.simpleicons.org/swagger?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="tailwindcss"
+    title="tailwindcss"
     src="https://cdn.simpleicons.org/tailwindcss?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="terraform"
+    title="terraform"
     src="https://cdn.simpleicons.org/terraform?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="testinglibrary"
+    title="testinglibrary"
     src="https://cdn.simpleicons.org/testinglibrary?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="trpc"
+    title="trpc"
     src="https://cdn.simpleicons.org/trpc?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="twilio"
+    title="twilio"
     src="https://cdn.simpleicons.org/twilio?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="twitch"
+    title="twitch"
     src="https://cdn.simpleicons.org/twitch?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="typeorm"
+    title="typeorm"
     src="https://cdn.simpleicons.org/typeorm?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="typescript"
+    title="typescript"
     src="https://cdn.simpleicons.org/typescript?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="unpkg"
+    title="unpkg"
     src="https://cdn.simpleicons.org/unpkg?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="unsplash"
+    title="unsplash"
     src="https://cdn.simpleicons.org/unsplash?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="upstash"
+    title="upstash"
     src="https://cdn.simpleicons.org/upstash?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="vercel"
+    title="vercel"
     src="https://cdn.simpleicons.org/vercel?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="vuedotjs"
+    title="vuedotjs"
     src="https://cdn.simpleicons.org/vuedotjs?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="webrtc"
+    title="webrtc"
     src="https://cdn.simpleicons.org/webrtc?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="wireshark"
+    title="wireshark"
     src="https://cdn.simpleicons.org/wireshark?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="x"
+    title="x"
     src="https://cdn.simpleicons.org/x?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="xo"
+    title="xo"
     src="https://cdn.simpleicons.org/xo?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="ycombinator"
+    title="ycombinator"
     src="https://cdn.simpleicons.org/ycombinator?viewbox=auto&"
     width="24"
     height="24"
    />
 </div>
-
 <div
   align="center"
 >
   <img
-    sr="https://raw.githubusercontent.com/metaory/metaory/master/.github/assets/hr2.png"
+    src="https://raw.githubusercontent.com/metaory/metaory/master/.github/assets/divider.gif"
+    height="2"
+    width="100%"
    />
 </div>
 <div
   align="center"
 >
   <h3>
-    🤮 stuff I actively avoid 💩
+    ≚ stuff I actively avoid
   </h3>
   <img
     alt="adobe"
+    title="adobe"
     src="https://cdn.simpleicons.org/adobe?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="angular"
+    title="angular"
     src="https://cdn.simpleicons.org/angular?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="ansible"
+    title="ansible"
     src="https://cdn.simpleicons.org/ansible?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="apachecordova"
+    title="apachecordova"
     src="https://cdn.simpleicons.org/apachecordova?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="apachejmeter"
+    title="apachejmeter"
     src="https://cdn.simpleicons.org/apachejmeter?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="atlassian"
+    title="atlassian"
     src="https://cdn.simpleicons.org/atlassian?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="bitbucket"
+    title="bitbucket"
     src="https://cdn.simpleicons.org/bitbucket?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="bitcoin"
+    title="bitcoin"
     src="https://cdn.simpleicons.org/bitcoin?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="bootstrap"
+    title="bootstrap"
     src="https://cdn.simpleicons.org/bootstrap?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="chef"
+    title="chef"
     src="https://cdn.simpleicons.org/chef?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="confluence"
+    title="confluence"
     src="https://cdn.simpleicons.org/confluence?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="digitalocean"
+    title="digitalocean"
     src="https://cdn.simpleicons.org/digitalocean?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="django"
+    title="django"
     src="https://cdn.simpleicons.org/django?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="dotnet"
+    title="dotnet"
     src="https://cdn.simpleicons.org/dotnet?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="drupal"
+    title="drupal"
     src="https://cdn.simpleicons.org/drupal?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="dynatrace"
+    title="dynatrace"
     src="https://cdn.simpleicons.org/dynatrace?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="eclipseide"
+    title="eclipseide"
     src="https://cdn.simpleicons.org/eclipseide?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="emberdotjs"
+    title="emberdotjs"
     src="https://cdn.simpleicons.org/emberdotjs?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="facebook"
+    title="facebook"
     src="https://cdn.simpleicons.org/facebook?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="firebase"
+    title="firebase"
     src="https://cdn.simpleicons.org/firebase?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="fishshell"
+    title="fishshell"
     src="https://cdn.simpleicons.org/fishshell?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="flask"
+    title="flask"
     src="https://cdn.simpleicons.org/flask?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="flathub"
+    title="flathub"
     src="https://cdn.simpleicons.org/flathub?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="flatpak"
+    title="flatpak"
     src="https://cdn.simpleicons.org/flatpak?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="githubcopilot"
+    title="githubcopilot"
     src="https://cdn.simpleicons.org/githubcopilot?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="gitlab"
+    title="gitlab"
     src="https://cdn.simpleicons.org/gitlab?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="gnome"
+    title="gnome"
     src="https://cdn.simpleicons.org/gnome?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="grunt"
+    title="grunt"
     src="https://cdn.simpleicons.org/grunt?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="gulp"
+    title="gulp"
     src="https://cdn.simpleicons.org/gulp?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="handlebarsdotjs"
+    title="handlebarsdotjs"
     src="https://cdn.simpleicons.org/handlebarsdotjs?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="hashicorp"
+    title="hashicorp"
     src="https://cdn.simpleicons.org/hashicorp?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="heroku"
+    title="heroku"
     src="https://cdn.simpleicons.org/heroku?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="hibernate"
+    title="hibernate"
     src="https://cdn.simpleicons.org/hibernate?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="insomnia"
+    title="insomnia"
     src="https://cdn.simpleicons.org/insomnia?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="instagram"
+    title="instagram"
     src="https://cdn.simpleicons.org/instagram?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="ionic"
+    title="ionic"
     src="https://cdn.simpleicons.org/ionic?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="jenkins"
+    title="jenkins"
     src="https://cdn.simpleicons.org/jenkins?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="jest"
+    title="jest"
     src="https://cdn.simpleicons.org/jest?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="jira"
+    title="jira"
     src="https://cdn.simpleicons.org/jira?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="jirasoftware"
+    title="jirasoftware"
     src="https://cdn.simpleicons.org/jirasoftware?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="jquery"
+    title="jquery"
     src="https://cdn.simpleicons.org/jquery?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="kde"
+    title="kde"
     src="https://cdn.simpleicons.org/kde?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="laravel"
+    title="laravel"
     src="https://cdn.simpleicons.org/laravel?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="lodash"
+    title="lodash"
     src="https://cdn.simpleicons.org/lodash?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="meta"
+    title="meta"
     src="https://cdn.simpleicons.org/meta?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="mobx"
+    title="mobx"
     src="https://cdn.simpleicons.org/mobx?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="mocha"
+    title="mocha"
     src="https://cdn.simpleicons.org/mocha?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="modx"
+    title="modx"
     src="https://cdn.simpleicons.org/modx?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="mongodb"
+    title="mongodb"
     src="https://cdn.simpleicons.org/mongodb?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="mongoose"
+    title="mongoose"
     src="https://cdn.simpleicons.org/mongoose?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="mongoosedotws"
+    title="mongoosedotws"
     src="https://cdn.simpleicons.org/mongoosedotws?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="mui"
+    title="mui"
     src="https://cdn.simpleicons.org/mui?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="newrelic"
+    title="newrelic"
     src="https://cdn.simpleicons.org/newrelic?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="php"
+    title="php"
     src="https://cdn.simpleicons.org/php?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="postcss"
+    title="postcss"
     src="https://cdn.simpleicons.org/postcss?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="prisma"
+    title="prisma"
     src="https://cdn.simpleicons.org/prisma?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="puppet"
+    title="puppet"
     src="https://cdn.simpleicons.org/puppet?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="python"
+    title="python"
     src="https://cdn.simpleicons.org/python?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="qt"
+    title="qt"
     src="https://cdn.simpleicons.org/qt?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="reddit"
+    title="reddit"
     src="https://cdn.simpleicons.org/reddit?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="redux"
+    title="redux"
     src="https://cdn.simpleicons.org/redux?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="relay"
+    title="relay"
     src="https://cdn.simpleicons.org/relay?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="ruby"
+    title="ruby"
     src="https://cdn.simpleicons.org/ruby?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="rubyonrails"
+    title="rubyonrails"
     src="https://cdn.simpleicons.org/rubyonrails?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="safari"
+    title="safari"
     src="https://cdn.simpleicons.org/safari?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="sap"
+    title="sap"
     src="https://cdn.simpleicons.org/sap?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="selenium"
+    title="selenium"
     src="https://cdn.simpleicons.org/selenium?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="socketdotio"
+    title="socketdotio"
     src="https://cdn.simpleicons.org/socketdotio?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="sonarcloud"
+    title="sonarcloud"
     src="https://cdn.simpleicons.org/sonarcloud?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="splunk"
+    title="splunk"
     src="https://cdn.simpleicons.org/splunk?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="springboot"
+    title="springboot"
     src="https://cdn.simpleicons.org/springboot?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="storybook"
+    title="storybook"
     src="https://cdn.simpleicons.org/storybook?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="tampermonkey"
+    title="tampermonkey"
     src="https://cdn.simpleicons.org/tampermonkey?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="tensorflow"
+    title="tensorflow"
     src="https://cdn.simpleicons.org/tensorflow?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="tinder"
+    title="tinder"
     src="https://cdn.simpleicons.org/tinder?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="vagrant"
+    title="vagrant"
     src="https://cdn.simpleicons.org/vagrant?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="web3dotjs"
+    title="web3dotjs"
     src="https://cdn.simpleicons.org/web3dotjs?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="webex"
+    title="webex"
     src="https://cdn.simpleicons.org/webex?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="webflow"
+    title="webflow"
     src="https://cdn.simpleicons.org/webflow?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="webpack"
+    title="webpack"
     src="https://cdn.simpleicons.org/webpack?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="wix"
+    title="wix"
     src="https://cdn.simpleicons.org/wix?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="wordpress"
+    title="wordpress"
     src="https://cdn.simpleicons.org/wordpress?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="youtube"
+    title="youtube"
     src="https://cdn.simpleicons.org/youtube?viewbox=auto&"
     width="24"
     height="24"
    />
   <img
     alt="zoom"
+    title="zoom"
     src="https://cdn.simpleicons.org/zoom?viewbox=auto&"
     width="24"
     height="24"
@@ -2593,7 +3004,9 @@
   align="center"
 >
   <img
-    src="https://raw.githubusercontent.com/metaory/metaory/master/.github/assets/hr2.png"
+    src="https://raw.githubusercontent.com/metaory/metaory/master/.github/assets/divider.gif"
+    height="2"
+    width="100%"
    />
 </div>
 <div
@@ -2610,6 +3023,15 @@
   <img
     height="110"
     src="https://streak-stats.demolab.com?background=10,000000,110022,110033&border_radius=30&card_width=200&currStreakLabel=1177DD&currStreakNum=CC3377&dates=6644DD&excludeDaysLabel=DDAA33&fire=1177DD&hide_border=true&hide_current_streak=true&hide_longest_streak=true&hide_total_contributions=false&mode=weekly&ring=6644DD&sideLabels=1177DD&sideNums=6644DD&stroke=44DDBB&theme=dark-minimalist&user=metaory&"
+   />
+</div>
+<div
+  align="center"
+>
+  <img
+    src="https://raw.githubusercontent.com/metaory/metaory/master/.github/assets/divider.gif"
+    height="2"
+    width="100%"
    />
 </div>
 <div

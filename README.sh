@@ -15,31 +15,31 @@ command -v jq >/dev/null || exit 1
 
 source .env
 
-function parse {
+function write {
   while [ "$1" ]; do
     envsubst <"src/${1:?MISS}.json" | markup >>README.md
     shift
   done
 }
 
-parse header stats
-
-function hr { echo '["div",{"align":"center"},["img",{"sr":"'"${ASSETS}/hr$((RANDOM % 4))"'.png"}]]'; }
+write header stats divider
 
 for i in {1..4}; do
-  jq '["",'"$(hr)"',["div",{align:"center"},
+  jq '[["div",{align:"center"},
     (["h3",.[0]]), (
       .[1]|map(
           ["img", {
             alt:.,
+            title:.,
             src:["${SICO}/"+.+"?",{viewbox:"auto"}],
             width:"$IH",
             height:"$IH"
           }]
         ).[]
       )]]' <"src/list_${i}.json" | envsubst | markup >>README.md
+  write divider
 done
 
-parse streaks footer
+write streaks divider footer
 
 # vim: ft=bash

@@ -1,5 +1,4 @@
 [
-  ["div", { "align": "center" }, ["img", { "src": "${ASSETS}/hr2.png" }]],
   [
     "div",
     { "align": "center" },
