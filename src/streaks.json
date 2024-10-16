@@ -34,6 +34,7 @@
       "img",
       {
         "height": "$CH",
+        "valign": "center",
         "src": [
           "https://streak-stats.demolab.com?",
           {
@@ -64,6 +65,7 @@
       "img",
       {
         "height": "$CH",
+        "valign": "center",
         "src": [
           "https://streak-stats.demolab.com?",
           {
@@ -94,6 +96,7 @@
       "img",
       {
         "height": "$CH",
+        "valign": "center",
         "src": [
           "https://streak-stats.demolab.com?",
           {
