@@ -9,20 +9,10 @@
   <h4>
     Platform Engineer · Lead · Solution Architect · DevOps · Full-Stack · AWS · Lua · Node · Linux · nVim
   </h4>
-</div>
-<div
-  align="center"
->
   <img
     src="https://raw.githubusercontent.com/metaory/metaory/master/.github/assets/mxc.gif"
     height="200"
     valign="center"
-   />
-  <img
-    valign="center"
-    height="150"
-    width="45%"
-    src="https://github-readme-stats.vercel.app/api?bg_color=110022&border_radius=30&count_private=true&disable_animations=false&hide_border=true&hide_rank=false&hide_title=true&include_all_commits=true&locale=en&ring_color=4411FF&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&text_color=6688FF&username=metaory&"
    />
 </div>
 <div
@@ -3010,23 +3000,32 @@
     width="100%"
    />
 </div>
-<div
-  align="center"
->
-  <br />
-  <img
-    height="110"
-    src="https://streak-stats.demolab.com?background=10,000000,110022,110033&border_radius=30&card_width=200&currStreakLabel=1177DD&currStreakNum=CC3377&dates=6644DD&excludeDaysLabel=DDAA33&fire=1177DD&hide_border=true&hide_current_streak=false&hide_longest_streak=true&hide_total_contributions=true&mode=weekly&ring=6644DD&sideLabels=1177DD&sideNums=6644DD&stroke=44DDBB&theme=dark-minimalist&user=metaory&"
-   />
-  <img
-    height="110"
-    src="https://streak-stats.demolab.com?background=10,000000,110022,110033&border_radius=30&card_width=200&currStreakLabel=1177DD&currStreakNum=CC3377&dates=6644DD&excludeDaysLabel=DDAA33&fire=1177DD&hide_border=true&hide_current_streak=true&hide_longest_streak=false&hide_total_contributions=true&mode=weekly&ring=6644DD&sideLabels=1177DD&sideNums=6644DD&stroke=44DDBB&theme=dark-minimalist&user=metaory&"
-   />
-  <img
-    height="110"
-    src="https://streak-stats.demolab.com?background=10,000000,110022,110033&border_radius=30&card_width=200&currStreakLabel=1177DD&currStreakNum=CC3377&dates=6644DD&excludeDaysLabel=DDAA33&fire=1177DD&hide_border=true&hide_current_streak=true&hide_longest_streak=true&hide_total_contributions=false&mode=weekly&ring=6644DD&sideLabels=1177DD&sideNums=6644DD&stroke=44DDBB&theme=dark-minimalist&user=metaory&"
-   />
-</div>
+[41m ERROR [0m
+[31m
+ Expected ',' or ']' after array element in JSON at position 840 (line 33 column 5)[0m
+[34m
+ read input and output path from args[0m
+[33m	 markup [FILE] [FILE][0m
+[36m	 markup tpl.json index.html[0m
+[34m
+ read input path from args[0m
+[34m write output to standard output[0m
+[33m	 markup [FILE][0m
+[36m	 markup tpl.json[0m
+[32m	 markup tpl.json > index.html[0m
+[34m
+ read input from standard input[0m
+[34m write output to standard output[0m
+[33m	 cat FILE | markup[0m
+[36m	 cat tpl.json | markup[0m
+[32m	 cat tpl.json | markup > index.html[0m
+[34m
+ read from file descriptor[0m
+[34m write output to standard output[0m
+[33m	 markup < FILE[0m
+[36m	 markup < tpl.json[0m
+[32m	 markup < tpl.json > index.html 
+[0m
 <div
   align="center"
 >

@@ -6,6 +6,33 @@
     [
       "img",
       {
+        "valign": "center",
+        "height": "$SH",
+        "width": "30%",
+        "src": [
+          "https://github-readme-stats.vercel.app/api?",
+          {
+            "bg_color": "$BG",
+            "border_radius": "$RD",
+            "count_private": true,
+            "disable_animations": false,
+            "hide_border": true,
+            "hide_rank": false,
+            "hide_title": true,
+            "include_all_commits": true,
+            "locale": "en",
+            "ring_color": "$XG",
+            "show": "$SSHOW",
+            "show_icons": true,
+            "text_color": "$FG",
+            "username": "$USR"
+          }
+        ]
+      }
+    ]
+    [
+      "img",
+      {
         "height": "$CH",
         "src": [
           "https://streak-stats.demolab.com?",
