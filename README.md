@@ -37,7 +37,7 @@
   align="center"
 >
   <h3>
-    🔸 stuff I aspire
+    🔸 stuff I aspire 🔸
   </h3>
   <img
     alt="adventofcode"
@@ -515,7 +515,7 @@
   align="center"
 >
   <h3>
-    🔹 stuff I regularly use
+    🔹 stuff I regularly use 🔹
   </h3>
   <img
     alt="1dot1dot1dot1"
@@ -1581,7 +1581,7 @@
   align="center"
 >
   <h3>
-    🔺 stuff I moderately tolerate
+    🔺 stuff I moderately tolerate 🔺
   </h3>
   <img
     alt="amazon"
@@ -2409,7 +2409,7 @@
   align="center"
 >
   <h3>
-    🔻 stuff I actively avoid
+    🔻 stuff I actively avoid 🔻
   </h3>
   <img
     alt="adobe"
@@ -3012,6 +3012,7 @@
 <div
   align="center"
 >
+  <br />
   <img
     height="110"
     src="https://streak-stats.demolab.com?background=10,000000,110022,110033&border_radius=30&card_width=200&currStreakLabel=1177DD&currStreakNum=CC3377&dates=6644DD&excludeDaysLabel=DDAA33&fire=1177DD&hide_border=true&hide_current_streak=false&hide_longest_streak=true&hide_total_contributions=true&mode=weekly&ring=6644DD&sideLabels=1177DD&sideNums=6644DD&stroke=44DDBB&theme=dark-minimalist&user=metaory&"
