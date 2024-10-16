@@ -14,7 +14,8 @@
   align="center"
 >
   <img
-    src="https://raw.githubusercontent.com/metaory/metaory/master/.github/assets/mxc.png"
+    src="https://raw.githubusercontent.com/metaory/metaory/master/.github/assets/mxc.gif"
+    height="200"
     valign="center"
    />
   <img

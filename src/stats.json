@@ -2,7 +2,7 @@
   [
     "div",
     { "align": "center" },
-    ["img", { "src": "${ASSETS}/mxc.png", "valign": "center" }],
+    ["img", { "src": "${ASSETS}/mxc.gif", "height": "200", "valign": "center" }],
     [
       "img",
       {
