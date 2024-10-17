@@ -6,14 +6,10 @@
 <div
   align="center"
 >
+  <h3>メタオリ</h3>
   <h4>
     Platform Engineer · Lead · Solution Architect · DevOps · Full-Stack · AWS · Lua · Node · Linux · nVim
   </h4>
-  <img
-    src="https://raw.githubusercontent.com/metaory/metaory/master/.github/assets/mxc.gif"
-    height="200"
-    valign="center"
-   />
 </div>
 <div
   align="center"
