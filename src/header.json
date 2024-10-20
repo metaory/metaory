@@ -2,11 +2,10 @@
   [
     "div",
     { "align": "center" },
+    ["img", { "src": "${ASSETS}/metaory.svg", "height": "128", "valign": "center" }],
     [
       "h4",
       "Platform Engineer · Lead · Solution Architect · DevOps · Full-Stack · AWS · Lua · Node · Linux · nVim"
-    ],
-    ["img", { "src": "${ASSETS}/metaory.svg", "height": "200", "valign": "center" }],
-    ["img", { "src": "${ASSETS}/line_1.svg", "width": "100%", "valign": "center" }]
+    ]
   ]
 ]

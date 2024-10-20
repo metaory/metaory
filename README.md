@@ -6,19 +6,14 @@
 <div
   align="center"
 >
+  <img
+    src="https://raw.githubusercontent.com/metaory/metaory/master/.github/assets/metaory.svg"
+    height="128"
+    valign="center"
+   />
   <h4>
     Platform Engineer · Lead · Solution Architect · DevOps · Full-Stack · AWS · Lua · Node · Linux · nVim
   </h4>
-  <img
-    src="https://raw.githubusercontent.com/metaory/metaory/master/.github/assets/metaory.svg"
-    height="200"
-    valign="center"
-   />
-  <img
-    src="https://raw.githubusercontent.com/metaory/metaory/master/.github/assets/line_1.svg"
-    width="100%"
-    valign="center"
-   />
 </div>
 <div
   align="center"
