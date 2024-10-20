@@ -15,6 +15,10 @@ command -v jq >/dev/null || exit 1
 
 source .env
 
+function divider {
+  shuf < src/dots | fmt -w 120 | tr -d ' ' | head -n 1
+}
+
 function write {
   while [ "$1" ]; do
     envsubst <"src/${1:?MISS}.json" | markup >>README.md
