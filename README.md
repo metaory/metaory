@@ -13,7 +13,7 @@
    />
   <img
     src="https://raw.githubusercontent.com/metaory/metaory/master/.github/assets/line_1.svg"
-    height="14"
+    width="80%"
     valign="center"
    />
   <h4>
@@ -21,7 +21,7 @@
   </h4>
   <img
     src="https://raw.githubusercontent.com/metaory/metaory/master/.github/assets/line_2.svg"
-    height="14"
+    width="80%"
     valign="center"
    />
 </div>
