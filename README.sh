@@ -26,7 +26,7 @@ function write {
   done
 }
 
-write header divider
+write header
 
 for i in {1..4}; do
   jq '[["div",{align:"center"},

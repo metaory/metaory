@@ -11,27 +11,13 @@
     height="128"
     valign="center"
    />
-  <img
-    src="https://raw.githubusercontent.com/metaory/metaory/master/.github/assets/line_1.svg"
-    width="80%"
-    valign="center"
-   />
   <h4>
     Platform Engineer · Lead · Solution Architect · DevOps · Full-Stack · AWS · Lua · Node · Linux · nVim
   </h4>
   <img
-    src="https://raw.githubusercontent.com/metaory/metaory/master/.github/assets/line_2.svg"
+    src="https://raw.githubusercontent.com/metaory/metaory/master/.github/assets/line_1.svg"
     width="80%"
     valign="center"
-   />
-</div>
-<div
-  align="center"
->
-  <img
-    src="https://raw.githubusercontent.com/metaory/metaory/master/.github/assets/divider.gif"
-    height="2"
-    width="100%"
    />
 </div>
 <div
@@ -3071,4 +3057,9 @@
     </a>
     markups
   </h5>
+  <img
+    src="https://raw.githubusercontent.com/metaory/metaory/master/.github/assets/line_2.svg"
+    width="80%"
+    valign="center"
+   />
 </div>

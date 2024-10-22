@@ -11,6 +11,7 @@
       "from",
       ["a", { "href": "src" }, "src/*.json"],
       "markups"
-    ]
+    ],
+    ["img", { "src": "${ASSETS}/line_2.svg", "width": "80%", "valign": "center" }]
   ]
 ]
