@@ -11,9 +11,19 @@
     height="128"
     valign="center"
    />
+  <img
+    src="https://raw.githubusercontent.com/metaory/metaory/master/.github/assets/line_1.svg"
+    height="14"
+    valign="center"
+   />
   <h4>
     Platform Engineer · Lead · Solution Architect · DevOps · Full-Stack · AWS · Lua · Node · Linux · nVim
   </h4>
+  <img
+    src="https://raw.githubusercontent.com/metaory/metaory/master/.github/assets/line_2.svg"
+    height="14"
+    valign="center"
+   />
 </div>
 <div
   align="center"
@@ -1572,7 +1582,7 @@
   align="center"
 >
   <h3>
-    🔺 stuff I moderately tolerate 🔺
+    🔺 stuff I moderately tolerate
   </h3>
   <img
     alt="amazon"
