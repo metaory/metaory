@@ -12,7 +12,7 @@
     valign="center"
    />
   <h4>
-    Platform Engineer · Lead · Solution Architect · DevOps · Full-Stack · AWS · Lua · Node · Linux · nVim
+    Platform Engineer · Principal SWE · Solution Architect · AWS · Lua · Node · Linux · nVim
   </h4>
   <img
     src="https://raw.githubusercontent.com/metaory/metaory/master/.github/assets/line_1.svg"
