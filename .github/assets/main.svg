@@ -52,6 +52,6 @@
       </feMerge>
     </filter>
   </defs>
-  <image href="orig.png" filter="url(#glitch_bg)" width="100%" />
-  <image href="metaory.svg" height="100%" width="100%" />
+  <image href="https://raw.githubusercontent.com/metaory/metaory/refs/heads/master/.github/assets/orig.png" filter="url(#glitch_bg)" width="100%" />
+  <image href="https://raw.githubusercontent.com/metaory/metaory/refs/heads/master/.github/assets/metaory.svg" height="100%" width="100%" />
 </svg>
