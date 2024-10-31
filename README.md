@@ -2998,6 +2998,7 @@
 </div>
 <div
   align="center"
+  valign="center"
 >
   <br />
   <img

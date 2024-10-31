@@ -1,7 +1,7 @@
 [
   [
     "div",
-    { "align": "center" },
+    { "align": "center", "valign": "center" },
     ["br"],
     [
       "img",
