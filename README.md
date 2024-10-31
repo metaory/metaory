@@ -7,7 +7,8 @@
   align="center"
 >
   <img
-    src="https://raw.githubusercontent.com/metaory/metaory/master/.github/assets/main.svg"
+    src="https://raw.githubusercontent.com/metaory/metaory/master/.github/assets/metaory.svg"
+    height="90"
     valign="center"
    />
   <h4>
@@ -3041,7 +3042,7 @@
   align="center"
 >
   <img
-    src="https://raw.githubusercontent.com/metaory/metaory/master/.github/assets/home.png"
+    src="https://raw.githubusercontent.com/metaory/metaory/master/.github/assets/main.svg"
    />
   <h5>
     <a

@@ -2,7 +2,7 @@
   [
     "div",
     { "align": "center" },
-    ["img", { "src": "${ASSETS}/home.png" }],
+    ["img", { "src": "${ASSETS}/main.svg" }],
     [
       "h5",
       ["a", { "href": "README.sh" }, "README.sh"],
