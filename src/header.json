@@ -2,7 +2,7 @@
   [
     "div",
     { "align": "center" },
-    ["img", { "src": "${ASSETS}/metaory.svg", "height": "128", "valign": "center" }],
+    ["img", { "src": "${ASSETS}/metaory.svg", "height": "90", "valign": "center" }],
     ["h4", "Platform Engineer · Principal SWE"],
     ["h5", "Solution Architect · AWS"],
     ["h6", "Lua · Node · Linux · nVim"],
