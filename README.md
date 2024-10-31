@@ -7,8 +7,7 @@
   align="center"
 >
   <img
-    src="https://raw.githubusercontent.com/metaory/metaory/master/.github/assets/metaory.svg"
-    height="90"
+    src="https://raw.githubusercontent.com/metaory/metaory/master/.github/assets/main.svg"
     valign="center"
    />
   <h4>
