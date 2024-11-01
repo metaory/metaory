@@ -3042,7 +3042,7 @@
   align="center"
 >
   <img
-    src=".github/assets/main.svg"
+    src="https://cdn.jsdelivr.net/gh/metaory/metaory@master/.github/assets/main.svg"
    />
   <h5>
     <a
