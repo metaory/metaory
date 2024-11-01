@@ -2,7 +2,7 @@
   [
     "div",
     { "align": "center" },
-    ["img", { "src": "${ASSETS}/main.svg" }],
+    ["img", { "src": ".github/assets/main.svg" }],
     [
       "h5",
       ["a", { "href": "README.sh" }, "README.sh"],
