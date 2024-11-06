@@ -7,7 +7,7 @@
   https://github.com/metaory/glitcher-cli -->
 
   <text filter="url(#glitch_text)" font-family="monospace, serif" font-weight="bolder" font-size="x-large"
-    fill="#DDCCFF" text-anchor="middle" dominant-baseline="mathematical" x="50%" y="42%">ꤷꤵ꠵𐌕𐤠ዐⵤꚧ꓾</text>
+    fill="#DDCCFF" text-anchor="middle" dominant-baseline="mathematical" x="50%" y="42%">ꤷꤵꤲ𐌕𐤠ዐⵤꚧ꓾</text>
   <defs>
     <filter id="glitch_text" primitiveUnits="objectBoundingBox" x="-10%" y="0%" width="120%" height="100%">
       <feColorMatrix in="SourceGraphic" result="red" type="matrix" values="1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0" />
