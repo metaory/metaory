@@ -2095,9 +2095,9 @@
     height="24"
    />
   <img
-    alt="nuxtdotjs"
-    title="nuxtdotjs"
-    src="https://cdn.simpleicons.org/nuxtdotjs?viewbox=auto&"
+    alt="nuxt"
+    title="nuxt"
+    src="https://cdn.simpleicons.org/nuxt?viewbox=auto&"
     width="24"
     height="24"
    />
@@ -2404,13 +2404,6 @@
   <h3>
     🔻 stuff I actively avoid 🔻
   </h3>
-  <img
-    alt="adobe"
-    title="adobe"
-    src="https://cdn.simpleicons.org/adobe?viewbox=auto&"
-    width="24"
-    height="24"
-   />
   <img
     alt="angular"
     title="angular"
@@ -3041,9 +3034,6 @@
 <div
   align="center"
 >
-  <img
-    src="https://cdn.jsdelivr.net/gh/metaory/metaory@master/.github/assets/main.svg"
-   />
   <h5>
     <a
       href="README.sh"
