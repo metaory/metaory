@@ -2,10 +2,10 @@
   [
     "div",
     { "align": "center" },
-    ["img", { "src": "${ASSETS}/metaory.svg", "height": "90", "valign": "center" }],
+    ["img", { "src": "${ASSETS}/metaory.svg", "height": "60", "valign": "center" }],
     ["h4", "Platform Engineer · Principal SWE"],
     ["h5", "Solution Architect · AWS"],
     ["h6", "Lua · Node · Linux · nVim"],
-    ["img", { "src": "${ASSETS}/line_1.svg", "width": "80%", "valign": "center" }]
+    ["img", { "src": "${ASSETS}/line_1.svg", "height": "40", "valign": "center" }]
   ]
 ]

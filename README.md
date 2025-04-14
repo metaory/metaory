@@ -8,7 +8,7 @@
 >
   <img
     src="https://raw.githubusercontent.com/metaory/metaory/master/.github/assets/metaory.svg"
-    height="90"
+    height="60"
     valign="center"
    />
   <h4>
@@ -22,7 +22,7 @@
   </h6>
   <img
     src="https://raw.githubusercontent.com/metaory/metaory/master/.github/assets/line_1.svg"
-    width="80%"
+    height="40"
     valign="center"
    />
 </div>
@@ -3001,12 +3001,6 @@
 >
   <br />
   <img
-    valign="center"
-    height="150"
-    width="30%"
-    src="https://github-readme-stats.vercel.app/api?bg_color=110022&border_radius=30&count_private=true&disable_animations=false&hide_border=true&hide_rank=false&hide_title=true&include_all_commits=true&locale=en&ring_color=4411FF&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&text_color=6688FF&username=metaory&"
-   />
-  <img
     height="110"
     valign="center"
     src="https://streak-stats.demolab.com?background=10,000000,110022,110033&border_radius=30&card_width=200&currStreakLabel=1177DD&currStreakNum=CC3377&dates=6644DD&excludeDaysLabel=DDAA33&fire=1177DD&hide_border=true&hide_current_streak=false&hide_longest_streak=true&hide_total_contributions=true&mode=weekly&ring=6644DD&sideLabels=1177DD&sideNums=6644DD&stroke=44DDBB&theme=dark-minimalist&user=metaory&"
@@ -3056,7 +3050,7 @@
   </h5>
   <img
     src="https://raw.githubusercontent.com/metaory/metaory/master/.github/assets/line_2.svg"
-    width="80%"
+    height="40"
     valign="center"
    />
 </div>

@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg"
-     viewBox="0 0 108 22" >
+     viewBox="0 0 24 22" >
       <!-- made with glitcher-cli v0.7
         █▀▀ █░░ █ ▀█▀ █▀▀ █░█ █▀▀ █▀█
         █▄█ █▄▄ █ ░█░ █▄▄ █▀█ ██▄ █▀▄
@@ -16,7 +16,7 @@
             textLength="70%"
             dominant-baseline="mathematical"
             x="50%" y="30%"
-      >ꤷꤵꤲ𐌕𐤠ዐⵤꚧ꓾</text>
+      >ꚧ꓾</text>
       <defs>
       <filter id="glitch"
               primitiveUnits="objectBoundingBox"
@@ -40,10 +40,10 @@
                     dx="-0.01"
                     dy="0">
           <animate attributeName="dx"
-                   keyTimes="0; 0.14; 0.18; 0.19; 0.21; 0.23; 0.38; 0.41; 0.44; 0.66; 0.89; 0.90; 0.93"
-                   values="-0.00; 0.01; 0.01; 0.00; -0.01; 0.00; 0.01; -0.00; -0.00; 0.01; -0.00; -0.00; -0.01"
+                   keyTimes="0; 0.10; 0.11; 0.21; 0.44; 0.45; 0.75; 0.76; 0.85; 0.98"
+                   values="-0.01; 0.00; -0.00; 0.01; 0.00; 0.01; -0.00; 0.00; 0.00; -0.00"
                    begin="0"
-                   dur="19.51s"
+                   dur="19.18s"
                    calcMode="discrete"
                    repeatCount="indefinite"
                    fill="freeze" />
@@ -53,10 +53,10 @@
                       dx="0.01"
                       dy="0">
                 <animate attributeName="dx"
-                         keyTimes="0; 0.20; 0.26; 0.27; 0.39; 0.53; 0.73"
-                         values="-0.00; 0.01; -0.01; -0.00; -0.00; 0.01; 0.00"
+                         keyTimes="0; 0.16; 0.21; 0.50; 0.54; 0.69; 0.93"
+                         values="-0.00; -0.00; 0.00; -0.00; 0.01; 0.00; -0.00"
                          begin="0"
-                         dur="16.90s"
+                         dur="17.39s"
                          calcMode="discrete"
                          repeatCount="indefinite"
                          fill="freeze" />
@@ -73,19 +73,19 @@
               dx="0"
               dy="0"
               y="0%"
-              height="19.18%"
+              height="18.22%"
               result="slice_1a" />
     <feOffset in="blended"
               dx="0"
               dy="0"
-              y="19.18%"
-              height="11.64%"
+              y="18.22%"
+              height="13.85%"
               result="slice_1b">
         <animate attributeName="dx"
-                 keyTimes="0; 0.18; 0.30; 0.31; 0.53; 0.58; 0.96"
-                 values="-0.00; 0.01; 0.00; -0.00; 0.01; 0.00; -0.00"
+                 keyTimes="0; 0.09; 0.16; 0.20; 0.35; 0.43; 0.49; 0.51; 0.55; 0.84; 0.90; 0.98"
+                 values="-0.00; 0.01; 0.00; -0.00; -0.00; 0.01; -0.00; 0.00; -0.01; 0.00; 0.00; -0.01"
                  begin="0s"
-                 dur="21.12s"
+                 dur="10.69s"
                  calcMode="discrete"
                  repeatCount="indefinite"
                  fill="freeze" />
@@ -93,20 +93,20 @@
     <feOffset in="blended"
               dx="0"
               dy="0"
-              y="30%"
-              height="15.69%"
+              y="32%"
+              height="15.66%"
               result="slice_2a" />
     <feOffset in="blended"
               dx="0"
               dy="0"
-              y="45.69%"
-              height="13.02%"
+              y="47.66%"
+              height="13.21%"
               result="slice_2b">
         <animate attributeName="dx"
-                 keyTimes="0; 0.19; 0.33; 0.36; 0.37; 0.53; 0.61; 0.76; 0.96"
-                 values="-0.00; 0.01; -0.01; -0.01; -0.00; -0.01; 0.00; 0.01; -0.00"
+                 keyTimes="0; 0.16; 0.22; 0.30; 0.36; 0.38; 0.40; 0.43; 0.44; 0.50; 0.60; 0.64"
+                 values="0.01; 0.01; -0.00; 0.00; 0.01; 0.01; -0.01; -0.00; -0.00; -0.00; 0.00; -0.01"
                  begin="0s"
-                 dur="10.33s"
+                 dur="12.66s"
                  calcMode="discrete"
                  repeatCount="indefinite"
                  fill="freeze" />
@@ -114,20 +114,20 @@
     <feOffset in="blended"
               dx="0"
               dy="0"
-              y="58%"
-              height="14.46%"
+              y="60%"
+              height="14.13%"
               result="slice_3a" />
     <feOffset in="blended"
               dx="0"
               dy="0"
-              y="72.46%"
-              height="13.89%"
+              y="74.13%"
+              height="12.95%"
               result="slice_3b">
         <animate attributeName="dx"
-                 keyTimes="0; 0.10; 0.14; 0.18; 0.30; 0.52; 0.79"
-                 values="-0.00; 0.01; 0.00; 0.01; 0.01; 0.00; 0.00"
+                 keyTimes="0; 0.11; 0.28; 0.71; 0.76; 0.82; 0.86"
+                 values="0.01; 0.00; -0.00; 0.01; -0.00; -0.00; 0.00"
                  begin="0s"
-                 dur="17.01s"
+                 dur="20.48s"
                  calcMode="discrete"
                  repeatCount="indefinite"
                  fill="freeze" />
@@ -135,20 +135,20 @@
     <feOffset in="blended"
               dx="0"
               dy="0"
-              y="86%"
-              height="15.88%"
+              y="87%"
+              height="11.01%"
               result="slice_4a" />
     <feOffset in="blended"
               dx="0"
               dy="0"
-              y="101.88%"
-              height="13.44%"
+              y="98.01%"
+              height="10.98%"
               result="slice_4b">
         <animate attributeName="dx"
-                 keyTimes="0; 0.18; 0.46; 0.53; 0.54; 0.66; 0.72; 0.76; 0.77; 0.88"
-                 values="-0.01; -0.00; 0.00; -0.00; 0.00; 0.00; -0.00; -0.00; 0.01; 0.01"
+                 keyTimes="0; 0.09; 0.20; 0.24; 0.33; 0.43; 0.63; 0.89"
+                 values="-0.01; -0.00; 0.00; -0.00; -0.00; -0.00; -0.01; -0.00"
                  begin="0s"
-                 dur="19.82s"
+                 dur="23.85s"
                  calcMode="discrete"
                  repeatCount="indefinite"
                  fill="freeze" />
