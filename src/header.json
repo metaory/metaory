@@ -1,0 +1,15 @@
+[
+  [
+    "div",
+    { "align": "center" },
+    ["img", { "src": "assets/logo.svg", "height": "70", "valign": "center" }],
+    ["br"],
+    ["b", "Principal // Platform SWE"],
+    ["p", "Solution Architect # AWS "],
+    ["b", "::JS·SH·Lua·JQ::"],
+    ["br"],
+    ["b", "Arch·X11·AWM·Tmux·nVim"],
+    ["br"],
+    ["img", { "src": "assets/line.svg", "width": "220", "valign": "center" }]
+  ]
+]
