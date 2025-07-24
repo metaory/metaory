@@ -1,0 +1,17 @@
+[
+  [
+    "div",
+    { "align": "center" },
+    [
+      "sup",
+      [
+        "i",
+        ["a", { "href": "README.sh" }, "README.sh"],
+        "generated this readme with",
+        ["a", { "href": "https://github.com/metaory/markup.json" }, "markup.json"]
+      ]
+    ],
+    ["br"],
+    ["kbd", "updated @${NOW}"]
+  ]
+]
