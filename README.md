@@ -949,7 +949,7 @@
         </a>
       </h3>
       <strong>
-        returns the path at which a provided pattern exists, checking the current directory and any parent folders recursively up
+        returns the path at which a provided pattern exists, checking the current directory and any parent directories recursively up
       </strong>
       <div>
         <a
@@ -4160,6 +4160,6 @@
   </sup>
   <br />
   <kbd>
-    updated @1753700000
+    updated @1753800000
   </kbd>
 </div>
