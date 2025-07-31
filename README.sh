@@ -118,7 +118,7 @@ for i in {1..4}; do
 done
 
 now="$(date +%s)"
-export NOW="${now::5}00000"
+export NOW="${now::4}000000"
 
 append footer
 
