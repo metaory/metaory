@@ -594,7 +594,7 @@
         </a>
       </h3>
       <strong>
-        Legacy JSONResume handlebars port to Vite
+        Modern Vite-based JSONResume theme with Iconify integration, customizable colors, and PDF export capabilities
       </strong>
       <div>
         <a
