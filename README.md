@@ -47,6 +47,41 @@
     >
       <h3>
         <a
+          href="https://github.com/metaory/coloruv"
+        >
+          coloruv
+        </a>
+      </h3>
+      <strong>
+        a minimal natural color picker
+      </strong>
+      <div>
+        <a
+          href="https://metaory.github.io/coloruv/"
+        >
+          metaory.github.io/coloruv/
+        </a>
+      </div>
+      <div>
+        <em>
+          Aug 2025
+        </em>
+        ·
+        <strong>
+          ⭐3
+        </strong>
+        ·
+        <kbd>
+          JavaScript
+        </kbd>
+      </div>
+    </td>
+    <td
+      width="50%"
+      align="center"
+    >
+      <h3>
+        <a
           href="https://github.com/metaory/nyaa-cli"
         >
           nyaa-cli
@@ -69,6 +104,8 @@
         </kbd>
       </div>
     </td>
+  </tr>
+  <tr>
     <td
       width="50%"
       align="center"
@@ -97,8 +134,6 @@
         </kbd>
       </div>
     </td>
-  </tr>
-  <tr>
     <td
       width="50%"
       align="center"
@@ -127,6 +162,8 @@
         </kbd>
       </div>
     </td>
+  </tr>
+  <tr>
     <td
       width="50%"
       align="center"
@@ -162,8 +199,6 @@
         </kbd>
       </div>
     </td>
-  </tr>
-  <tr>
     <td
       width="50%"
       align="center"
@@ -199,6 +234,8 @@
         </kbd>
       </div>
     </td>
+  </tr>
+  <tr>
     <td
       width="50%"
       align="center"
@@ -234,8 +271,6 @@
         </kbd>
       </div>
     </td>
-  </tr>
-  <tr>
     <td
       width="50%"
       align="center"
@@ -271,6 +306,8 @@
         </kbd>
       </div>
     </td>
+  </tr>
+  <tr>
     <td
       width="50%"
       align="center"
@@ -306,8 +343,6 @@
         </kbd>
       </div>
     </td>
-  </tr>
-  <tr>
     <td
       width="50%"
       align="center"
@@ -343,6 +378,8 @@
         </kbd>
       </div>
     </td>
+  </tr>
+  <tr>
     <td
       width="50%"
       align="center"
@@ -371,8 +408,6 @@
         </kbd>
       </div>
     </td>
-  </tr>
-  <tr>
     <td
       width="50%"
       align="center"
@@ -401,6 +436,8 @@
         </kbd>
       </div>
     </td>
+  </tr>
+  <tr>
     <td
       width="50%"
       align="center"
@@ -429,8 +466,6 @@
         </kbd>
       </div>
     </td>
-  </tr>
-  <tr>
     <td
       width="50%"
       align="center"
@@ -466,6 +501,8 @@
         </kbd>
       </div>
     </td>
+  </tr>
+  <tr>
     <td
       width="50%"
       align="center"
@@ -494,8 +531,6 @@
         </kbd>
       </div>
     </td>
-  </tr>
-  <tr>
     <td
       width="50%"
       align="center"
@@ -524,6 +559,8 @@
         </kbd>
       </div>
     </td>
+  </tr>
+  <tr>
     <td
       width="50%"
       align="center"
@@ -552,8 +589,6 @@
         </kbd>
       </div>
     </td>
-  </tr>
-  <tr>
     <td
       width="50%"
       align="center"
@@ -582,6 +617,8 @@
         </kbd>
       </div>
     </td>
+  </tr>
+  <tr>
     <td
       width="50%"
       align="center"
@@ -617,8 +654,6 @@
         </kbd>
       </div>
     </td>
-  </tr>
-  <tr>
     <td
       width="50%"
       align="center"
@@ -654,6 +689,8 @@
         </kbd>
       </div>
     </td>
+  </tr>
+  <tr>
     <td
       width="50%"
       align="center"
@@ -689,8 +726,6 @@
         </kbd>
       </div>
     </td>
-  </tr>
-  <tr>
     <td
       width="50%"
       align="center"
@@ -726,6 +761,8 @@
         </kbd>
       </div>
     </td>
+  </tr>
+  <tr>
     <td
       width="50%"
       align="center"
@@ -761,8 +798,6 @@
         </kbd>
       </div>
     </td>
-  </tr>
-  <tr>
     <td
       width="50%"
       align="center"
@@ -791,6 +826,8 @@
         </kbd>
       </div>
     </td>
+  </tr>
+  <tr>
     <td
       width="50%"
       align="center"
@@ -819,8 +856,6 @@
         </kbd>
       </div>
     </td>
-  </tr>
-  <tr>
     <td
       width="50%"
       align="center"
@@ -849,6 +884,8 @@
         </kbd>
       </div>
     </td>
+  </tr>
+  <tr>
     <td
       width="50%"
       align="center"
@@ -877,8 +914,6 @@
         </kbd>
       </div>
     </td>
-  </tr>
-  <tr>
     <td
       width="50%"
       align="center"
@@ -907,6 +942,8 @@
         </kbd>
       </div>
     </td>
+  </tr>
+  <tr>
     <td
       width="50%"
       align="center"
@@ -935,8 +972,6 @@
         </kbd>
       </div>
     </td>
-  </tr>
-  <tr>
     <td
       width="50%"
       align="center"
@@ -972,6 +1007,8 @@
         </kbd>
       </div>
     </td>
+  </tr>
+  <tr>
     <td
       width="50%"
       align="center"
@@ -1007,8 +1044,6 @@
         </kbd>
       </div>
     </td>
-  </tr>
-  <tr>
     <td
       width="50%"
       align="center"
@@ -1037,6 +1072,8 @@
         </kbd>
       </div>
     </td>
+  </tr>
+  <tr>
     <td
       width="50%"
       align="center"
@@ -1065,8 +1102,6 @@
         </kbd>
       </div>
     </td>
-  </tr>
-  <tr>
     <td
       width="50%"
       align="center"
@@ -1095,6 +1130,8 @@
         </kbd>
       </div>
     </td>
+  </tr>
+  <tr>
     <td
       width="50%"
       align="center"
