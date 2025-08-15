@@ -53,7 +53,7 @@
         </a>
       </h3>
       <strong>
-        [ຟip] 🚧 Minimal Distraction‑free Markdown editor
+        [wip] 🚧 Minimal Distraction‑free Markdown editor
       </strong>
       <div>
         <a
@@ -335,7 +335,7 @@
         </em>
         ·
         <strong>
-          ⭐2
+          ⭐3
         </strong>
         ·
         <kbd>
