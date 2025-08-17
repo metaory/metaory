@@ -75,7 +75,7 @@ function repositories {
      topics: (.repositoryTopics // [] | map(.name)),
    })' | tee /tmp/repos.json |
     jq ' [.[] | select(.topics | index("pin"))] | sort_by(.createdAt) | reverse | [
-    ["h4", {"align": "center"}, "F꠵atured Projects"],
+    ["h4", {"align": "center"}, "Personal Projects"],
     ["table", {"align": "center"}, (
       to_entries |
       group_by(.key / 2 | floor) |

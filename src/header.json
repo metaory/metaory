@@ -10,6 +10,13 @@
     ["br"],
     ["b", "Arch·X11·AWM·Tmux·nVim"],
     ["br"],
-    ["img", { "src": "assets/line.svg", "width": "220", "valign": "center" }]
+    ["img", { "src": "assets/line.svg", "width": "220", "valign": "center" }],
+    ["br"],
+    ["strong", "16+ years building"],
+    ["br"],
+    ["small", "full-stack, distributed platforms"],
+    ["br"],
+    ["small", "and cloud architecture"],
+    ["hr"]
   ]
 ]

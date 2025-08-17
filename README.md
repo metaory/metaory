@@ -31,15 +31,100 @@
     width="220"
     valign="center"
    />
+  <br />
+  <strong>
+    16+ years building
+  </strong>
+  <br />
+  <small>
+    full-stack, distributed platforms
+  </small>
+  <br />
+  <small>
+    and cloud architecture
+  </small>
+  <hr />
 </div>
 <h4
   align="center"
 >
-  F꠵atured Projects
+  Personal Projects
 </h4>
 <table
   align="center"
 >
+  <tr>
+    <td
+      width="50%"
+      align="center"
+    >
+      <h3>
+        <a
+          href="https://github.com/metaory/markon"
+        >
+          markon
+        </a>
+      </h3>
+      <strong>
+        [wip] 🚧 Minimal Distraction‑free Markdown editor
+      </strong>
+      <div>
+        <a
+          href="https://metaory.github.io/markon/"
+        >
+          metaory.github.io/markon/
+        </a>
+      </div>
+      <div>
+        <em>
+          Aug 2025
+        </em>
+        ·
+        <strong>
+          ⭐1
+        </strong>
+        ·
+        <kbd>
+          JavaScript
+        </kbd>
+      </div>
+    </td>
+    <td
+      width="50%"
+      align="center"
+    >
+      <h3>
+        <a
+          href="https://github.com/metaory/coloruv"
+        >
+          coloruv
+        </a>
+      </h3>
+      <strong>
+        a minimal natural color picker
+      </strong>
+      <div>
+        <a
+          href="https://metaory.github.io/coloruv/"
+        >
+          metaory.github.io/coloruv/
+        </a>
+      </div>
+      <div>
+        <em>
+          Aug 2025
+        </em>
+        ·
+        <strong>
+          ⭐3
+        </strong>
+        ·
+        <kbd>
+          JavaScript
+        </kbd>
+      </div>
+    </td>
+  </tr>
   <tr>
     <td
       width="50%"
@@ -75,36 +160,6 @@
     >
       <h3>
         <a
-          href="https://github.com/metaory/theschain"
-        >
-          theschain
-        </a>
-      </h3>
-      <strong>
-        Interactive CLI thesaurus with continuous chain lookups
-      </strong>
-      <div>
-        <em>
-          May 2025
-        </em>
-        ·
-        <strong>
-          ⭐1
-        </strong>
-        ·
-        <kbd>
-          Shell
-        </kbd>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td
-      width="50%"
-      align="center"
-    >
-      <h3>
-        <a
           href="https://github.com/metaory/github-repo-cards"
         >
           github-repo-cards
@@ -127,6 +182,8 @@
         </kbd>
       </div>
     </td>
+  </tr>
+  <tr>
     <td
       width="50%"
       align="center"
@@ -155,43 +212,6 @@
         ·
         <strong>
           ⭐66
-        </strong>
-        ·
-        <kbd>
-          JavaScript
-        </kbd>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td
-      width="50%"
-      align="center"
-    >
-      <h3>
-        <a
-          href="https://github.com/metaory/symbol-logo-maker"
-        >
-          symbol-logo-maker
-        </a>
-      </h3>
-      <strong>
-        🚧 A minimalist tool that transforms any symbol, character, or glyph into a professional logo with custom colors and background
-      </strong>
-      <div>
-        <a
-          href="https://metaory.github.io/symbol-logo-maker/"
-        >
-          metaory.github.io/symbol-logo-maker/
-        </a>
-      </div>
-      <div>
-        <em>
-          Apr 2025
-        </em>
-        ·
-        <strong>
-          ⭐1
         </strong>
         ·
         <kbd>
@@ -263,7 +283,7 @@
         </em>
         ·
         <strong>
-          ⭐2
+          ⭐3
         </strong>
         ·
         <kbd>
@@ -502,34 +522,6 @@
     >
       <h3>
         <a
-          href="https://github.com/metaory/coi-serviceworker"
-        >
-          coi-serviceworker
-        </a>
-      </h3>
-      <strong>
-        Cross-origin isolation (COOP and COEP) through a service worker for situations in which you can't control the headers (e.g. GH pages)
-      </strong>
-      <div>
-        <em>
-          Dec 2024
-        </em>
-        ·
-        <strong>
-          ⭐1
-        </strong>
-        ·
-        <kbd>
-          JavaScript
-        </kbd>
-      </div>
-    </td>
-    <td
-      width="50%"
-      align="center"
-    >
-      <h3>
-        <a
           href="https://github.com/metaory/glitcher-cli"
         >
           glitcher-cli
@@ -552,8 +544,6 @@
         </kbd>
       </div>
     </td>
-  </tr>
-  <tr>
     <td
       width="50%"
       align="center"
@@ -582,6 +572,8 @@
         </kbd>
       </div>
     </td>
+  </tr>
+  <tr>
     <td
       width="50%"
       align="center"
@@ -594,7 +586,7 @@
         </a>
       </h3>
       <strong>
-        Legacy JSONResume handlebars port to Vite
+        Modern Vite-based JSONResume theme with Iconify integration, customizable colors, and PDF export capabilities
       </strong>
       <div>
         <a
@@ -614,43 +606,6 @@
         ·
         <kbd>
           Handlebars
-        </kbd>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td
-      width="50%"
-      align="center"
-    >
-      <h3>
-        <a
-          href="https://github.com/metaory/jsonresume-service"
-        >
-          jsonresume-service
-        </a>
-      </h3>
-      <strong>
-        JSON resumes as a Service - generate Resumes from the resume.json schema
-      </strong>
-      <div>
-        <a
-          href="https://jsonresume-service.vercel.app"
-        >
-          jsonresume-service.vercel.app
-        </a>
-      </div>
-      <div>
-        <em>
-          Aug 2024
-        </em>
-        ·
-        <strong>
-          ⭐1
-        </strong>
-        ·
-        <kbd>
-          TypeScript
         </kbd>
       </div>
     </td>
@@ -697,41 +652,6 @@
     >
       <h3>
         <a
-          href="https://github.com/metaory/mini-ansi"
-        >
-          mini-ansi
-        </a>
-      </h3>
-      <strong>
-        🎨 Tiny ANSI color escape utility in under 10 line!
-      </strong>
-      <div>
-        <a
-          href="https://npmjs.com/package/mini-ansi"
-        >
-          npmjs.com/package/mini-ansi
-        </a>
-      </div>
-      <div>
-        <em>
-          Jun 2024
-        </em>
-        ·
-        <strong>
-          ⭐2
-        </strong>
-        ·
-        <kbd>
-          JavaScript
-        </kbd>
-      </div>
-    </td>
-    <td
-      width="50%"
-      align="center"
-    >
-      <h3>
-        <a
           href="https://github.com/metaory/pcall.js"
         >
           pcall.js
@@ -761,8 +681,6 @@
         </kbd>
       </div>
     </td>
-  </tr>
-  <tr>
     <td
       width="50%"
       align="center"
@@ -791,6 +709,8 @@
         </kbd>
       </div>
     </td>
+  </tr>
+  <tr>
     <td
       width="50%"
       align="center"
@@ -819,8 +739,6 @@
         </kbd>
       </div>
     </td>
-  </tr>
-  <tr>
     <td
       width="50%"
       align="center"
@@ -838,34 +756,6 @@
       <div>
         <em>
           Mar 2024
-        </em>
-        ·
-        <strong>
-          ⭐2
-        </strong>
-        ·
-        <kbd>
-          Shell
-        </kbd>
-      </div>
-    </td>
-    <td
-      width="50%"
-      align="center"
-    >
-      <h3>
-        <a
-          href="https://github.com/metaory/yx"
-        >
-          yx
-        </a>
-      </h3>
-      <strong>
-        clipboard-centric command executor
-      </strong>
-      <div>
-        <em>
-          Feb 2024
         </em>
         ·
         <strong>
@@ -943,41 +833,6 @@
     >
       <h3>
         <a
-          href="https://github.com/metaory/simple-find-file-recursively-up"
-        >
-          simple-find-file-recursively-up
-        </a>
-      </h3>
-      <strong>
-        returns the path at which a provided pattern exists, checking the current directory and any parent directories recursively up
-      </strong>
-      <div>
-        <a
-          href="https://www.npmjs.com/package/simple-find-file-recursively-up"
-        >
-          npmjs.com/package/simple-find-file-recursively-up
-        </a>
-      </div>
-      <div>
-        <em>
-          Oct 2022
-        </em>
-        ·
-        <strong>
-          ⭐1
-        </strong>
-        ·
-        <kbd>
-          JavaScript
-        </kbd>
-      </div>
-    </td>
-    <td
-      width="50%"
-      align="center"
-    >
-      <h3>
-        <a
           href="https://github.com/metaory/meta-vanilla-web-component"
         >
           meta-vanilla-web-component
@@ -1004,36 +859,6 @@
         ·
         <kbd>
           HTML
-        </kbd>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td
-      width="50%"
-      align="center"
-    >
-      <h3>
-        <a
-          href="https://github.com/metaory/mxcolr-v2"
-        >
-          mxcolr-v2
-        </a>
-      </h3>
-      <strong>
-        [WIP] ヘ Generate, Preview and Apply beautiful unified human friendly pseudo random color schemes, SYSTEM WIDE!
-      </strong>
-      <div>
-        <em>
-          Mar 2022
-        </em>
-        ·
-        <strong>
-          ⭐8
-        </strong>
-        ·
-        <kbd>
-          Lua
         </kbd>
       </div>
     </td>
@@ -4160,6 +3985,6 @@
   </sup>
   <br />
   <kbd>
-    updated @1753900000
+    updated @1755000000
   </kbd>
 </div>
