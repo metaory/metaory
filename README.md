@@ -318,7 +318,7 @@
         </em>
         ·
         <strong>
-          ⭐3
+          ⭐4
         </strong>
         ·
         <kbd>
@@ -536,7 +536,7 @@
         </em>
         ·
         <strong>
-          ⭐88
+          ⭐89
         </strong>
         ·
         <kbd>
