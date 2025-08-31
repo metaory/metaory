@@ -132,9 +132,9 @@
     >
       <h3>
         <a
-          href="https://github.com/metaory/data-grid-selector"
+          href="https://github.com/metaory/bit-grid-component"
         >
-          data-grid-selector
+          bit-grid-component
         </a>
       </h3>
       <strong>
@@ -142,9 +142,9 @@
       </strong>
       <div>
         <a
-          href="https://metaory.github.io/data-grid-selector/"
+          href="https://metaory.github.io/bit-grid-component/"
         >
-          metaory.github.io/data-grid-selector/
+          metaory.github.io/bit-grid-component/
         </a>
       </div>
       <div>
