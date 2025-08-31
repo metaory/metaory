@@ -132,6 +132,41 @@
     >
       <h3>
         <a
+          href="https://github.com/metaory/data-grid-selector"
+        >
+          data-grid-selector
+        </a>
+      </h3>
+      <strong>
+        🚧  A lightweight, framework-agnostic web component for interactive boolean data visualization. Click and drag to toggle cells on/off 🚧
+      </strong>
+      <div>
+        <a
+          href="https://metaory.github.io/data-grid-selector/"
+        >
+          metaory.github.io/data-grid-selector/
+        </a>
+      </div>
+      <div>
+        <em>
+          Jul 2025
+        </em>
+        ·
+        <strong>
+          ⭐2
+        </strong>
+        ·
+        <kbd>
+          JavaScript
+        </kbd>
+      </div>
+    </td>
+    <td
+      width="50%"
+      align="center"
+    >
+      <h3>
+        <a
           href="https://github.com/metaory/nyaa-cli"
         >
           nyaa-cli
@@ -154,6 +189,8 @@
         </kbd>
       </div>
     </td>
+  </tr>
+  <tr>
     <td
       width="50%"
       align="center"
@@ -182,8 +219,6 @@
         </kbd>
       </div>
     </td>
-  </tr>
-  <tr>
     <td
       width="50%"
       align="center"
@@ -219,6 +254,8 @@
         </kbd>
       </div>
     </td>
+  </tr>
+  <tr>
     <td
       width="50%"
       align="center"
@@ -254,8 +291,6 @@
         </kbd>
       </div>
     </td>
-  </tr>
-  <tr>
     <td
       width="50%"
       align="center"
@@ -291,6 +326,8 @@
         </kbd>
       </div>
     </td>
+  </tr>
+  <tr>
     <td
       width="50%"
       align="center"
@@ -326,8 +363,6 @@
         </kbd>
       </div>
     </td>
-  </tr>
-  <tr>
     <td
       width="50%"
       align="center"
@@ -363,6 +398,8 @@
         </kbd>
       </div>
     </td>
+  </tr>
+  <tr>
     <td
       width="50%"
       align="center"
@@ -391,8 +428,6 @@
         </kbd>
       </div>
     </td>
-  </tr>
-  <tr>
     <td
       width="50%"
       align="center"
@@ -421,6 +456,8 @@
         </kbd>
       </div>
     </td>
+  </tr>
+  <tr>
     <td
       width="50%"
       align="center"
@@ -449,8 +486,6 @@
         </kbd>
       </div>
     </td>
-  </tr>
-  <tr>
     <td
       width="50%"
       align="center"
@@ -486,6 +521,8 @@
         </kbd>
       </div>
     </td>
+  </tr>
+  <tr>
     <td
       width="50%"
       align="center"
@@ -514,8 +551,6 @@
         </kbd>
       </div>
     </td>
-  </tr>
-  <tr>
     <td
       width="50%"
       align="center"
@@ -544,6 +579,8 @@
         </kbd>
       </div>
     </td>
+  </tr>
+  <tr>
     <td
       width="50%"
       align="center"
@@ -572,8 +609,6 @@
         </kbd>
       </div>
     </td>
-  </tr>
-  <tr>
     <td
       width="50%"
       align="center"
@@ -609,6 +644,8 @@
         </kbd>
       </div>
     </td>
+  </tr>
+  <tr>
     <td
       width="50%"
       align="center"
@@ -644,8 +681,6 @@
         </kbd>
       </div>
     </td>
-  </tr>
-  <tr>
     <td
       width="50%"
       align="center"
@@ -681,6 +716,8 @@
         </kbd>
       </div>
     </td>
+  </tr>
+  <tr>
     <td
       width="50%"
       align="center"
@@ -709,8 +746,6 @@
         </kbd>
       </div>
     </td>
-  </tr>
-  <tr>
     <td
       width="50%"
       align="center"
@@ -739,6 +774,8 @@
         </kbd>
       </div>
     </td>
+  </tr>
+  <tr>
     <td
       width="50%"
       align="center"
@@ -767,8 +804,6 @@
         </kbd>
       </div>
     </td>
-  </tr>
-  <tr>
     <td
       width="50%"
       align="center"
@@ -797,6 +832,8 @@
         </kbd>
       </div>
     </td>
+  </tr>
+  <tr>
     <td
       width="50%"
       align="center"
@@ -825,8 +862,6 @@
         </kbd>
       </div>
     </td>
-  </tr>
-  <tr>
     <td
       width="50%"
       align="center"
@@ -862,6 +897,8 @@
         </kbd>
       </div>
     </td>
+  </tr>
+  <tr>
     <td
       width="50%"
       align="center"
@@ -890,8 +927,6 @@
         </kbd>
       </div>
     </td>
-  </tr>
-  <tr>
     <td
       width="50%"
       align="center"
@@ -920,6 +955,8 @@
         </kbd>
       </div>
     </td>
+  </tr>
+  <tr>
     <td
       width="50%"
       align="center"
