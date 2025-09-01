@@ -138,7 +138,7 @@
         </a>
       </h3>
       <strong>
-        🚧  A lightweight, framework-agnostic web component for interactive boolean data visualization. Click and drag to toggle cells on/off 🚧
+        Framework-agnostic web component for boolean matrices
       </strong>
       <div>
         <a
