@@ -60,6 +60,34 @@
     >
       <h3>
         <a
+          href="https://github.com/metaory/webcomponent-template"
+        >
+          webcomponent-template
+        </a>
+      </h3>
+      <strong>
+        🚧 Production-ready web component scaffolding with live docs, multi-framework examples, and zero-config deployment
+      </strong>
+      <div>
+        <em>
+          Sep 2025
+        </em>
+        ·
+        <strong>
+          ⭐1
+        </strong>
+        ·
+        <kbd>
+          Shell
+        </kbd>
+      </div>
+    </td>
+    <td
+      width="50%"
+      align="center"
+    >
+      <h3>
+        <a
           href="https://github.com/metaory/markon"
         >
           markon
@@ -89,6 +117,8 @@
         </kbd>
       </div>
     </td>
+  </tr>
+  <tr>
     <td
       width="50%"
       align="center"
@@ -124,8 +154,6 @@
         </kbd>
       </div>
     </td>
-  </tr>
-  <tr>
     <td
       width="50%"
       align="center"
@@ -161,6 +189,8 @@
         </kbd>
       </div>
     </td>
+  </tr>
+  <tr>
     <td
       width="50%"
       align="center"
@@ -189,8 +219,6 @@
         </kbd>
       </div>
     </td>
-  </tr>
-  <tr>
     <td
       width="50%"
       align="center"
@@ -219,6 +247,8 @@
         </kbd>
       </div>
     </td>
+  </tr>
+  <tr>
     <td
       width="50%"
       align="center"
@@ -254,8 +284,6 @@
         </kbd>
       </div>
     </td>
-  </tr>
-  <tr>
     <td
       width="50%"
       align="center"
@@ -291,6 +319,8 @@
         </kbd>
       </div>
     </td>
+  </tr>
+  <tr>
     <td
       width="50%"
       align="center"
@@ -326,8 +356,6 @@
         </kbd>
       </div>
     </td>
-  </tr>
-  <tr>
     <td
       width="50%"
       align="center"
@@ -363,6 +391,8 @@
         </kbd>
       </div>
     </td>
+  </tr>
+  <tr>
     <td
       width="50%"
       align="center"
@@ -398,8 +428,6 @@
         </kbd>
       </div>
     </td>
-  </tr>
-  <tr>
     <td
       width="50%"
       align="center"
@@ -428,6 +456,8 @@
         </kbd>
       </div>
     </td>
+  </tr>
+  <tr>
     <td
       width="50%"
       align="center"
@@ -456,8 +486,6 @@
         </kbd>
       </div>
     </td>
-  </tr>
-  <tr>
     <td
       width="50%"
       align="center"
@@ -486,6 +514,8 @@
         </kbd>
       </div>
     </td>
+  </tr>
+  <tr>
     <td
       width="50%"
       align="center"
@@ -521,8 +551,6 @@
         </kbd>
       </div>
     </td>
-  </tr>
-  <tr>
     <td
       width="50%"
       align="center"
@@ -551,6 +579,8 @@
         </kbd>
       </div>
     </td>
+  </tr>
+  <tr>
     <td
       width="50%"
       align="center"
@@ -579,8 +609,6 @@
         </kbd>
       </div>
     </td>
-  </tr>
-  <tr>
     <td
       width="50%"
       align="center"
@@ -609,6 +637,8 @@
         </kbd>
       </div>
     </td>
+  </tr>
+  <tr>
     <td
       width="50%"
       align="center"
@@ -644,8 +674,6 @@
         </kbd>
       </div>
     </td>
-  </tr>
-  <tr>
     <td
       width="50%"
       align="center"
@@ -681,6 +709,8 @@
         </kbd>
       </div>
     </td>
+  </tr>
+  <tr>
     <td
       width="50%"
       align="center"
@@ -716,8 +746,6 @@
         </kbd>
       </div>
     </td>
-  </tr>
-  <tr>
     <td
       width="50%"
       align="center"
@@ -746,6 +774,8 @@
         </kbd>
       </div>
     </td>
+  </tr>
+  <tr>
     <td
       width="50%"
       align="center"
@@ -774,8 +804,6 @@
         </kbd>
       </div>
     </td>
-  </tr>
-  <tr>
     <td
       width="50%"
       align="center"
@@ -804,6 +832,8 @@
         </kbd>
       </div>
     </td>
+  </tr>
+  <tr>
     <td
       width="50%"
       align="center"
@@ -832,8 +862,6 @@
         </kbd>
       </div>
     </td>
-  </tr>
-  <tr>
     <td
       width="50%"
       align="center"
@@ -862,6 +890,8 @@
         </kbd>
       </div>
     </td>
+  </tr>
+  <tr>
     <td
       width="50%"
       align="center"
@@ -897,8 +927,6 @@
         </kbd>
       </div>
     </td>
-  </tr>
-  <tr>
     <td
       width="50%"
       align="center"
@@ -927,6 +955,8 @@
         </kbd>
       </div>
     </td>
+  </tr>
+  <tr>
     <td
       width="50%"
       align="center"
@@ -955,8 +985,6 @@
         </kbd>
       </div>
     </td>
-  </tr>
-  <tr>
     <td
       width="50%"
       align="center"
@@ -4022,6 +4050,6 @@
   </sup>
   <br />
   <kbd>
-    updated @1756000000
+    updated @1757000000
   </kbd>
 </div>
