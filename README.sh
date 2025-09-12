@@ -74,33 +74,18 @@ function repositories {
      stars: .stargazerCount,
      topics: (.repositoryTopics // [] | map(.name)),
    })' | tee /tmp/repos.json |
-    jq ' [.[] | select(.topics | index("pin"))] | sort_by(.createdAt) | reverse | [
+    jq --argjson icons "$icons" '[.[] | select(.topics | index("pin"))] |
+    sort_by(.createdAt) | reverse |
+  [
     ["h4", {"align": "center"}, "Personal Projects"],
-    ["table", {"align": "center"}, (
-      to_entries |
-      group_by(.key / 2 | floor) |
-      map(["tr", (
-        map(.value) |
-        map(["td",
-          {"width": "50%", "align": "center"},
-          ["h3", ["a", {"href": .url}, .name]],
-          ["strong", .description], (
-            select(.homepageUrl and .homepageUrl != "") | ["div",
-              ["a",
-                {"href": .homepageUrl},
-                (.homepageUrl | sub("^https?://"; "") | sub("^www\\."; ""))
-              ]
-            ]),
-          ["div",
-            ["em", (.createdAt | fromdateiso8601 | strftime("%b %Y"))],
-            "·",
-            ["strong", "⭐" + (.stars | tostring)],
-            "·",
-            ["kbd", .language]
-          ]
-        ]))[]
-      ])
-    )[]],
+    map([
+      "li",
+      (["a", {href: .url}, ["strong", .name]]),
+      ["i", "─", .description],
+      ["img", {valign:"middle", src: $icons[.language] // $icons.NA, width: 26, height: 26}],
+      ["kbd", ["img", {valign:"middle",src: $icons.Star, width:16, height: 16}], .stars],
+      (select(.homepageUrl != "") | ["kbd", ["a", {"href": .homepageUrl}, "🌐 LIVE"]])
+    ])[],
     ["hr"]
   ]' | tee /tmp/markup-output.json | markup >>README.md
 }
