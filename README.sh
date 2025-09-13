@@ -82,13 +82,20 @@ function repositories {
       "li",
       (["a", {href: .url}, ["strong", .name]]),
       ["i", "─", .description],
-      ["img", {valign:"middle", src: $icons[.language] // $icons.NA, width: 26, height: 26}],
+      ["img", {valign:"middle", src: $icons[.language], width: 26, height: 26}],
       ["kbd", ["img", {valign:"middle",src: $icons.Star, width:16, height: 16}], .stars],
       (select(.homepageUrl != "") | ["kbd", ["a", {"href": .homepageUrl}, "🌐 LIVE"]])
     ])[],
     ["hr"]
   ]' | tee /tmp/markup-output.json | markup >>README.md
 }
+
+# ISSUE: jq-1.8 syntax
+# ["img", {valign:"middle", src: $icons[.language] // $icons.NA, width: 26, height: 26}],
+#
+# NOTE: jq-1.7 alternative
+# ["img", {valign:"middle", src: ($icons[.language] | if . then . else $icons.NA end), width: 26, height: 26}]
+
 
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
