@@ -64,38 +64,31 @@ function repositories {
     --visibility=public \
     --limit 400 \
     --json "name,description,url,homepageUrl,primaryLanguage,createdAt,stargazerCount,repositoryTopics" \
-    --jq 'map({
-     name,
-     description,
-     url,
-     homepageUrl,
-     language: (.primaryLanguage.name // "NA"),
-     createdAt,
-     stars: .stargazerCount,
-     topics: (.repositoryTopics // [] | map(.name)),
-   })' | tee /tmp/repos.json |
-    jq --argjson icons "$icons" '[.[] | select(.topics | index("pin"))] |
-    sort_by(.createdAt) | reverse |
+    --jq '
+    map({
+      name,
+      description,
+      url,
+      homepageUrl,
+      language: (.primaryLanguage.name // "NA"),
+      createdAt,
+      stars: .stargazerCount,
+      topics: (.repositoryTopics // [] | map(.name)),
+    })' | jq --argjson icons "$icons" '
+  [.[] | select(.topics | index("pin"))] | sort_by(.createdAt) | reverse |
   [
     ["h4", {"align": "center"}, "Personal Projects"],
     map([
       "li",
       (["a", {href: .url}, ["strong", .name]]),
       ["i", "─", .description],
-      ["img", {valign:"middle", src: $icons[.language], width: 26, height: 26}],
-      ["kbd", ["img", {valign:"middle",src: $icons.Star, width:16, height: 16}], .stars],
+      ["img", {valign:"middle", src: ($icons[.language] // $icons.NA), width: 26, height: 26}],
+      ["kbd", ["img", {valign:"middle",src: $icons.Star, width:16, height: 16}], ["b", .stars]],
       (select(.homepageUrl != "") | ["kbd", ["a", {"href": .homepageUrl}, "🌐 LIVE"]])
     ])[],
     ["hr"]
-  ]' | tee /tmp/markup-output.json | markup >>README.md
+  ]' | markup >>README.md
 }
-
-# ISSUE: jq-1.8 syntax
-# ["img", {valign:"middle", src: $icons[.language] // $icons.NA, width: 26, height: 26}],
-#
-# NOTE: jq-1.7 alternative
-# ["img", {valign:"middle", src: ($icons[.language] | if . then . else $icons.NA end), width: 26, height: 26}]
-
 
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
