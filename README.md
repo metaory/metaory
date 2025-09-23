@@ -171,7 +171,7 @@
   </a>
   <i>
     ─
-    Bash CLI for automated anime torrent downloads with stateful episode tracking, quality filters, and uploader selection
+    CLI for automated anime torrent downloads with stateful episode tracking, quality filters, and uploader selection
   </i>
   <img
     valign="middle"
@@ -217,7 +217,7 @@
       height="16"
      />
     <b>
-      66
+      67
     </b>
   </kbd>
   <kbd>
@@ -254,7 +254,7 @@
       height="16"
      />
     <b>
-      36
+      37
     </b>
   </kbd>
   <kbd>
