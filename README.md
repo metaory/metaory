@@ -150,7 +150,7 @@
       height="16"
      />
     <b>
-      2
+      5
     </b>
   </kbd>
   <kbd>
@@ -254,7 +254,7 @@
       height="16"
      />
     <b>
-      37
+      38
     </b>
   </kbd>
   <kbd>
@@ -513,7 +513,7 @@
   </a>
   <i>
     ─
-    Modern Vite-based JSONResume theme with Iconify integration, customizable colors, and PDF export capabilities
+    Legacy JSONResume Iconify, colors, PDF
   </i>
   <img
     valign="middle"
