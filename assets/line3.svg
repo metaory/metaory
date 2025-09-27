@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg xmlns="http://www.w3.org/2000/svg" version="1.1"
-     width="1200" height="50" viewBox="0 0 1200 50">
+     width="160" height="50" viewBox="0 0 160 50">
   <style> * { color-scheme: dark; } </style>
   <defs>
     <!-- made with glitcher-app v0.7.0 -->
@@ -65,8 +65,8 @@
       </feMerge>
     </filter>
   </defs>
-  <rect rx="3" x="3%"  y="20" height="5" width="30%"  fill="#00CCAA" filter="url(#glitch)"/>
-  <rect rx="3" x="5%"  y="21" height="2" width="28%"  fill="#00CCAA" filter="url(#glow)"/>
-  <rect rx="3" x="39%" y="20" height="5" width="8%" fill="#FF9933" filter="url(#glitch)"/>
-  <rect rx="3" x="41%" y="21" height="2" width="6%" fill="#FF9933" filter="url(#glow)"/>
+  <rect rx="3" x="15%" y="20" height="5" width="30%" fill="#00CCAA" filter="url(#glitch)"/>
+  <rect rx="3" x="17%" y="21" height="2" width="28%" fill="#00CCAA" filter="url(#glow)"/>
+  <rect rx="3" x="50%" y="20" height="5" width="8%" fill="#FF9933" filter="url(#glitch)"/>
+  <rect rx="3" x="52%" y="21" height="2" width="6%" fill="#FF9933" filter="url(#glow)"/>
 </svg>
