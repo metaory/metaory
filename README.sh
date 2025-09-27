@@ -99,7 +99,7 @@ repositories
 for i in {1..4}; do
   fetch-list "$i"
   compose "$i"
-  append divider
+  append "divider_$i"
 done
 
 now="$(date +%s)"

@@ -1,0 +1,7 @@
+[
+  [
+    "div",
+    { "align": "center" },
+    ["img", { "src": "assets/line1.svg", "width": "80%" }]
+  ]
+]
