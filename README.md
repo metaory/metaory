@@ -201,7 +201,7 @@
   </a>
   <i>
     ─
-    Web-based glitch generator with real-time preview for SVG, WebM, GIF, PNG, and MP4 formats with customizable effects
+    Turn text or images into animated glitches // SVG • WebM • GIF
   </i>
   <img
     valign="middle"
@@ -1296,8 +1296,7 @@
   align="center"
 >
   <img
-    src="assets/line.svg"
-    width="80%"
+    src="assets/line1.svg"
    />
 </div>
 <div
@@ -2340,8 +2339,7 @@
   align="center"
 >
   <img
-    src="assets/line.svg"
-    width="80%"
+    src="assets/line2.svg"
    />
 </div>
 <div
@@ -3146,8 +3144,7 @@
   align="center"
 >
   <img
-    src="assets/line.svg"
-    width="80%"
+    src="assets/line3.svg"
    />
 </div>
 <div
@@ -3805,8 +3802,7 @@
   align="center"
 >
   <img
-    src="assets/line.svg"
-    width="80%"
+    src="assets/line4.svg"
    />
 </div>
 <div
@@ -3829,6 +3825,6 @@
   </sup>
   <br />
   <kbd>
-    updated @1758000000
+    updated @1759000000
   </kbd>
 </div>
