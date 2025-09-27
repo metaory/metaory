@@ -65,8 +65,8 @@
       </feMerge>
     </filter>
   </defs>
-  <rect rx="3" x="3%"  y="20" height="5" width="16%"  fill="#FF2233" filter="url(#glitch)"/>
-  <rect rx="3" x="5%"  y="21" height="2" width="14%"  fill="#FF2233" filter="url(#glow)"/>
-  <rect rx="3" x="20%" y="20" height="5" width="70%" fill="#CC0055" filter="url(#glitch)"/>
-  <rect rx="3" x="25%" y="21" height="2" width="68%" fill="#CC0055" filter="url(#glow)"/>
+  <rect rx="3" x="3%"  y="20" height="5" width="15%"  fill="#FF0066" filter="url(#glitch)"/>
+  <rect rx="3" x="5%"  y="21" height="2" width="13%"  fill="#FF0066" filter="url(#glow)"/>
+  <rect rx="3" x="24%" y="20" height="5" width="8%" fill="#0099FF" filter="url(#glitch)"/>
+  <rect rx="3" x="26%" y="21" height="2" width="6%" fill="#0099FF" filter="url(#glow)"/>
 </svg>
