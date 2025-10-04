@@ -58,10 +58,13 @@
       markon
     </strong>
   </a>
-  <i>
-    ─
-    [wip] 🚧 Minimal Distraction‑free Markdown editor
-  </i>
+  <kbd>
+    <a
+      href="https://metaory.github.io/markon/"
+    >
+      🌐 LIVE
+    </a>
+  </kbd>
   <img
     valign="middle"
     src="https://api.iconify.design/material-icon-theme:javascript.svg"
@@ -79,13 +82,10 @@
       1
     </b>
   </kbd>
-  <kbd>
-    <a
-      href="https://metaory.github.io/markon/"
-    >
-      🌐 LIVE
-    </a>
-  </kbd>
+  <i>
+    ─
+    [wip] 🚧 Minimal Distraction‑free Markdown editor
+  </i>
 </li>
 <li>
   <a
@@ -95,10 +95,13 @@
       coloruv
     </strong>
   </a>
-  <i>
-    ─
-    a minimal natural color picker
-  </i>
+  <kbd>
+    <a
+      href="https://metaory.github.io/coloruv/"
+    >
+      🌐 LIVE
+    </a>
+  </kbd>
   <img
     valign="middle"
     src="https://api.iconify.design/material-icon-theme:javascript.svg"
@@ -116,13 +119,10 @@
       3
     </b>
   </kbd>
-  <kbd>
-    <a
-      href="https://metaory.github.io/coloruv/"
-    >
-      🌐 LIVE
-    </a>
-  </kbd>
+  <i>
+    ─
+    a minimal natural color picker
+  </i>
 </li>
 <li>
   <a
@@ -132,10 +132,13 @@
       bit-grid-component
     </strong>
   </a>
-  <i>
-    ─
-    Framework-agnostic web component for boolean matrices
-  </i>
+  <kbd>
+    <a
+      href="https://metaory.github.io/bit-grid-component/"
+    >
+      🌐 LIVE
+    </a>
+  </kbd>
   <img
     valign="middle"
     src="https://api.iconify.design/material-icon-theme:javascript.svg"
@@ -153,13 +156,10 @@
       5
     </b>
   </kbd>
-  <kbd>
-    <a
-      href="https://metaory.github.io/bit-grid-component/"
-    >
-      🌐 LIVE
-    </a>
-  </kbd>
+  <i>
+    ─
+    Framework-agnostic web component for boolean matrices
+  </i>
 </li>
 <li>
   <a
@@ -169,10 +169,6 @@
       nyaa-cli
     </strong>
   </a>
-  <i>
-    ─
-    CLI for automated anime torrent downloads with stateful episode tracking, quality filters, and uploader selection
-  </i>
   <img
     valign="middle"
     src="https://api.iconify.design/skill-icons:bash-dark.svg"
@@ -190,6 +186,10 @@
       1
     </b>
   </kbd>
+  <i>
+    ─
+    CLI for automated anime torrent downloads with stateful episode tracking, quality filters, and uploader selection
+  </i>
 </li>
 <li>
   <a
@@ -199,10 +199,13 @@
       glitcher-app
     </strong>
   </a>
-  <i>
-    ─
-    Turn text or images into animated glitches // SVG • WebM • GIF
-  </i>
+  <kbd>
+    <a
+      href="https://metaory.github.io/glitcher-app/"
+    >
+      🌐 LIVE
+    </a>
+  </kbd>
   <img
     valign="middle"
     src="https://api.iconify.design/material-icon-theme:javascript.svg"
@@ -220,13 +223,10 @@
       68
     </b>
   </kbd>
-  <kbd>
-    <a
-      href="https://metaory.github.io/glitcher-app/"
-    >
-      🌐 LIVE
-    </a>
-  </kbd>
+  <i>
+    ─
+    Turn text or images into animated glitches // SVG • WebM • GIF
+  </i>
 </li>
 <li>
   <a
@@ -236,10 +236,13 @@
       gradient-gl
     </strong>
   </a>
-  <i>
-    ─
-    Tiny WebGL library for Deterministic seed-driven Procedural Gradient Animations
-  </i>
+  <kbd>
+    <a
+      href="https://metaory.github.io/gradient-gl/"
+    >
+      🌐 LIVE
+    </a>
+  </kbd>
   <img
     valign="middle"
     src="https://api.iconify.design/material-icon-theme:javascript.svg"
@@ -257,13 +260,10 @@
       38
     </b>
   </kbd>
-  <kbd>
-    <a
-      href="https://metaory.github.io/gradient-gl/"
-    >
-      🌐 LIVE
-    </a>
-  </kbd>
+  <i>
+    ─
+    Tiny WebGL library for Deterministic seed-driven Procedural Gradient Animations
+  </i>
 </li>
 <li>
   <a
@@ -273,10 +273,13 @@
       shadertoy2webgl
     </strong>
   </a>
-  <i>
-    ─
-    CLI and library to convert ShaderToy shaders to standalone WebGL2 applications with uniform handling and zero dependencies
-  </i>
+  <kbd>
+    <a
+      href="https://npmjs.com/package/shadertoy2webgl"
+    >
+      🌐 LIVE
+    </a>
+  </kbd>
   <img
     valign="middle"
     src="https://api.iconify.design/material-icon-theme:javascript.svg"
@@ -294,13 +297,10 @@
       3
     </b>
   </kbd>
-  <kbd>
-    <a
-      href="https://npmjs.com/package/shadertoy2webgl"
-    >
-      🌐 LIVE
-    </a>
-  </kbd>
+  <i>
+    ─
+    CLI and library to convert ShaderToy shaders to standalone WebGL2 applications with uniform handling and zero dependencies
+  </i>
 </li>
 <li>
   <a
@@ -310,10 +310,13 @@
       noseyparker-compact
     </strong>
   </a>
-  <i>
-    ─
-    CLI tool to transform verbose noseyparker JSON reports into concise JSON or CSV summaries for security analysis
-  </i>
+  <kbd>
+    <a
+      href="https://npmjs.com/package/noseyparker-compact"
+    >
+      🌐 LIVE
+    </a>
+  </kbd>
   <img
     valign="middle"
     src="https://api.iconify.design/material-icon-theme:javascript.svg"
@@ -331,13 +334,10 @@
       4
     </b>
   </kbd>
-  <kbd>
-    <a
-      href="https://npmjs.com/package/noseyparker-compact"
-    >
-      🌐 LIVE
-    </a>
-  </kbd>
+  <i>
+    ─
+    CLI tool to transform verbose noseyparker JSON reports into concise JSON or CSV summaries for security analysis
+  </i>
 </li>
 <li>
   <a
@@ -347,10 +347,13 @@
       glslmine
     </strong>
   </a>
-  <i>
-    ─
-    Modern GLSL shader gallery with auto-fetch from GLSL Sandbox and Shadertoy, featuring smart filters and minimal interface
-  </i>
+  <kbd>
+    <a
+      href="https://metaory.github.io/glslmine/"
+    >
+      🌐 LIVE
+    </a>
+  </kbd>
   <img
     valign="middle"
     src="https://api.iconify.design/material-icon-theme:javascript.svg"
@@ -368,13 +371,10 @@
       19
     </b>
   </kbd>
-  <kbd>
-    <a
-      href="https://metaory.github.io/glslmine/"
-    >
-      🌐 LIVE
-    </a>
-  </kbd>
+  <i>
+    ─
+    Modern GLSL shader gallery with auto-fetch from GLSL Sandbox and Shadertoy, featuring smart filters and minimal interface
+  </i>
 </li>
 <li>
   <a
@@ -384,10 +384,6 @@
       xvoid
     </strong>
   </a>
-  <i>
-    ─
-    a minimal, distraction-free new tab cosmic void experience
-  </i>
   <img
     valign="middle"
     src="https://api.iconify.design/material-icon-theme:javascript.svg"
@@ -405,6 +401,10 @@
       2
     </b>
   </kbd>
+  <i>
+    ─
+    a minimal, distraction-free new tab cosmic void experience
+  </i>
 </li>
 <li>
   <a
@@ -414,10 +414,13 @@
       source-map-visualization
     </strong>
   </a>
-  <i>
-    ─
-    [FORK] an unholy sourcemap visualization tool
-  </i>
+  <kbd>
+    <a
+      href="https://metaory.github.io/source-map-visualization/"
+    >
+      🌐 LIVE
+    </a>
+  </kbd>
   <img
     valign="middle"
     src="https://api.iconify.design/material-icon-theme:javascript.svg"
@@ -435,13 +438,10 @@
       3
     </b>
   </kbd>
-  <kbd>
-    <a
-      href="https://metaory.github.io/source-map-visualization/"
-    >
-      🌐 LIVE
-    </a>
-  </kbd>
+  <i>
+    ─
+    [FORK] an unholy sourcemap visualization tool
+  </i>
 </li>
 <li>
   <a
@@ -451,10 +451,6 @@
       glitcher-cli
     </strong>
   </a>
-  <i>
-    ─
-    Bash CLI to generate animated pseudo-random glitch SVG effects from ASCII characters with randomized parameters
-  </i>
   <img
     valign="middle"
     src="https://api.iconify.design/skill-icons:bash-dark.svg"
@@ -472,6 +468,10 @@
       89
     </b>
   </kbd>
+  <i>
+    ─
+    Bash CLI to generate animated pseudo-random glitch SVG effects from ASCII characters with randomized parameters
+  </i>
 </li>
 <li>
   <a
@@ -481,10 +481,6 @@
       junk-activity-scanner
     </strong>
   </a>
-  <i>
-    ─
-    Automated GitHub repository scanner that evaluates and reports bot-generated junk repositories using multi-language evaluators
-  </i>
   <img
     valign="middle"
     src="https://api.iconify.design/material-icon-theme:javascript.svg"
@@ -502,6 +498,10 @@
       5
     </b>
   </kbd>
+  <i>
+    ─
+    Automated GitHub repository scanner that evaluates and reports bot-generated junk repositories using multi-language evaluators
+  </i>
 </li>
 <li>
   <a
@@ -511,10 +511,13 @@
       jsonresume-theme-legacy
     </strong>
   </a>
-  <i>
-    ─
-    Legacy JSONResume Iconify, colors, PDF
-  </i>
+  <kbd>
+    <a
+      href="https://metaory.github.io/jsonresume-theme-legacy/"
+    >
+      🌐 LIVE
+    </a>
+  </kbd>
   <img
     valign="middle"
     src="https://api.iconify.design/material-icon-theme:handlebars.svg"
@@ -532,13 +535,10 @@
       14
     </b>
   </kbd>
-  <kbd>
-    <a
-      href="https://metaory.github.io/jsonresume-theme-legacy/"
-    >
-      🌐 LIVE
-    </a>
-  </kbd>
+  <i>
+    ─
+    Legacy JSONResume Iconify, colors, PDF
+  </i>
 </li>
 <li>
   <a
@@ -548,10 +548,13 @@
       markup.json
     </strong>
   </a>
-  <i>
-    ─
-    A minimal markup DSL and AST for JSON - Transforms into HTML, SVG or XML-like output via CLI or JS library
-  </i>
+  <kbd>
+    <a
+      href="https://npmjs.com/package/markup.json"
+    >
+      🌐 LIVE
+    </a>
+  </kbd>
   <img
     valign="middle"
     src="https://api.iconify.design/material-icon-theme:javascript.svg"
@@ -569,13 +572,10 @@
       14
     </b>
   </kbd>
-  <kbd>
-    <a
-      href="https://npmjs.com/package/markup.json"
-    >
-      🌐 LIVE
-    </a>
-  </kbd>
+  <i>
+    ─
+    A minimal markup DSL and AST for JSON - Transforms into HTML, SVG or XML-like output via CLI or JS library
+  </i>
 </li>
 <li>
   <a
@@ -585,10 +585,13 @@
       pcall.js
     </strong>
   </a>
-  <i>
-    ─
-    Minimal Result/Monad library inspired by Lua pcall, Elixir Result, and Rust Result with lifecycle hooks and zero dependencies
-  </i>
+  <kbd>
+    <a
+      href="https://npmjs.com/package/pcall.js"
+    >
+      🌐 LIVE
+    </a>
+  </kbd>
   <img
     valign="middle"
     src="https://api.iconify.design/material-icon-theme:javascript.svg"
@@ -606,13 +609,10 @@
       5
     </b>
   </kbd>
-  <kbd>
-    <a
-      href="https://npmjs.com/package/pcall.js"
-    >
-      🌐 LIVE
-    </a>
-  </kbd>
+  <i>
+    ─
+    Minimal Result/Monad library inspired by Lua pcall, Elixir Result, and Rust Result with lifecycle hooks and zero dependencies
+  </i>
 </li>
 <li>
   <a
@@ -622,10 +622,6 @@
       xico
     </strong>
   </a>
-  <i>
-    ─
-    Minimal CLI utility to generate SVG or PNG images from single Unicode characters or templates, ideal for icon and glyph creation
-  </i>
   <img
     valign="middle"
     src="https://api.iconify.design/fluent-color:code-block-24.svg"
@@ -643,6 +639,10 @@
       8
     </b>
   </kbd>
+  <i>
+    ─
+    Minimal CLI utility to generate SVG or PNG images from single Unicode characters or templates, ideal for icon and glyph creation
+  </i>
 </li>
 <li>
   <a
@@ -652,10 +652,6 @@
       hexocd-colorscheme
     </strong>
   </a>
-  <i>
-    ─
-    An OCD handwritten Colorscheme
-  </i>
   <img
     valign="middle"
     src="https://api.iconify.design/skill-icons:bash-dark.svg"
@@ -673,6 +669,10 @@
       2
     </b>
   </kbd>
+  <i>
+    ─
+    An OCD handwritten Colorscheme
+  </i>
 </li>
 <li>
   <a
@@ -682,10 +682,6 @@
       confsubst
     </strong>
   </a>
-  <i>
-    ─
-    POSIX-compliant templating CLI with modeline syntax, environment variable substitution, and pre/post hooks for configuration management
-  </i>
   <img
     valign="middle"
     src="https://api.iconify.design/skill-icons:bash-dark.svg"
@@ -703,6 +699,10 @@
       2
     </b>
   </kbd>
+  <i>
+    ─
+    POSIX-compliant templating CLI with modeline syntax, environment variable substitution, and pre/post hooks for configuration management
+  </i>
 </li>
 <li>
   <a
@@ -712,10 +712,6 @@
       zsh-roundy-prompt
     </strong>
   </a>
-  <i>
-    ─
-    fast • minimal • roundy prompt for ZSH in 140 lines
-  </i>
   <img
     valign="middle"
     src="https://api.iconify.design/skill-icons:bash-dark.svg"
@@ -733,6 +729,10 @@
       40
     </b>
   </kbd>
+  <i>
+    ─
+    fast • minimal • roundy prompt for ZSH in 140 lines
+  </i>
 </li>
 <li>
   <a
@@ -742,10 +742,6 @@
       xtmux
     </strong>
   </a>
-  <i>
-    ─
-    ▼ dark minimal tmux setup
-  </i>
   <img
     valign="middle"
     src="https://api.iconify.design/skill-icons:bash-dark.svg"
@@ -763,6 +759,10 @@
       16
     </b>
   </kbd>
+  <i>
+    ─
+    ▼ dark minimal tmux setup
+  </i>
 </li>
 <li>
   <a
@@ -772,10 +772,6 @@
       mxcolr
     </strong>
   </a>
-  <i>
-    ─
-    ヘ Generate, Preview and Apply beautiful unified human friendly pseudo random color schemes, SYSTEM WIDE!
-  </i>
   <img
     valign="middle"
     src="https://api.iconify.design/skill-icons:bash-dark.svg"
@@ -793,6 +789,10 @@
       24
     </b>
   </kbd>
+  <i>
+    ─
+    ヘ Generate, Preview and Apply beautiful unified human friendly pseudo random color schemes, SYSTEM WIDE!
+  </i>
 </li>
 <hr />
 <div
