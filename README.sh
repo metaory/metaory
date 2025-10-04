@@ -81,10 +81,10 @@ function repositories {
     map([
       "li",
       (["a", {href: .url}, ["strong", .name]]),
-      ["i", "─", .description],
+      (select(.homepageUrl != "") | ["kbd", ["a", {"href": .homepageUrl}, " 🌐 LIVE"]]),
       ["img", {valign:"middle", src: ($icons[.language] // $icons.NA), width: 26, height: 26}],
       ["kbd", ["img", {valign:"middle",src: $icons.Star, width:16, height: 16}], ["b", .stars]],
-      (select(.homepageUrl != "") | ["kbd", ["a", {"href": .homepageUrl}, "🌐 LIVE"]])
+      ["i", "─", .description]
     ])[],
     ["hr"]
   ]' | markup >>README.md
