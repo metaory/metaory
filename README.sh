@@ -80,9 +80,9 @@ function repositories {
     ["h4", {"align": "center"}, "Personal Projects"],
     map([
       "li",
+      ["img", {valign:"middle", src: ($icons[.language] // $icons.NA), width: 26, height: 26}],
       (["a", {href: .url}, ["strong", .name]]),
       (select(.homepageUrl != "") | ["kbd", ["a", {"href": .homepageUrl}, " 🌐 LIVE"]]),
-      ["img", {valign:"middle", src: ($icons[.language] // $icons.NA), width: 26, height: 26}],
       ["kbd", ["img", {valign:"middle",src: $icons.Star, width:16, height: 16}], ["b", .stars]],
       ["i", "─", .description]
     ])[],
