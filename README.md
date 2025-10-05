@@ -51,6 +51,12 @@
   Personal Projects
 </h4>
 <li>
+  <img
+    valign="middle"
+    src="https://api.iconify.design/material-icon-theme:javascript.svg"
+    width="26"
+    height="26"
+   />
   <a
     href="https://github.com/metaory/markon"
   >
@@ -65,12 +71,6 @@
       🌐 LIVE
     </a>
   </kbd>
-  <img
-    valign="middle"
-    src="https://api.iconify.design/material-icon-theme:javascript.svg"
-    width="26"
-    height="26"
-   />
   <kbd>
     <img
       valign="middle"
@@ -88,6 +88,12 @@
   </i>
 </li>
 <li>
+  <img
+    valign="middle"
+    src="https://api.iconify.design/material-icon-theme:javascript.svg"
+    width="26"
+    height="26"
+   />
   <a
     href="https://github.com/metaory/coloruv"
   >
@@ -102,12 +108,6 @@
       🌐 LIVE
     </a>
   </kbd>
-  <img
-    valign="middle"
-    src="https://api.iconify.design/material-icon-theme:javascript.svg"
-    width="26"
-    height="26"
-   />
   <kbd>
     <img
       valign="middle"
@@ -125,6 +125,12 @@
   </i>
 </li>
 <li>
+  <img
+    valign="middle"
+    src="https://api.iconify.design/material-icon-theme:javascript.svg"
+    width="26"
+    height="26"
+   />
   <a
     href="https://github.com/metaory/bit-grid-component"
   >
@@ -139,12 +145,6 @@
       🌐 LIVE
     </a>
   </kbd>
-  <img
-    valign="middle"
-    src="https://api.iconify.design/material-icon-theme:javascript.svg"
-    width="26"
-    height="26"
-   />
   <kbd>
     <img
       valign="middle"
@@ -162,6 +162,12 @@
   </i>
 </li>
 <li>
+  <img
+    valign="middle"
+    src="https://api.iconify.design/skill-icons:bash-dark.svg"
+    width="26"
+    height="26"
+   />
   <a
     href="https://github.com/metaory/nyaa-cli"
   >
@@ -169,12 +175,6 @@
       nyaa-cli
     </strong>
   </a>
-  <img
-    valign="middle"
-    src="https://api.iconify.design/skill-icons:bash-dark.svg"
-    width="26"
-    height="26"
-   />
   <kbd>
     <img
       valign="middle"
@@ -192,6 +192,12 @@
   </i>
 </li>
 <li>
+  <img
+    valign="middle"
+    src="https://api.iconify.design/material-icon-theme:javascript.svg"
+    width="26"
+    height="26"
+   />
   <a
     href="https://github.com/metaory/glitcher-app"
   >
@@ -206,12 +212,6 @@
       🌐 LIVE
     </a>
   </kbd>
-  <img
-    valign="middle"
-    src="https://api.iconify.design/material-icon-theme:javascript.svg"
-    width="26"
-    height="26"
-   />
   <kbd>
     <img
       valign="middle"
@@ -220,7 +220,7 @@
       height="16"
      />
     <b>
-      68
+      69
     </b>
   </kbd>
   <i>
@@ -229,6 +229,12 @@
   </i>
 </li>
 <li>
+  <img
+    valign="middle"
+    src="https://api.iconify.design/material-icon-theme:javascript.svg"
+    width="26"
+    height="26"
+   />
   <a
     href="https://github.com/metaory/gradient-gl"
   >
@@ -243,12 +249,6 @@
       🌐 LIVE
     </a>
   </kbd>
-  <img
-    valign="middle"
-    src="https://api.iconify.design/material-icon-theme:javascript.svg"
-    width="26"
-    height="26"
-   />
   <kbd>
     <img
       valign="middle"
@@ -266,6 +266,12 @@
   </i>
 </li>
 <li>
+  <img
+    valign="middle"
+    src="https://api.iconify.design/material-icon-theme:javascript.svg"
+    width="26"
+    height="26"
+   />
   <a
     href="https://github.com/metaory/shadertoy2webgl"
   >
@@ -280,12 +286,6 @@
       🌐 LIVE
     </a>
   </kbd>
-  <img
-    valign="middle"
-    src="https://api.iconify.design/material-icon-theme:javascript.svg"
-    width="26"
-    height="26"
-   />
   <kbd>
     <img
       valign="middle"
@@ -303,6 +303,12 @@
   </i>
 </li>
 <li>
+  <img
+    valign="middle"
+    src="https://api.iconify.design/material-icon-theme:javascript.svg"
+    width="26"
+    height="26"
+   />
   <a
     href="https://github.com/metaory/noseyparker-compact"
   >
@@ -317,12 +323,6 @@
       🌐 LIVE
     </a>
   </kbd>
-  <img
-    valign="middle"
-    src="https://api.iconify.design/material-icon-theme:javascript.svg"
-    width="26"
-    height="26"
-   />
   <kbd>
     <img
       valign="middle"
@@ -340,6 +340,12 @@
   </i>
 </li>
 <li>
+  <img
+    valign="middle"
+    src="https://api.iconify.design/material-icon-theme:javascript.svg"
+    width="26"
+    height="26"
+   />
   <a
     href="https://github.com/metaory/glslmine"
   >
@@ -354,12 +360,6 @@
       🌐 LIVE
     </a>
   </kbd>
-  <img
-    valign="middle"
-    src="https://api.iconify.design/material-icon-theme:javascript.svg"
-    width="26"
-    height="26"
-   />
   <kbd>
     <img
       valign="middle"
@@ -377,6 +377,12 @@
   </i>
 </li>
 <li>
+  <img
+    valign="middle"
+    src="https://api.iconify.design/material-icon-theme:javascript.svg"
+    width="26"
+    height="26"
+   />
   <a
     href="https://github.com/metaory/xvoid"
   >
@@ -384,12 +390,6 @@
       xvoid
     </strong>
   </a>
-  <img
-    valign="middle"
-    src="https://api.iconify.design/material-icon-theme:javascript.svg"
-    width="26"
-    height="26"
-   />
   <kbd>
     <img
       valign="middle"
@@ -407,6 +407,12 @@
   </i>
 </li>
 <li>
+  <img
+    valign="middle"
+    src="https://api.iconify.design/material-icon-theme:javascript.svg"
+    width="26"
+    height="26"
+   />
   <a
     href="https://github.com/metaory/source-map-visualization"
   >
@@ -421,12 +427,6 @@
       🌐 LIVE
     </a>
   </kbd>
-  <img
-    valign="middle"
-    src="https://api.iconify.design/material-icon-theme:javascript.svg"
-    width="26"
-    height="26"
-   />
   <kbd>
     <img
       valign="middle"
@@ -444,6 +444,12 @@
   </i>
 </li>
 <li>
+  <img
+    valign="middle"
+    src="https://api.iconify.design/skill-icons:bash-dark.svg"
+    width="26"
+    height="26"
+   />
   <a
     href="https://github.com/metaory/glitcher-cli"
   >
@@ -451,12 +457,6 @@
       glitcher-cli
     </strong>
   </a>
-  <img
-    valign="middle"
-    src="https://api.iconify.design/skill-icons:bash-dark.svg"
-    width="26"
-    height="26"
-   />
   <kbd>
     <img
       valign="middle"
@@ -474,6 +474,12 @@
   </i>
 </li>
 <li>
+  <img
+    valign="middle"
+    src="https://api.iconify.design/material-icon-theme:javascript.svg"
+    width="26"
+    height="26"
+   />
   <a
     href="https://github.com/metaory/junk-activity-scanner"
   >
@@ -481,12 +487,6 @@
       junk-activity-scanner
     </strong>
   </a>
-  <img
-    valign="middle"
-    src="https://api.iconify.design/material-icon-theme:javascript.svg"
-    width="26"
-    height="26"
-   />
   <kbd>
     <img
       valign="middle"
@@ -504,6 +504,12 @@
   </i>
 </li>
 <li>
+  <img
+    valign="middle"
+    src="https://api.iconify.design/material-icon-theme:handlebars.svg"
+    width="26"
+    height="26"
+   />
   <a
     href="https://github.com/metaory/jsonresume-theme-legacy"
   >
@@ -518,12 +524,6 @@
       🌐 LIVE
     </a>
   </kbd>
-  <img
-    valign="middle"
-    src="https://api.iconify.design/material-icon-theme:handlebars.svg"
-    width="26"
-    height="26"
-   />
   <kbd>
     <img
       valign="middle"
@@ -541,6 +541,12 @@
   </i>
 </li>
 <li>
+  <img
+    valign="middle"
+    src="https://api.iconify.design/material-icon-theme:javascript.svg"
+    width="26"
+    height="26"
+   />
   <a
     href="https://github.com/metaory/markup.json"
   >
@@ -555,12 +561,6 @@
       🌐 LIVE
     </a>
   </kbd>
-  <img
-    valign="middle"
-    src="https://api.iconify.design/material-icon-theme:javascript.svg"
-    width="26"
-    height="26"
-   />
   <kbd>
     <img
       valign="middle"
@@ -578,6 +578,12 @@
   </i>
 </li>
 <li>
+  <img
+    valign="middle"
+    src="https://api.iconify.design/material-icon-theme:javascript.svg"
+    width="26"
+    height="26"
+   />
   <a
     href="https://github.com/metaory/pcall.js"
   >
@@ -592,12 +598,6 @@
       🌐 LIVE
     </a>
   </kbd>
-  <img
-    valign="middle"
-    src="https://api.iconify.design/material-icon-theme:javascript.svg"
-    width="26"
-    height="26"
-   />
   <kbd>
     <img
       valign="middle"
@@ -615,6 +615,12 @@
   </i>
 </li>
 <li>
+  <img
+    valign="middle"
+    src="https://api.iconify.design/fluent-color:code-block-24.svg"
+    width="26"
+    height="26"
+   />
   <a
     href="https://github.com/metaory/xico"
   >
@@ -622,12 +628,6 @@
       xico
     </strong>
   </a>
-  <img
-    valign="middle"
-    src="https://api.iconify.design/fluent-color:code-block-24.svg"
-    width="26"
-    height="26"
-   />
   <kbd>
     <img
       valign="middle"
@@ -645,6 +645,12 @@
   </i>
 </li>
 <li>
+  <img
+    valign="middle"
+    src="https://api.iconify.design/skill-icons:bash-dark.svg"
+    width="26"
+    height="26"
+   />
   <a
     href="https://github.com/metaory/hexocd-colorscheme"
   >
@@ -652,12 +658,6 @@
       hexocd-colorscheme
     </strong>
   </a>
-  <img
-    valign="middle"
-    src="https://api.iconify.design/skill-icons:bash-dark.svg"
-    width="26"
-    height="26"
-   />
   <kbd>
     <img
       valign="middle"
@@ -675,6 +675,12 @@
   </i>
 </li>
 <li>
+  <img
+    valign="middle"
+    src="https://api.iconify.design/skill-icons:bash-dark.svg"
+    width="26"
+    height="26"
+   />
   <a
     href="https://github.com/metaory/confsubst"
   >
@@ -682,12 +688,6 @@
       confsubst
     </strong>
   </a>
-  <img
-    valign="middle"
-    src="https://api.iconify.design/skill-icons:bash-dark.svg"
-    width="26"
-    height="26"
-   />
   <kbd>
     <img
       valign="middle"
@@ -705,6 +705,12 @@
   </i>
 </li>
 <li>
+  <img
+    valign="middle"
+    src="https://api.iconify.design/skill-icons:bash-dark.svg"
+    width="26"
+    height="26"
+   />
   <a
     href="https://github.com/metaory/zsh-roundy-prompt"
   >
@@ -712,12 +718,6 @@
       zsh-roundy-prompt
     </strong>
   </a>
-  <img
-    valign="middle"
-    src="https://api.iconify.design/skill-icons:bash-dark.svg"
-    width="26"
-    height="26"
-   />
   <kbd>
     <img
       valign="middle"
@@ -735,6 +735,12 @@
   </i>
 </li>
 <li>
+  <img
+    valign="middle"
+    src="https://api.iconify.design/skill-icons:bash-dark.svg"
+    width="26"
+    height="26"
+   />
   <a
     href="https://github.com/metaory/xtmux"
   >
@@ -742,12 +748,6 @@
       xtmux
     </strong>
   </a>
-  <img
-    valign="middle"
-    src="https://api.iconify.design/skill-icons:bash-dark.svg"
-    width="26"
-    height="26"
-   />
   <kbd>
     <img
       valign="middle"
@@ -765,6 +765,12 @@
   </i>
 </li>
 <li>
+  <img
+    valign="middle"
+    src="https://api.iconify.design/skill-icons:bash-dark.svg"
+    width="26"
+    height="26"
+   />
   <a
     href="https://github.com/metaory/mxcolr"
   >
@@ -772,12 +778,6 @@
       mxcolr
     </strong>
   </a>
-  <img
-    valign="middle"
-    src="https://api.iconify.design/skill-icons:bash-dark.svg"
-    width="26"
-    height="26"
-   />
   <kbd>
     <img
       valign="middle"
