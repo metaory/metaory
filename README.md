@@ -58,6 +58,43 @@
     height="26"
    />
   <a
+    href="https://github.com/metaory/ascii-lab"
+  >
+    <strong>
+      ascii-lab
+    </strong>
+  </a>
+  <kbd>
+    <a
+      href="https://metaory.github.io/ascii-lab/"
+    >
+      🌐 LIVE
+    </a>
+  </kbd>
+  <kbd>
+    <img
+      valign="middle"
+      src="https://api.iconify.design/fluent-color:star-24.svg"
+      width="16"
+      height="16"
+     />
+    <b>
+      5
+    </b>
+  </kbd>
+  <i>
+    ─
+    experimental ASCII art effects
+  </i>
+</li>
+<li>
+  <img
+    valign="middle"
+    src="https://api.iconify.design/material-icon-theme:javascript.svg"
+    width="26"
+    height="26"
+   />
+  <a
     href="https://github.com/metaory/markon"
   >
     <strong>
@@ -183,7 +220,7 @@
       height="16"
      />
     <b>
-      1
+      11
     </b>
   </kbd>
   <i>
@@ -220,7 +257,7 @@
       height="16"
      />
     <b>
-      69
+      78
     </b>
   </kbd>
   <i>
@@ -465,7 +502,7 @@
       height="16"
      />
     <b>
-      89
+      90
     </b>
   </kbd>
   <i>
@@ -569,7 +606,7 @@
       height="16"
      />
     <b>
-      14
+      17
     </b>
   </kbd>
   <i>
@@ -726,12 +763,12 @@
       height="16"
      />
     <b>
-      40
+      44
     </b>
   </kbd>
   <i>
     ─
-    fast • minimal • roundy prompt for ZSH in 140 lines
+    minimal • roundy prompt for ZSH in 140 lines
   </i>
 </li>
 <li>
