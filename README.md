@@ -116,12 +116,12 @@
       height="16"
      />
     <b>
-      1
+      2
     </b>
   </kbd>
   <i>
     ─
-    [wip] 🚧 Minimal Distraction‑free Markdown editor
+    [public preview]  Minimal Distraction‑free Markdown editor
   </i>
 </li>
 <li>
@@ -294,7 +294,7 @@
       height="16"
      />
     <b>
-      39
+      40
     </b>
   </kbd>
   <i>
@@ -763,7 +763,7 @@
       height="16"
      />
     <b>
-      46
+      47
     </b>
   </kbd>
   <i>
