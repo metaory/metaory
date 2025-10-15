@@ -339,11 +339,7 @@
       shadertoy2webgl
     </strong>
   </a>
-  <a
-    href="https://npmjs.com/package/shadertoy2webgl"
-  >
-    [LIVE]
-  </a>
+  <undefined />
   <i>
     ─
     CLI and library to convert ShaderToy shaders to standalone WebGL2 applications with uniform handling and zero dependencies
@@ -378,11 +374,7 @@
       noseyparker-compact
     </strong>
   </a>
-  <a
-    href="https://npmjs.com/package/noseyparker-compact"
-  >
-    [LIVE]
-  </a>
+  <undefined />
   <i>
     ─
     CLI tool to transform verbose noseyparker JSON reports into concise JSON or CSV summaries for security analysis
@@ -639,11 +631,7 @@
       markup.json
     </strong>
   </a>
-  <a
-    href="https://npmjs.com/package/markup.json"
-  >
-    [LIVE]
-  </a>
+  <undefined />
   <i>
     ─
     A minimal markup DSL and AST for JSON - Transforms into HTML, SVG or XML-like output via CLI or JS library
@@ -678,11 +666,7 @@
       pcall.js
     </strong>
   </a>
-  <a
-    href="https://npmjs.com/package/pcall.js"
-  >
-    [LIVE]
-  </a>
+  <undefined />
   <i>
     ─
     Minimal Result/Monad library inspired by Lua pcall, Elixir Result, and Rust Result with lifecycle hooks and zero dependencies
