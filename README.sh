@@ -65,7 +65,6 @@ function repositories {
     --limit 400 \
     --json "name,description,url,homepageUrl,primaryLanguage,createdAt,stargazerCount,repositoryTopics" \
     --jq '
-      map(select(.homepageUrl != null and .homepageUrl != "")) |
       map({
         name,
         description,
@@ -93,7 +92,7 @@ function repositories {
           ["img", { valign: "middle", src: ($icons[.language] // $icons.NA), width: 26, height: 26 }],
           ["img", { valign: "middle", src: ("assets/icons/" + .type + ".svg"), width: 24, height: 24 }],
           ["a", {href: .url}, ["strong", .name]],
-          ["a", {"href": .homepageUrl}, "[LIVE]" ],
+          (if (.homepageUrl and .homepageUrl != "") then ["a", {"href": .homepageUrl}, "[LIVE]"] else [] end),
           ["i", "─", .description],
           ["img", { valign: "middle", src: $icons.Star, width: 16, height: 16 }], ["b", .stars]
         ])[],
