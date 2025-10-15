@@ -25,6 +25,8 @@ jobs:
           sudo apt-get update
           sudo apt-get install -y gettext-base
           npm install -g markup.json
+          sudo snap install jq
+          jq --version
 
       - name: AUTH
         run: |
