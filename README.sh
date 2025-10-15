@@ -65,29 +65,41 @@ function repositories {
     --limit 400 \
     --json "name,description,url,homepageUrl,primaryLanguage,createdAt,stargazerCount,repositoryTopics" \
     --jq '
-    map({
-      name,
-      description,
-      url,
-      homepageUrl,
-      language: (.primaryLanguage.name // "NA"),
-      createdAt,
-      stars: .stargazerCount,
-      topics: (.repositoryTopics // [] | map(.name)),
-    })' | jq --argjson icons "$icons" '
-  [.[] | select(.topics | index("pin"))] | sort_by(.createdAt) | reverse |
-  [
-    ["h4", {"align": "center"}, "Personal Projects"],
-    map([
-      "li",
-      ["img", {valign:"middle", src: ($icons[.language] // $icons.NA), width: 26, height: 26}],
-      (["a", {href: .url}, ["strong", .name]]),
-      (select(.homepageUrl != "") | ["kbd", ["a", {"href": .homepageUrl}, " 🌐 LIVE"]]),
-      ["kbd", ["img", {valign:"middle",src: $icons.Star, width:16, height: 16}], ["b", .stars]],
-      ["i", "─", .description]
-    ])[],
-    ["hr"]
-  ]' | markup >>README.md
+      map(select(.homepageUrl != null and .homepageUrl != "")) |
+      map({
+        name,
+        description,
+        url,
+        homepageUrl,
+        language: (.primaryLanguage.name // "NA"),
+        createdAt,
+        stars: .stargazerCount,
+        topics: (.repositoryTopics // [] | map(.name)),
+        type: (
+          if (.repositoryTopics // [] | map(.name) | index("npm")) then "npm"
+          elif (.repositoryTopics // [] | map(.name) | index("cli")) then "cli"
+          else "app"
+          end
+        )
+      })
+    ' | jq --argjson icons "$icons" '
+      [.[] | select(.topics | index("pin"))] |
+      sort_by(.createdAt) |
+      reverse |
+      [
+        ["h4", {"align": "center"}, "Personal Projects"],
+        map([
+          "li",
+          ["img", { valign: "middle", src: ($icons[.language] // $icons.NA), width: 26, height: 26 }],
+          ["img", { valign: "middle", src: ("assets/icons/" + .type + ".svg"), width: 24, height: 24 }],
+          ["a", {href: .url}, ["strong", .name]],
+          ["a", {"href": .homepageUrl}, "[LIVE]" ],
+          ["i", "─", .description],
+          ["img", { valign: "middle", src: $icons.Star, width: 16, height: 16 }], ["b", .stars]
+        ])[],
+        ["hr"]
+      ]
+    ' | markup >>README.md
 }
 
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
