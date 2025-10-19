@@ -116,7 +116,7 @@
   </a>
   <i>
     ─
-    [public preview]  Minimal Distraction‑free Markdown editor
+    Minimal Distraction‑free Markdown editor
   </i>
   <img
     valign="middle"
@@ -818,7 +818,7 @@
     height="16"
    />
   <b>
-    50
+    51
   </b>
 </li>
 <li>
