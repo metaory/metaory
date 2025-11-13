@@ -116,7 +116,7 @@
   </a>
   <i>
     ─
-    Minimal Distraction‑free Markdown editor
+    Minimal distraction-free live Markdown editor
   </i>
   <img
     valign="middle"
