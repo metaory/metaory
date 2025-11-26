@@ -53,6 +53,45 @@
 <li>
   <img
     valign="middle"
+    src="https://api.iconify.design/material-icon-theme:css.svg"
+    width="26"
+    height="26"
+   />
+  <img
+    valign="middle"
+    src="assets/icons/npm.svg"
+    width="24"
+    height="24"
+   />
+  <a
+    href="https://github.com/metaory/platform-compat-screen"
+  >
+    <strong>
+      platform-compat-screen
+    </strong>
+  </a>
+  <a
+    href="https://metaory.github.io/platform-compat-screen/"
+  >
+    [LIVE]
+  </a>
+  <i>
+    ─
+    Device-targeted blocking and warning overlays
+  </i>
+  <img
+    valign="middle"
+    src="https://api.iconify.design/fluent-color:star-24.svg"
+    width="16"
+    height="16"
+   />
+  <b>
+    1
+  </b>
+</li>
+<li>
+  <img
+    valign="middle"
     src="https://api.iconify.design/material-icon-theme:javascript.svg"
     width="26"
     height="26"
