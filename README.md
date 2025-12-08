@@ -346,7 +346,7 @@
   </a>
   <i>
     ─
-    Tiny WebGL library for Deterministic seed-driven Procedural Gradient Animations
+    ⚠️ [breaking v2 coming] Tiny WebGL library for Deterministic seed-driven Procedural Gradient Animations
   </i>
   <img
     valign="middle"
@@ -355,7 +355,7 @@
     height="16"
    />
   <b>
-    44
+    45
   </b>
 </li>
 <li>
