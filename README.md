@@ -53,6 +53,45 @@
 <li>
   <img
     valign="middle"
+    src="https://api.iconify.design/material-icon-theme:html.svg"
+    width="26"
+    height="26"
+   />
+  <img
+    valign="middle"
+    src="assets/icons/npm.svg"
+    width="24"
+    height="24"
+   />
+  <a
+    href="https://github.com/metaory/chunked-promise"
+  >
+    <strong>
+      chunked-promise
+    </strong>
+  </a>
+  <a
+    href="https://metaory.github.io/chunked-promise/"
+  >
+    [LIVE]
+  </a>
+  <i>
+    ─
+    Queue & Chunk your promises
+  </i>
+  <img
+    valign="middle"
+    src="https://api.iconify.design/fluent-color:star-24.svg"
+    width="16"
+    height="16"
+   />
+  <b>
+    1
+  </b>
+</li>
+<li>
+  <img
+    valign="middle"
     src="https://api.iconify.design/material-icon-theme:css.svg"
     width="26"
     height="26"
@@ -317,6 +356,45 @@
    />
   <b>
     83
+  </b>
+</li>
+<li>
+  <img
+    valign="middle"
+    src="https://api.iconify.design/material-icon-theme:javascript.svg"
+    width="26"
+    height="26"
+   />
+  <img
+    valign="middle"
+    src="assets/icons/npm.svg"
+    width="24"
+    height="24"
+   />
+  <a
+    href="https://github.com/metaory/iconify-picker"
+  >
+    <strong>
+      iconify-picker
+    </strong>
+  </a>
+  <a
+    href="https://metaory.github.io/iconify-picker/"
+  >
+    [LIVE]
+  </a>
+  <i>
+    ─
+    [WIP] 🚧 Zero-dependency icon picker with built-in UI modes and native events
+  </i>
+  <img
+    valign="middle"
+    src="https://api.iconify.design/fluent-color:star-24.svg"
+    width="16"
+    height="16"
+   />
+  <b>
+    1
   </b>
 </li>
 <li>
