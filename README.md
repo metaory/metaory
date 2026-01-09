@@ -53,6 +53,45 @@
 <li>
   <img
     valign="middle"
+    src="https://api.iconify.design/material-icon-theme:javascript.svg"
+    width="26"
+    height="26"
+   />
+  <img
+    valign="middle"
+    src="assets/icons/npm.svg"
+    width="24"
+    height="24"
+   />
+  <a
+    href="https://github.com/metaory/json-diff-viewer-component"
+  >
+    <strong>
+      json-diff-viewer-component
+    </strong>
+  </a>
+  <a
+    href="https://metaory.github.io/json-diff-viewer-component/"
+  >
+    [LIVE]
+  </a>
+  <i>
+    ─
+    Compare JSON side-by-side, visually
+  </i>
+  <img
+    valign="middle"
+    src="https://api.iconify.design/fluent-color:star-24.svg"
+    width="16"
+    height="16"
+   />
+  <b>
+    3
+  </b>
+</li>
+<li>
+  <img
+    valign="middle"
     src="https://api.iconify.design/fluent-color:agents-24.svg"
     width="26"
     height="26"
