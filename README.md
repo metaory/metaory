@@ -86,7 +86,7 @@
     height="16"
    />
   <b>
-    23
+    24
   </b>
 </li>
 <li>
@@ -974,7 +974,7 @@
     height="16"
    />
   <b>
-    74
+    75
   </b>
 </li>
 <li>
@@ -1074,7 +1074,7 @@
   <undefined />
   <i>
     ─
-    ヘ Generate, Preview and Apply beautiful unified human friendly pseudo random color schemes, SYSTEM WIDE!
+    ヘ Generate, Preview, Apply beautiful unified human friendly pseudo random color schemes, SYSTEM WIDE!
   </i>
   <img
     valign="middle"
@@ -4117,6 +4117,6 @@
   </sup>
   <br />
   <kbd>
-    updated @1770000000
+    updated @1771000000
   </kbd>
 </div>
