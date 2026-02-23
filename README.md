@@ -59,6 +59,41 @@
    />
   <img
     valign="middle"
+    src="assets/icons/app.svg"
+    width="24"
+    height="24"
+   />
+  <a
+    href="https://github.com/metaory/smart-tab-groups"
+  >
+    <strong>
+      smart-tab-groups
+    </strong>
+  </a>
+  <undefined />
+  <i>
+    ─
+    (🚧 chrome webstore pending review) Yet Another Chrome extension: auto-group tabs by domain or subdomain.
+  </i>
+  <img
+    valign="middle"
+    src="https://api.iconify.design/fluent-color:star-24.svg"
+    width="16"
+    height="16"
+   />
+  <b>
+    2
+  </b>
+</li>
+<li>
+  <img
+    valign="middle"
+    src="https://api.iconify.design/material-icon-theme:javascript.svg"
+    width="26"
+    height="26"
+   />
+  <img
+    valign="middle"
     src="assets/icons/npm.svg"
     width="24"
     height="24"
