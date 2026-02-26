@@ -77,7 +77,7 @@
   </a>
   <i>
     ─
-    (chrome webstore pending review) Yet Another Chrome extension: auto-group tabs by domain or subdomain.
+    Yet Another Chrome extension: auto-group tabs by domain or subdomain.
   </i>
   <img
     valign="middle"
