@@ -70,10 +70,14 @@
       smart-tab-groups
     </strong>
   </a>
-  <undefined />
+  <a
+    href="https://chromewebstore.google.com/detail/smart-tab-groups/cfjahodmigjlaeldkmaemndeodngcffd"
+  >
+    [LIVE]
+  </a>
   <i>
     ─
-    (🚧 chrome webstore pending review) Yet Another Chrome extension: auto-group tabs by domain or subdomain.
+    (chrome webstore pending review) Yet Another Chrome extension: auto-group tabs by domain or subdomain.
   </i>
   <img
     valign="middle"
@@ -4152,6 +4156,6 @@
   </sup>
   <br />
   <kbd>
-    updated @1771000000
+    updated @1772000000
   </kbd>
 </div>
