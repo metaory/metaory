@@ -142,20 +142,20 @@
       <line x1="20" x2="100" y1="70" y2="70" stroke-opacity="0.0" stroke="#33ee33" stroke-width="2" />
     </tspan>
     -->
-    <!-- DEBUG --> <tspan x="60" fill="#6600FF" stroke="#6600FF" >
-     Μētɑσгy
+    <!-- DEBUG --> <tspan x="70" fill="#6600FF" stroke="#6600FF" >
+     ϻētɑσгỵ
     </tspan>
   </text>
   <use href="#slash" x="0" y="0" fill="#0099FF" filter="url(#glitch-sm-1)"/>
   <use href="#slash" x="0" y="0" fill="#0099FF" filter="url(#glow)"/>
   <use href="#slash" x="10" y="0" fill="#FF2233" filter="url(#glitch-sm-2)"/>
   <use href="#slash" x="10" y="0" fill="#FF2233" filter="url(#glow)"/>
-  <g transform="translate(280 0)" filter="url(#glitch-sm-1)">
+  <g transform="translate(270 0)" filter="url(#glitch-sm-1)">
     <animate attributeName="opacity" values="1;0;1" dur="0.5s" repeatCount="indefinite"/>
     <rect width="35" height="8" y="45" x="40" rx="1" fill="#FF2233" />
     <rect width="15" height="8" y="60" x="60" rx="1" fill="#FF2233" />
   </g>
-  <g transform="translate(280 0)" filter="url(#glow)">
+  <g transform="translate(270 0)" filter="url(#glow)">
     <animate attributeName="opacity" values="1;0;1" dur="0.5s" repeatCount="indefinite"/>
     <rect width="35" height="8" y="45" x="40" rx="1" fill="#FF2233" />
     <rect width="15" height="8" y="60" x="60" rx="1" fill="#FF2233" />
