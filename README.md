@@ -53,6 +53,45 @@
 <li>
   <img
     valign="middle"
+    src="https://api.iconify.design/fluent-color:agents-24.svg"
+    width="26"
+    height="26"
+   />
+  <img
+    valign="middle"
+    src="assets/icons/app.svg"
+    width="24"
+    height="24"
+   />
+  <a
+    href="https://github.com/metaory/simple-docs-template"
+  >
+    <strong>
+      simple-docs-template
+    </strong>
+  </a>
+  <a
+    href="https://metaory.github.io/astro-docs-template/"
+  >
+    [LIVE]
+  </a>
+  <i>
+    ─
+    
+  </i>
+  <img
+    valign="middle"
+    src="https://api.iconify.design/fluent-color:star-24.svg"
+    width="16"
+    height="16"
+   />
+  <b>
+    0
+  </b>
+</li>
+<li>
+  <img
+    valign="middle"
     src="https://api.iconify.design/material-icon-theme:javascript.svg"
     width="26"
     height="26"
