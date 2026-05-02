@@ -337,6 +337,45 @@
     height="24"
    />
   <a
+    href="https://github.com/metaory/markon"
+  >
+    <strong>
+      markon
+    </strong>
+  </a>
+  <a
+    href="https://metaory.github.io/markon/"
+  >
+    [LIVE]
+  </a>
+  <i>
+    ─
+    Minimal distraction-free live Markdown editor
+  </i>
+  <img
+    valign="middle"
+    src="https://api.iconify.design/fluent-color:star-24.svg"
+    width="16"
+    height="16"
+   />
+  <b>
+    47
+  </b>
+</li>
+<li>
+  <img
+    valign="middle"
+    src="https://api.iconify.design/material-icon-theme:javascript.svg"
+    width="26"
+    height="26"
+   />
+  <img
+    valign="middle"
+    src="assets/icons/app.svg"
+    width="24"
+    height="24"
+   />
+  <a
     href="https://github.com/metaory/coloruv"
   >
     <strong>
