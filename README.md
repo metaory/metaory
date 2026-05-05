@@ -2052,9 +2052,9 @@
     width="24"
    />
   <img
-    alt="material-thenpm"
-    title="material-thenpm"
-    src="assets/icons/material-thenpm.svg"
+    alt="npm"
+    title="npm"
+    src="assets/icons/npm.svg"
     width="24"
    />
   <img
