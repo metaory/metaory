@@ -49,8 +49,7 @@ function compose {
             alt:.,
             title:.,
             src:["assets/icons/"+.+".svg", {}],
-            width:"24",
-            height:"24"
+            width:"24"
           }]
         ).[]
       )]]' < <(sed -E "$normalize" "src/list_${1}.json") |
