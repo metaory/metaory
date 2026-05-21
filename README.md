@@ -63,6 +63,37 @@
       width="24"
      />
     <a
+      href="https://github.com/metaory/css-selector-repl"
+    >
+      <strong>
+        css-selector-repl
+      </strong>
+    </a>
+    <undefined />
+    <i>
+      ─ Live REPL for CSS selectors.
+    </i>
+    <img
+      valign="middle"
+      src="https://api.iconify.design/fluent-color:star-24.svg"
+      width="16"
+     />
+    <b>
+      2
+    </b>
+  </li>
+  <li>
+    <img
+      valign="middle"
+      src="https://api.iconify.design/material-icon-theme:javascript.svg"
+      width="26"
+     />
+    <img
+      valign="middle"
+      src="assets/icons/app.svg"
+      width="24"
+     />
+    <a
       href="https://github.com/metaory/smart-tab-groups"
     >
       <strong>
@@ -118,7 +149,7 @@
       width="16"
      />
     <b>
-      35
+      36
     </b>
   </li>
   <li>
