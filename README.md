@@ -63,10 +63,10 @@
       width="24"
      />
     <a
-      href="https://github.com/metaory/css-selector-repl"
+      href="https://github.com/metaory/live-css-queries"
     >
       <strong>
-        css-selector-repl
+        live-css-queries
       </strong>
     </a>
     <undefined />
@@ -324,7 +324,7 @@
       width="16"
      />
     <b>
-      46
+      47
     </b>
   </li>
   <li>
@@ -821,7 +821,7 @@
       width="16"
      />
     <b>
-      16
+      17
     </b>
   </li>
   <li>
