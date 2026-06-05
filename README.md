@@ -71,7 +71,7 @@
     </a>
     <undefined />
     <i>
-      ─ Live REPL for CSS selectors.
+      ─ 🚧 [PENDING STORE SUBMISSION] Live REPL for CSS selectors.
     </i>
     <img
       valign="middle"
