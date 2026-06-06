@@ -64,22 +64,20 @@ function repositories {
     --limit 400 \
     --json "name,description,url,homepageUrl,primaryLanguage,createdAt,stargazerCount,repositoryTopics" \
     --jq '
-      map({
-        name,
-        description,
-        url,
-        homepageUrl,
-        language: (.primaryLanguage.name // "NA"),
-        createdAt,
-        stars: .stargazerCount,
-        topics: (.repositoryTopics // [] | map(.name)),
-        type: (
-          if (.repositoryTopics // [] | map(.name) | index("npm")) then "npm"
-          elif (.repositoryTopics // [] | map(.name) | index("cli")) then "cli"
-          else "app"
-          end
-        )
-      })
+      map(
+        (.repositoryTopics // [] | map(.name)) as $topics |
+        {
+          name,
+          description,
+          url,
+          homepageUrl,
+          language: (.primaryLanguage.name // "NA"),
+          createdAt,
+          stars: .stargazerCount,
+          topics: $topics,
+          type: (["npm", "cli", "web_extension"] | map(. as $t | select($topics | index($t) != null) | $t) | first // "app")
+        }
+      )
     ' | jq --argjson icons "$icons" '
       [.[] | select(.topics | index("pin"))] |
       sort_by(.createdAt) |
@@ -103,6 +101,8 @@ function repositories {
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 append header
+
+fetch-icon web_extension
 
 repositories
 
