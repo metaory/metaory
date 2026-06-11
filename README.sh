@@ -90,7 +90,7 @@ function repositories {
           ["img", { valign: "middle", src: ("assets/icons/" + .type + ".svg"), width: 24 }],
           ["b", .stars], ["img", { valign: "middle", src: $icons.Star, width: 16 }],
           ["a", {href: .url}, ["strong", .name]],
-          (if (.homepageUrl and .homepageUrl != "") then ["a", {"href": .homepageUrl}, "[LIVE]"] else [] end),
+          (if (.homepageUrl and .homepageUrl != "") then ["a", {"href": .homepageUrl}, "&nbsp;[LIVE]"] else [] end),
           ["i", ("─" + (if ((.description // "") | length) > 0 then " " + (.description // "") else "" end))]
         ])),
         ["hr"]
