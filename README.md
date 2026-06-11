@@ -33,11 +33,11 @@
    />
   <br />
   <strong>
-    16+ years building
+    17+ years building
   </strong>
   <br />
   <small>
-    full-stack, distributed platforms
+    reliable systems, distributed platforms
   </small>
   <br />
   <small>
