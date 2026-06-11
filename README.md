@@ -59,17 +59,17 @@
      />
     <img
       valign="middle"
-      src="assets/icons/app.svg"
+      src="assets/icons/web-extension.svg"
       width="24"
      />
+    <b>
+      1
+    </b>
     <img
       valign="middle"
       src="https://api.iconify.design/fluent-color:star-24.svg"
       width="16"
      />
-    <b>
-      1
-    </b>
     <a
       href="https://github.com/metaory/code-copy"
     >
@@ -80,7 +80,7 @@
     <a
       href="https://chromewebstore.google.com/detail/code-copy/pmohebgglggkhehmhbofgbhfgadpjjpc"
     >
-      [LIVE]
+      &nbsp;[LIVE]
     </a>
     <i>
       ─ Chrome extension - Copy text from code blocks and page elements to the clipboard on click
@@ -94,17 +94,17 @@
      />
     <img
       valign="middle"
-      src="assets/icons/app.svg"
+      src="assets/icons/cli.svg"
       width="24"
      />
+    <b>
+      1
+    </b>
     <img
       valign="middle"
       src="https://api.iconify.design/fluent-color:star-24.svg"
       width="16"
      />
-    <b>
-      1
-    </b>
     <a
       href="https://github.com/metaory/forks-hollow"
     >
@@ -125,17 +125,17 @@
      />
     <img
       valign="middle"
-      src="assets/icons/app.svg"
+      src="assets/icons/web-extension.svg"
       width="24"
      />
+    <b>
+      2
+    </b>
     <img
       valign="middle"
       src="https://api.iconify.design/fluent-color:star-24.svg"
       width="16"
      />
-    <b>
-      2
-    </b>
     <a
       href="https://github.com/metaory/live-css-queries"
     >
@@ -156,17 +156,17 @@
      />
     <img
       valign="middle"
-      src="assets/icons/app.svg"
+      src="assets/icons/web-extension.svg"
       width="24"
      />
+    <b>
+      3
+    </b>
     <img
       valign="middle"
       src="https://api.iconify.design/fluent-color:star-24.svg"
       width="16"
      />
-    <b>
-      3
-    </b>
     <a
       href="https://github.com/metaory/smart-tab-groups"
     >
@@ -177,7 +177,7 @@
     <a
       href="https://chromewebstore.google.com/detail/smart-tab-groups/cfjahodmigjlaeldkmaemndeodngcffd"
     >
-      [LIVE]
+      &nbsp;[LIVE]
     </a>
     <i>
       ─ Yet Another Chrome extension: auto-group tabs by domain or subdomain.
@@ -194,14 +194,14 @@
       src="assets/icons/npm.svg"
       width="24"
      />
+    <b>
+      38
+    </b>
     <img
       valign="middle"
       src="https://api.iconify.design/fluent-color:star-24.svg"
       width="16"
      />
-    <b>
-      38
-    </b>
     <a
       href="https://github.com/metaory/json-diff-viewer-component"
     >
@@ -212,7 +212,7 @@
     <a
       href="https://metaory.github.io/json-diff-viewer-component/"
     >
-      [LIVE]
+      &nbsp;[LIVE]
     </a>
     <i>
       ─ Compare JSON side-by-side, visually
@@ -229,14 +229,14 @@
       src="assets/icons/app.svg"
       width="24"
      />
+    <b>
+      1
+    </b>
     <img
       valign="middle"
       src="https://api.iconify.design/fluent-color:star-24.svg"
       width="16"
      />
-    <b>
-      1
-    </b>
     <a
       href="https://github.com/metaory/symbol-logo-maker"
     >
@@ -247,7 +247,7 @@
     <a
       href="https://metaory.github.io/symbol-logo-maker/"
     >
-      [LIVE]
+      &nbsp;[LIVE]
     </a>
     <i>
       ─ [WIP] transforms any symbol, character, or glyph into a logo
@@ -264,14 +264,14 @@
       src="assets/icons/npm.svg"
       width="24"
      />
+    <b>
+      2
+    </b>
     <img
       valign="middle"
       src="https://api.iconify.design/fluent-color:star-24.svg"
       width="16"
      />
-    <b>
-      2
-    </b>
     <a
       href="https://github.com/metaory/chunked-promise"
     >
@@ -282,7 +282,7 @@
     <a
       href="https://metaory.github.io/chunked-promise/"
     >
-      [LIVE]
+      &nbsp;[LIVE]
     </a>
     <i>
       ─ Queue & Chunk your promises
@@ -299,14 +299,14 @@
       src="assets/icons/npm.svg"
       width="24"
      />
+    <b>
+      1
+    </b>
     <img
       valign="middle"
       src="https://api.iconify.design/fluent-color:star-24.svg"
       width="16"
      />
-    <b>
-      1
-    </b>
     <a
       href="https://github.com/metaory/platform-compat-screen"
     >
@@ -317,7 +317,7 @@
     <a
       href="https://metaory.github.io/platform-compat-screen/"
     >
-      [LIVE]
+      &nbsp;[LIVE]
     </a>
     <i>
       ─ Device-targeted blocking and warning overlays
@@ -334,14 +334,14 @@
       src="assets/icons/app.svg"
       width="24"
      />
+    <b>
+      7
+    </b>
     <img
       valign="middle"
       src="https://api.iconify.design/fluent-color:star-24.svg"
       width="16"
      />
-    <b>
-      7
-    </b>
     <a
       href="https://github.com/metaory/ascii-lab"
     >
@@ -352,7 +352,7 @@
     <a
       href="https://metaory.github.io/ascii-lab/"
     >
-      [LIVE]
+      &nbsp;[LIVE]
     </a>
     <i>
       ─ experimental ASCII art effects
@@ -369,14 +369,14 @@
       src="assets/icons/app.svg"
       width="24"
      />
+    <b>
+      50
+    </b>
     <img
       valign="middle"
       src="https://api.iconify.design/fluent-color:star-24.svg"
       width="16"
      />
-    <b>
-      50
-    </b>
     <a
       href="https://github.com/metaory/markon"
     >
@@ -387,7 +387,7 @@
     <a
       href="https://metaory.github.io/markon/"
     >
-      [LIVE]
+      &nbsp;[LIVE]
     </a>
     <i>
       ─  Minimal distraction-free live Markdown editor
@@ -404,14 +404,14 @@
       src="assets/icons/app.svg"
       width="24"
      />
+    <b>
+      7
+    </b>
     <img
       valign="middle"
       src="https://api.iconify.design/fluent-color:star-24.svg"
       width="16"
      />
-    <b>
-      7
-    </b>
     <a
       href="https://github.com/metaory/coloruv"
     >
@@ -422,7 +422,7 @@
     <a
       href="https://metaory.github.io/coloruv/"
     >
-      [LIVE]
+      &nbsp;[LIVE]
     </a>
     <i>
       ─ a minimal natural color picker
@@ -439,14 +439,14 @@
       src="assets/icons/npm.svg"
       width="24"
      />
+    <b>
+      6
+    </b>
     <img
       valign="middle"
       src="https://api.iconify.design/fluent-color:star-24.svg"
       width="16"
      />
-    <b>
-      6
-    </b>
     <a
       href="https://github.com/metaory/bit-grid-component"
     >
@@ -457,7 +457,7 @@
     <a
       href="https://metaory.github.io/bit-grid-component/"
     >
-      [LIVE]
+      &nbsp;[LIVE]
     </a>
     <i>
       ─ Framework-agnostic web component for boolean matrices
@@ -474,14 +474,14 @@
       src="assets/icons/cli.svg"
       width="24"
      />
+    <b>
+      60
+    </b>
     <img
       valign="middle"
       src="https://api.iconify.design/fluent-color:star-24.svg"
       width="16"
      />
-    <b>
-      60
-    </b>
     <a
       href="https://github.com/metaory/nyaa-cli"
     >
@@ -505,14 +505,14 @@
       src="assets/icons/app.svg"
       width="24"
      />
+    <b>
+      107
+    </b>
     <img
       valign="middle"
       src="https://api.iconify.design/fluent-color:star-24.svg"
       width="16"
      />
-    <b>
-      107
-    </b>
     <a
       href="https://github.com/metaory/glitcher-app"
     >
@@ -523,7 +523,7 @@
     <a
       href="https://metaory.github.io/glitcher-app/"
     >
-      [LIVE]
+      &nbsp;[LIVE]
     </a>
     <i>
       ─ Turn text or images into animated glitches // SVG • WebM • GIF
@@ -540,14 +540,14 @@
       src="assets/icons/npm.svg"
       width="24"
      />
+    <b>
+      1
+    </b>
     <img
       valign="middle"
       src="https://api.iconify.design/fluent-color:star-24.svg"
       width="16"
      />
-    <b>
-      1
-    </b>
     <a
       href="https://github.com/metaory/iconify-picker"
     >
@@ -558,7 +558,7 @@
     <a
       href="https://metaory.github.io/iconify-picker/"
     >
-      [LIVE]
+      &nbsp;[LIVE]
     </a>
     <i>
       ─ Zero-dependency icon picker with built-in UI modes and native events
@@ -575,14 +575,14 @@
       src="assets/icons/npm.svg"
       width="24"
      />
+    <b>
+      50
+    </b>
     <img
       valign="middle"
       src="https://api.iconify.design/fluent-color:star-24.svg"
       width="16"
      />
-    <b>
-      50
-    </b>
     <a
       href="https://github.com/metaory/gradient-gl"
     >
@@ -593,7 +593,7 @@
     <a
       href="https://metaory.github.io/gradient-gl/"
     >
-      [LIVE]
+      &nbsp;[LIVE]
     </a>
     <i>
       ─ Tiny WebGL library for Deterministic seed-driven Procedural Gradient Animations  [breaking v2 shaders coming]
@@ -610,14 +610,14 @@
       src="assets/icons/npm.svg"
       width="24"
      />
+    <b>
+      12
+    </b>
     <img
       valign="middle"
       src="https://api.iconify.design/fluent-color:star-24.svg"
       width="16"
      />
-    <b>
-      12
-    </b>
     <a
       href="https://github.com/metaory/shadertoy2webgl"
     >
@@ -641,14 +641,14 @@
       src="assets/icons/npm.svg"
       width="24"
      />
+    <b>
+      4
+    </b>
     <img
       valign="middle"
       src="https://api.iconify.design/fluent-color:star-24.svg"
       width="16"
      />
-    <b>
-      4
-    </b>
     <a
       href="https://github.com/metaory/noseyparker-compact"
     >
@@ -672,14 +672,14 @@
       src="assets/icons/app.svg"
       width="24"
      />
+    <b>
+      21
+    </b>
     <img
       valign="middle"
       src="https://api.iconify.design/fluent-color:star-24.svg"
       width="16"
      />
-    <b>
-      21
-    </b>
     <a
       href="https://github.com/metaory/glslmine"
     >
@@ -690,7 +690,7 @@
     <a
       href="https://metaory.github.io/glslmine/"
     >
-      [LIVE]
+      &nbsp;[LIVE]
     </a>
     <i>
       ─ Modern GLSL shader gallery with auto-fetch from GLSL Sandbox and Shadertoy, featuring smart filters and minimal interface
@@ -704,17 +704,17 @@
      />
     <img
       valign="middle"
-      src="assets/icons/app.svg"
+      src="assets/icons/web-extension.svg"
       width="24"
      />
+    <b>
+      2
+    </b>
     <img
       valign="middle"
       src="https://api.iconify.design/fluent-color:star-24.svg"
       width="16"
      />
-    <b>
-      2
-    </b>
     <a
       href="https://github.com/metaory/xvoid"
     >
@@ -738,14 +738,14 @@
       src="assets/icons/app.svg"
       width="24"
      />
+    <b>
+      3
+    </b>
     <img
       valign="middle"
       src="https://api.iconify.design/fluent-color:star-24.svg"
       width="16"
      />
-    <b>
-      3
-    </b>
     <a
       href="https://github.com/metaory/source-map-visualization"
     >
@@ -756,7 +756,7 @@
     <a
       href="https://metaory.github.io/source-map-visualization/"
     >
-      [LIVE]
+      &nbsp;[LIVE]
     </a>
     <i>
       ─ [FORK] an unholy sourcemap visualization tool
@@ -773,14 +773,14 @@
       src="assets/icons/cli.svg"
       width="24"
      />
+    <b>
+      97
+    </b>
     <img
       valign="middle"
       src="https://api.iconify.design/fluent-color:star-24.svg"
       width="16"
      />
-    <b>
-      97
-    </b>
     <a
       href="https://github.com/metaory/glitcher-cli"
     >
@@ -804,14 +804,14 @@
       src="assets/icons/app.svg"
       width="24"
      />
+    <b>
+      5
+    </b>
     <img
       valign="middle"
       src="https://api.iconify.design/fluent-color:star-24.svg"
       width="16"
      />
-    <b>
-      5
-    </b>
     <a
       href="https://github.com/metaory/junk-activity-scanner"
     >
@@ -835,14 +835,14 @@
       src="assets/icons/app.svg"
       width="24"
      />
+    <b>
+      14
+    </b>
     <img
       valign="middle"
       src="https://api.iconify.design/fluent-color:star-24.svg"
       width="16"
      />
-    <b>
-      14
-    </b>
     <a
       href="https://github.com/metaory/jsonresume-theme-legacy"
     >
@@ -853,7 +853,7 @@
     <a
       href="https://metaory.github.io/jsonresume-theme-legacy/"
     >
-      [LIVE]
+      &nbsp;[LIVE]
     </a>
     <i>
       ─ Legacy JSONResume Iconify, colors, PDF
@@ -870,14 +870,14 @@
       src="assets/icons/npm.svg"
       width="24"
      />
+    <b>
+      17
+    </b>
     <img
       valign="middle"
       src="https://api.iconify.design/fluent-color:star-24.svg"
       width="16"
      />
-    <b>
-      17
-    </b>
     <a
       href="https://github.com/metaory/markup.json"
     >
@@ -901,14 +901,14 @@
       src="assets/icons/npm.svg"
       width="24"
      />
+    <b>
+      5
+    </b>
     <img
       valign="middle"
       src="https://api.iconify.design/fluent-color:star-24.svg"
       width="16"
      />
-    <b>
-      5
-    </b>
     <a
       href="https://github.com/metaory/pcall.js"
     >
@@ -932,14 +932,14 @@
       src="assets/icons/cli.svg"
       width="24"
      />
+    <b>
+      8
+    </b>
     <img
       valign="middle"
       src="https://api.iconify.design/fluent-color:star-24.svg"
       width="16"
      />
-    <b>
-      8
-    </b>
     <a
       href="https://github.com/metaory/xico"
     >
@@ -963,14 +963,14 @@
       src="assets/icons/app.svg"
       width="24"
      />
+    <b>
+      3
+    </b>
     <img
       valign="middle"
       src="https://api.iconify.design/fluent-color:star-24.svg"
       width="16"
      />
-    <b>
-      3
-    </b>
     <a
       href="https://github.com/metaory/hexocd-colorscheme"
     >
@@ -994,14 +994,14 @@
       src="assets/icons/cli.svg"
       width="24"
      />
+    <b>
+      2
+    </b>
     <img
       valign="middle"
       src="https://api.iconify.design/fluent-color:star-24.svg"
       width="16"
      />
-    <b>
-      2
-    </b>
     <a
       href="https://github.com/metaory/confsubst"
     >
@@ -1025,14 +1025,14 @@
       src="assets/icons/app.svg"
       width="24"
      />
+    <b>
+      75
+    </b>
     <img
       valign="middle"
       src="https://api.iconify.design/fluent-color:star-24.svg"
       width="16"
      />
-    <b>
-      75
-    </b>
     <a
       href="https://github.com/metaory/zsh-roundy-prompt"
     >
@@ -1056,14 +1056,14 @@
       src="assets/icons/npm.svg"
       width="24"
      />
+    <b>
+      12
+    </b>
     <img
       valign="middle"
       src="https://api.iconify.design/fluent-color:star-24.svg"
       width="16"
      />
-    <b>
-      12
-    </b>
     <a
       href="https://github.com/metaory/mxflow-cli"
     >
@@ -1074,7 +1074,7 @@
     <a
       href="https://npmjs.com/package/mxflow"
     >
-      [LIVE]
+      &nbsp;[LIVE]
     </a>
     <i>
       ─ General purpose task runner
@@ -1091,14 +1091,14 @@
       src="assets/icons/app.svg"
       width="24"
      />
+    <b>
+      16
+    </b>
     <img
       valign="middle"
       src="https://api.iconify.design/fluent-color:star-24.svg"
       width="16"
      />
-    <b>
-      16
-    </b>
     <a
       href="https://github.com/metaory/xtmux"
     >
@@ -1122,14 +1122,14 @@
       src="assets/icons/cli.svg"
       width="24"
      />
+    <b>
+      23
+    </b>
     <img
       valign="middle"
       src="https://api.iconify.design/fluent-color:star-24.svg"
       width="16"
      />
-    <b>
-      23
-    </b>
     <a
       href="https://github.com/metaory/mxcolr"
     >
