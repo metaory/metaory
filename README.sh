@@ -83,15 +83,15 @@ function repositories {
       sort_by(.createdAt) |
       reverse |
       [
-        ["h4", {"align": "center"}, "Personal Projects"],
+        ["h4", {"align": "center"}, "Notable Projects"],
         (["ul", {}] + map([
           "li",
           ["img", { valign: "middle", src: ($icons[.language] // $icons.NA), width: 26 }],
           ["img", { valign: "middle", src: ("assets/icons/" + .type + ".svg"), width: 24 }],
+          ["img", { valign: "middle", src: $icons.Star, width: 16 }], ["b", .stars],
           ["a", {href: .url}, ["strong", .name]],
           (if (.homepageUrl and .homepageUrl != "") then ["a", {"href": .homepageUrl}, "[LIVE]"] else [] end),
-          ["i", ("─" + (if ((.description // "") | length) > 0 then " " + (.description // "") else "" end))],
-          ["img", { valign: "middle", src: $icons.Star, width: 16 }], ["b", .stars]
+          ["i", ("─" + (if ((.description // "") | length) > 0 then " " + (.description // "") else "" end))]
         ])),
         ["hr"]
       ]
@@ -101,8 +101,6 @@ function repositories {
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 append header
-
-fetch-icon web_extension
 
 repositories
 
