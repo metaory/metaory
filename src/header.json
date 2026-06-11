@@ -12,9 +12,9 @@
     ["br"],
     ["img", { "src": "assets/line.svg", "width": "220", "valign": "center" }],
     ["br"],
-    ["strong", "16+ years building"],
+    ["strong", "17+ years building"],
     ["br"],
-    ["small", "full-stack, distributed platforms"],
+    ["small", "reliable systems, distributed platforms"],
     ["br"],
     ["small", "and cloud architecture"],
     ["hr"]
