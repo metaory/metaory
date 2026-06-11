@@ -75,7 +75,7 @@ function repositories {
           createdAt,
           stars: .stargazerCount,
           topics: $topics,
-          type: (["npm", "cli", "web_extension"] | map(. as $t | select($topics | index($t) != null) | $t) | first // "app")
+          type: (["npm", "cli", "web-extension"] | map(. as $t | select($topics | index($t) != null) | $t) | first // "app")
         }
       )
     ' | jq --argjson icons "$icons" '
