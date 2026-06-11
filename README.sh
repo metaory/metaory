@@ -88,7 +88,7 @@ function repositories {
           "li",
           ["img", { valign: "middle", src: ($icons[.language] // $icons.NA), width: 26 }],
           ["img", { valign: "middle", src: ("assets/icons/" + .type + ".svg"), width: 24 }],
-          ["img", { valign: "middle", src: $icons.Star, width: 16 }], ["b", .stars],
+          ["b", .stars], ["img", { valign: "middle", src: $icons.Star, width: 16 }],
           ["a", {href: .url}, ["strong", .name]],
           (if (.homepageUrl and .homepageUrl != "") then ["a", {"href": .homepageUrl}, "[LIVE]"] else [] end),
           ["i", ("─" + (if ((.description // "") | length) > 0 then " " + (.description // "") else "" end))]
