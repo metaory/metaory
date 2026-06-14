@@ -12,14 +12,14 @@ jobs:
 
     steps:
       - name: CHECKOUT
-        uses: actions/checkout@v4
+        uses: actions/checkout@v6
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: SETUP
-        uses: actions/setup-node@v4
+        uses: actions/setup-node@v6
         with:
-          node-version: 'latest'
+          node-version: 24
 
       - name: DEPENDENCIES
         run: |
@@ -27,12 +27,12 @@ jobs:
           sudo apt-get install -y gettext-base
           npm install -g markup.json
 
-      - name: INSTALL JQ
-        run: |
-          curl -L "https://github.com/jqlang/jq/releases/download/jq-1.8.1/jq-linux-amd64" -o jq
-          chmod +x jq
-          sudo mv jq /usr/local/bin/
-          jq --version
+      # - name: INSTALL JQ
+      #   run: |
+      #     curl -L "https://github.com/jqlang/jq/releases/download/jq-1.8.1/jq-linux-amd64" -o jq
+      #     chmod +x jq
+      #     sudo mv jq /usr/local/bin/
+      #     jq --version
 
       - name: AUTH
         run: |
