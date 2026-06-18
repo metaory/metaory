@@ -1171,7 +1171,7 @@
       width="24"
      />
     <b>
-      16
+      15
     </b>
     <img
       valign="middle"
