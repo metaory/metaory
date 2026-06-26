@@ -54,7 +54,7 @@
   <li>
     <img
       valign="middle"
-      src="https://api.iconify.design/material-icon-theme:javascript.svg"
+      src="https://api.iconify.design/skill-icons:bash-dark.svg"
       width="26"
      />
     <img
@@ -64,6 +64,39 @@
      />
     <b>
       1
+    </b>
+    <img
+      valign="middle"
+      src="https://api.iconify.design/fluent-color:star-24.svg"
+      width="16"
+     />
+    <a
+      href="https://github.com/metaory/invert-site"
+    >
+      <strong>
+        invert-site
+      </strong>
+    </a>
+    <b>
+      &nbsp;
+    </b>
+    <i>
+      🞄 chrome extension that Toggle CSS invert on the current page
+    </i>
+  </li>
+  <li>
+    <img
+      valign="middle"
+      src="https://api.iconify.design/material-icon-theme:javascript.svg"
+      width="26"
+     />
+    <img
+      valign="middle"
+      src="assets/icons/web-extension.svg"
+      width="24"
+     />
+    <b>
+      2
     </b>
     <img
       valign="middle"
@@ -228,7 +261,7 @@
       [LIVE]
     </a>
     <i>
-      🞄 Compare JSON side-by-side, visually
+      🞄 Compare JSON side-by-side, visually, Framework Agnostic Web Component
     </i>
   </li>
   <li>
@@ -831,7 +864,7 @@
       width="24"
      />
     <b>
-      98
+      99
     </b>
     <img
       valign="middle"
