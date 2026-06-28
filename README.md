@@ -54,7 +54,7 @@
   <li>
     <img
       valign="middle"
-      src="https://api.iconify.design/skill-icons:bash-dark.svg"
+      src="https://api.iconify.design/material-icon-theme:javascript.svg"
       width="26"
      />
     <img
@@ -428,7 +428,7 @@
       width="24"
      />
     <b>
-      57
+      58
     </b>
     <img
       valign="middle"
