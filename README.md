@@ -80,6 +80,11 @@
     <b>
       &nbsp;
     </b>
+    <a
+      href="https://chromewebstore.google.com/detail/invert-site/hnnilolmcicknmmpkccoflolnopdgkgf"
+    >
+      [LIVE]
+    </a>
     <i>
       🞄 chrome extension that Toggle CSS invert on the current page
     </i>
@@ -184,6 +189,11 @@
     <b>
       &nbsp;
     </b>
+    <a
+      href="https://chromewebstore.google.com/detail/live-css-queries/lcebikobkkjlfnlkcdlhhiokgodmphml"
+    >
+      [LIVE]
+    </a>
     <i>
       🞄 Chrome extension - Evaluates CSS selectors on the active webpage and highlights matching elements in an on-page match panel
     </i>
