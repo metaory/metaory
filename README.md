@@ -59,6 +59,39 @@
      />
     <img
       valign="middle"
+      src="assets/icons/app.svg"
+      width="24"
+     />
+    <b>
+      0
+    </b>
+    <img
+      valign="middle"
+      src="https://api.iconify.design/fluent-color:star-24.svg"
+      width="16"
+     />
+    <a
+      href="https://github.com/metaory/chatgpt-userscript"
+    >
+      <strong>
+        chatgpt-userscript
+      </strong>
+    </a>
+    <b>
+      &nbsp;
+    </b>
+    <i>
+      🞄 Dark ChatGPT skin with WebGL gradient and Alt shortcuts for chat, sidebar, temp
+    </i>
+  </li>
+  <li>
+    <img
+      valign="middle"
+      src="https://api.iconify.design/material-icon-theme:javascript.svg"
+      width="26"
+     />
+    <img
+      valign="middle"
       src="assets/icons/web-extension.svg"
       width="24"
      />
@@ -538,6 +571,44 @@
     </a>
     <i>
       🞄 Framework-agnostic web component for boolean matrices
+    </i>
+  </li>
+  <li>
+    <img
+      valign="middle"
+      src="https://api.iconify.design/material-icon-theme:javascript.svg"
+      width="26"
+     />
+    <img
+      valign="middle"
+      src="assets/icons/app.svg"
+      width="24"
+     />
+    <b>
+      1
+    </b>
+    <img
+      valign="middle"
+      src="https://api.iconify.design/fluent-color:star-24.svg"
+      width="16"
+     />
+    <a
+      href="https://github.com/metaory/flexipayroll"
+    >
+      <strong>
+        flexipayroll
+      </strong>
+    </a>
+    <b>
+      &nbsp;
+    </b>
+    <a
+      href="https://metaory.github.io/flexipayroll/"
+    >
+      [LIVE]
+    </a>
+    <i>
+      🞄 A lightweight, browser-based payroll management system for SMEs
     </i>
   </li>
   <li>
