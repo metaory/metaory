@@ -59,7 +59,7 @@
      />
     <img
       valign="middle"
-      src="assets/icons/app.svg"
+      src="assets/icons/web-extension.svg"
       width="24"
      />
     <b>
@@ -656,7 +656,7 @@
       width="24"
      />
     <b>
-      108
+      109
     </b>
     <img
       valign="middle"
@@ -732,7 +732,7 @@
       width="24"
      />
     <b>
-      51
+      54
     </b>
     <img
       valign="middle"
@@ -755,7 +755,7 @@
       [LIVE]
     </a>
     <i>
-      🞄 Tiny WebGL library for Deterministic seed-driven Procedural Gradient Animations  [breaking v2 shaders coming]
+      🞄 Tiny WebGL library for Deterministic seed-driven Procedural Gradient Animations  [breaking v2 shaders]
     </i>
   </li>
   <li>
