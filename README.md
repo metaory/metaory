@@ -33,7 +33,7 @@
    />
   <br />
   <strong>
-    17+ years building
+    18+ years building
   </strong>
   <br />
   <small>
