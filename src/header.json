@@ -12,7 +12,7 @@
     ["br"],
     ["img", { "src": "assets/line.svg", "width": "220", "valign": "center" }],
     ["br"],
-    ["strong", "17+ years building"],
+    ["strong", "18+ years building"],
     ["br"],
     ["small", "reliable systems, distributed platforms"],
     ["br"],
