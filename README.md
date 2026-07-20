@@ -80,6 +80,11 @@
     <b>
       &nbsp;
     </b>
+    <a
+      href="https://chromewebstore.google.com/detail/chatgpt-gradient-theme/mdnbfnipjgjclnjpeodkihigflhnggck"
+    >
+      [LIVE]
+    </a>
     <i>
       🞄 Dark ChatGPT skin with WebGL gradient and Alt shortcuts for chat, sidebar, temp
     </i>
