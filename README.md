@@ -168,39 +168,6 @@
   <li>
     <img
       valign="middle"
-      src="https://api.iconify.design/skill-icons:bash-dark.svg"
-      width="26"
-     />
-    <img
-      valign="middle"
-      src="assets/icons/cli.svg"
-      width="24"
-     />
-    <b>
-      1
-    </b>
-    <img
-      valign="middle"
-      src="https://api.iconify.design/fluent-color:star-24.svg"
-      width="16"
-     />
-    <a
-      href="https://github.com/metaory/forks-hollow"
-    >
-      <strong>
-        forks-hollow
-      </strong>
-    </a>
-    <b>
-      &nbsp;
-    </b>
-    <i>
-      🞄 Keep your fork tree layout -  Drop the weight - Restore when you need the code
-    </i>
-  </li>
-  <li>
-    <img
-      valign="middle"
       src="https://api.iconify.design/material-icon-theme:javascript.svg"
       width="26"
      />
