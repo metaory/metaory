@@ -177,7 +177,7 @@
       width="24"
      />
     <b>
-      45
+      46
     </b>
     <img
       valign="middle"
@@ -552,7 +552,7 @@
       width="24"
      />
     <b>
-      57
+      58
     </b>
     <img
       valign="middle"
@@ -575,7 +575,7 @@
       [LIVE]
     </a>
     <i>
-      🞄 Tiny WebGL library for Deterministic seed-driven Procedural Gradient Animations  [breaking v2 shaders]
+      🞄 Tiny WebGL library for Deterministic seed-driven Procedural Gradient Animations
     </i>
   </li>
   <li>
