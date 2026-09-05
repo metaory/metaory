@@ -552,7 +552,7 @@
       width="24"
      />
     <b>
-      58
+      57
     </b>
     <img
       valign="middle"
