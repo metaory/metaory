@@ -54,6 +54,39 @@
   <li>
     <img
       valign="middle"
+      src="https://api.iconify.design/skill-icons:bash-dark.svg"
+      width="26"
+     />
+    <img
+      valign="middle"
+      src="assets/icons/cli.svg"
+      width="24"
+     />
+    <b>
+      12
+    </b>
+    <img
+      valign="middle"
+      src="https://api.iconify.design/fluent-color:star-24.svg"
+      width="16"
+     />
+    <a
+      href="https://github.com/metaory/dotkeep"
+    >
+      <strong>
+        dotkeep
+      </strong>
+    </a>
+    <b>
+      &nbsp;
+    </b>
+    <i>
+      🞄 A single plain-text manifest for your configuration
+    </i>
+  </li>
+  <li>
+    <img
+      valign="middle"
       src="https://api.iconify.design/material-icon-theme:javascript.svg"
       width="26"
      />
@@ -476,7 +509,7 @@
       width="24"
      />
     <b>
-      110
+      111
     </b>
     <img
       valign="middle"
