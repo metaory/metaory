@@ -63,7 +63,7 @@
       width="24"
      />
     <b>
-      12
+      23
     </b>
     <img
       valign="middle"
