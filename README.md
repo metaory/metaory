@@ -157,7 +157,7 @@
       [LIVE]
     </a>
     <i>
-      🞄 Chrome extension - Evaluates CSS selectors on the active webpage and highlights matching elements in an on-page match panel
+      🞄 web extension - Evaluates CSS selectors on the active webpage and highlights matching
     </i>
   </li>
   <li>
@@ -233,7 +233,7 @@
       [LIVE]
     </a>
     <i>
-      🞄 Compare JSON side-by-side, visually, Framework Agnostic Web Component
+      🞄 Diff JSON side-by-side, visually, Framework Agnostic Web Component
     </i>
   </li>
   <li>
