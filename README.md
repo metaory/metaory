@@ -494,7 +494,7 @@
       &nbsp;
     </b>
     <i>
-      🞄 CLI for automated anime torrent downloads with stateful episode tracking, quality filters, and uploader selection
+      🞄 CLI for automated anime torrent downloads with stateful episode tracking, quality filters, ...
     </i>
   </li>
   <li>
@@ -641,7 +641,7 @@
       &nbsp;
     </b>
     <i>
-      🞄 CLI and library to convert ShaderToy shaders to standalone WebGL2 applications with uniform handling and zero dependencies
+      🞄 CLI and library to convert ShaderToy shaders to standalone WebGL2 with uniform handling
     </i>
   </li>
   <li>
@@ -674,7 +674,7 @@
       &nbsp;
     </b>
     <i>
-      🞄 CLI tool to transform verbose noseyparker JSON reports into concise JSON or CSV summaries for security analysis
+      🞄 CLI tool to transform verbose noseyparker JSON reports into concise JSON or CSV
     </i>
   </li>
   <li>
@@ -712,7 +712,7 @@
       [LIVE]
     </a>
     <i>
-      🞄 Modern GLSL shader gallery with auto-fetch from GLSL Sandbox and Shadertoy, featuring smart filters and minimal interface
+      🞄 Modern GLSL shader gallery with auto-fetch from GLSL Sandbox and Shadertoy
     </i>
   </li>
   <li>
@@ -816,7 +816,7 @@
       &nbsp;
     </b>
     <i>
-      🞄 Bash CLI to generate animated pseudo-random glitch SVG effects from unicode characters with randomized parameters
+      🞄 CLI to generate animated pseudo-random glitch SVG effects from unicode characters
     </i>
   </li>
   <li>
@@ -849,7 +849,7 @@
       &nbsp;
     </b>
     <i>
-      🞄 Automated GitHub repository scanner that evaluates and reports bot-generated junk repositories using multi-language evaluators
+      🞄 Automated GitHub repository scanner that evaluates and reports bot-generated junk
     </i>
   </li>
   <li>
@@ -920,7 +920,7 @@
       &nbsp;
     </b>
     <i>
-      🞄 A minimal markup DSL and AST for JSON - Transforms into HTML, SVG or XML-like output via CLI or JS library
+      🞄 A minimal markup DSL and AST for JSON to HTML, SVG or XML-like. CLI and Lib
     </i>
   </li>
   <li>
@@ -953,7 +953,7 @@
       &nbsp;
     </b>
     <i>
-      🞄 Minimal Result/Monad library inspired by Lua pcall, Elixir Result, and Rust Result with lifecycle hooks and zero dependencies
+      🞄 Minimal Result/Monad JS library inspired by Lua pcall, Elixir Result, and Rust Result with lifecycle hooks
     </i>
   </li>
   <li>
@@ -986,7 +986,7 @@
       &nbsp;
     </b>
     <i>
-      🞄 Minimal CLI utility to generate SVG or PNG images from single Unicode characters or templates, ideal for icon and glyph creation
+      🞄 CLI to generate SVG or PNG images from single Unicode char or templates
     </i>
   </li>
   <li>
@@ -1052,7 +1052,7 @@
       &nbsp;
     </b>
     <i>
-      🞄 POSIX-compliant templating CLI with modeline syntax, environment variable substitution, and pre/post hooks for configuration management
+      🞄 POSIX-compliant templating CLI with modeline syntax, environment variable substitution
     </i>
   </li>
   <li>
@@ -1189,7 +1189,7 @@
       &nbsp;
     </b>
     <i>
-      🞄 Generate, Preview, Apply beautiful unified human friendly pseudo random color schemes, SYSTEM WIDE!
+      🞄 Generate, Preview, Apply unified human friendly pseudo random colorschemes, SYSTEM WIDE!
     </i>
   </li>
 </ul>
