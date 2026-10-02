@@ -798,7 +798,7 @@
       width="24"
      />
     <b>
-      98
+      100
     </b>
     <img
       valign="middle"
