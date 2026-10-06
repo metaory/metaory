@@ -92,6 +92,44 @@
      />
     <img
       valign="middle"
+      src="assets/icons/app.svg"
+      width="24"
+     />
+    <b>
+      2
+    </b>
+    <img
+      valign="middle"
+      src="https://api.iconify.design/fluent-color:star-24.svg"
+      width="16"
+     />
+    <a
+      href="https://github.com/metaory/awesome-llm-leaderboards"
+    >
+      <strong>
+        awesome-llm-leaderboards
+      </strong>
+    </a>
+    <b>
+      &nbsp;
+    </b>
+    <a
+      href="https://metaory.github.io/awesome-llm-leaderboards/"
+    >
+      [LIVE]
+    </a>
+    <i>
+      🞄 Find where to compare LLMs, not which LLM to pick
+    </i>
+  </li>
+  <li>
+    <img
+      valign="middle"
+      src="https://api.iconify.design/material-icon-theme:javascript.svg"
+      width="26"
+     />
+    <img
+      valign="middle"
       src="assets/icons/web-extension.svg"
       width="24"
      />
@@ -476,7 +514,7 @@
       width="24"
      />
     <b>
-      61
+      62
     </b>
     <img
       valign="middle"
@@ -1067,7 +1105,7 @@
       width="24"
      />
     <b>
-      76
+      77
     </b>
     <img
       valign="middle"
