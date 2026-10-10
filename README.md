@@ -1039,7 +1039,7 @@
       width="24"
      />
     <b>
-      3
+      5
     </b>
     <img
       valign="middle"
@@ -1105,7 +1105,7 @@
       width="24"
      />
     <b>
-      82
+      84
     </b>
     <img
       valign="middle"
