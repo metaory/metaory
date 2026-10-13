@@ -902,7 +902,7 @@
       width="24"
      />
     <b>
-      14
+      15
     </b>
     <img
       valign="middle"
@@ -940,7 +940,7 @@
       width="24"
      />
     <b>
-      17
+      18
     </b>
     <img
       valign="middle"
