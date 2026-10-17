@@ -248,7 +248,7 @@
       width="24"
      />
     <b>
-      46
+      47
     </b>
     <img
       valign="middle"
