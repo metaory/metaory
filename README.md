@@ -54,7 +54,7 @@
   <li>
     <img
       valign="middle"
-      src="https://api.iconify.design/skill-icons:bash-dark.svg"
+      src="assets/icons/repo/shell.svg"
       width="26"
      />
     <img
@@ -67,7 +67,7 @@
     </b>
     <img
       valign="middle"
-      src="https://api.iconify.design/fluent-color:star-24.svg"
+      src="assets/icons/repo/star.svg"
       width="16"
      />
     <a
@@ -87,7 +87,7 @@
   <li>
     <img
       valign="middle"
-      src="https://api.iconify.design/material-icon-theme:javascript.svg"
+      src="assets/icons/repo/javascript.svg"
       width="26"
      />
     <img
@@ -100,7 +100,7 @@
     </b>
     <img
       valign="middle"
-      src="https://api.iconify.design/fluent-color:star-24.svg"
+      src="assets/icons/repo/star.svg"
       width="16"
      />
     <a
@@ -125,7 +125,7 @@
   <li>
     <img
       valign="middle"
-      src="https://api.iconify.design/material-icon-theme:javascript.svg"
+      src="assets/icons/repo/javascript.svg"
       width="26"
      />
     <img
@@ -138,7 +138,7 @@
     </b>
     <img
       valign="middle"
-      src="https://api.iconify.design/fluent-color:star-24.svg"
+      src="assets/icons/repo/star.svg"
       width="16"
      />
     <a
@@ -163,7 +163,7 @@
   <li>
     <img
       valign="middle"
-      src="https://api.iconify.design/material-icon-theme:javascript.svg"
+      src="assets/icons/repo/javascript.svg"
       width="26"
      />
     <img
@@ -176,7 +176,7 @@
     </b>
     <img
       valign="middle"
-      src="https://api.iconify.design/fluent-color:star-24.svg"
+      src="assets/icons/repo/star.svg"
       width="16"
      />
     <a
@@ -201,7 +201,7 @@
   <li>
     <img
       valign="middle"
-      src="https://api.iconify.design/material-icon-theme:javascript.svg"
+      src="assets/icons/repo/javascript.svg"
       width="26"
      />
     <img
@@ -214,7 +214,7 @@
     </b>
     <img
       valign="middle"
-      src="https://api.iconify.design/fluent-color:star-24.svg"
+      src="assets/icons/repo/star.svg"
       width="16"
      />
     <a
@@ -239,7 +239,7 @@
   <li>
     <img
       valign="middle"
-      src="https://api.iconify.design/material-icon-theme:javascript.svg"
+      src="assets/icons/repo/javascript.svg"
       width="26"
      />
     <img
@@ -252,7 +252,7 @@
     </b>
     <img
       valign="middle"
-      src="https://api.iconify.design/fluent-color:star-24.svg"
+      src="assets/icons/repo/star.svg"
       width="16"
      />
     <a
@@ -277,7 +277,7 @@
   <li>
     <img
       valign="middle"
-      src="https://api.iconify.design/fluent-color:agents-24.svg"
+      src="assets/icons/repo/na.svg"
       width="26"
      />
     <img
@@ -290,7 +290,7 @@
     </b>
     <img
       valign="middle"
-      src="https://api.iconify.design/fluent-color:star-24.svg"
+      src="assets/icons/repo/star.svg"
       width="16"
      />
     <a
@@ -315,7 +315,7 @@
   <li>
     <img
       valign="middle"
-      src="https://api.iconify.design/material-icon-theme:html.svg"
+      src="assets/icons/repo/html.svg"
       width="26"
      />
     <img
@@ -328,7 +328,7 @@
     </b>
     <img
       valign="middle"
-      src="https://api.iconify.design/fluent-color:star-24.svg"
+      src="assets/icons/repo/star.svg"
       width="16"
      />
     <a
@@ -353,7 +353,7 @@
   <li>
     <img
       valign="middle"
-      src="https://api.iconify.design/material-icon-theme:javascript.svg"
+      src="assets/icons/repo/javascript.svg"
       width="26"
      />
     <img
@@ -366,7 +366,7 @@
     </b>
     <img
       valign="middle"
-      src="https://api.iconify.design/fluent-color:star-24.svg"
+      src="assets/icons/repo/star.svg"
       width="16"
      />
     <a
@@ -391,7 +391,7 @@
   <li>
     <img
       valign="middle"
-      src="https://api.iconify.design/material-icon-theme:javascript.svg"
+      src="assets/icons/repo/javascript.svg"
       width="26"
      />
     <img
@@ -404,7 +404,7 @@
     </b>
     <img
       valign="middle"
-      src="https://api.iconify.design/fluent-color:star-24.svg"
+      src="assets/icons/repo/star.svg"
       width="16"
      />
     <a
@@ -429,7 +429,7 @@
   <li>
     <img
       valign="middle"
-      src="https://api.iconify.design/material-icon-theme:javascript.svg"
+      src="assets/icons/repo/javascript.svg"
       width="26"
      />
     <img
@@ -442,7 +442,7 @@
     </b>
     <img
       valign="middle"
-      src="https://api.iconify.design/fluent-color:star-24.svg"
+      src="assets/icons/repo/star.svg"
       width="16"
      />
     <a
@@ -467,7 +467,7 @@
   <li>
     <img
       valign="middle"
-      src="https://api.iconify.design/material-icon-theme:javascript.svg"
+      src="assets/icons/repo/javascript.svg"
       width="26"
      />
     <img
@@ -480,7 +480,7 @@
     </b>
     <img
       valign="middle"
-      src="https://api.iconify.design/fluent-color:star-24.svg"
+      src="assets/icons/repo/star.svg"
       width="16"
      />
     <a
@@ -505,7 +505,7 @@
   <li>
     <img
       valign="middle"
-      src="https://api.iconify.design/skill-icons:bash-dark.svg"
+      src="assets/icons/repo/shell.svg"
       width="26"
      />
     <img
@@ -518,7 +518,7 @@
     </b>
     <img
       valign="middle"
-      src="https://api.iconify.design/fluent-color:star-24.svg"
+      src="assets/icons/repo/star.svg"
       width="16"
      />
     <a
@@ -538,7 +538,7 @@
   <li>
     <img
       valign="middle"
-      src="https://api.iconify.design/material-icon-theme:javascript.svg"
+      src="assets/icons/repo/javascript.svg"
       width="26"
      />
     <img
@@ -551,7 +551,7 @@
     </b>
     <img
       valign="middle"
-      src="https://api.iconify.design/fluent-color:star-24.svg"
+      src="assets/icons/repo/star.svg"
       width="16"
      />
     <a
@@ -576,7 +576,7 @@
   <li>
     <img
       valign="middle"
-      src="https://api.iconify.design/material-icon-theme:javascript.svg"
+      src="assets/icons/repo/javascript.svg"
       width="26"
      />
     <img
@@ -589,7 +589,7 @@
     </b>
     <img
       valign="middle"
-      src="https://api.iconify.design/fluent-color:star-24.svg"
+      src="assets/icons/repo/star.svg"
       width="16"
      />
     <a
@@ -614,7 +614,7 @@
   <li>
     <img
       valign="middle"
-      src="https://api.iconify.design/material-icon-theme:javascript.svg"
+      src="assets/icons/repo/javascript.svg"
       width="26"
      />
     <img
@@ -627,7 +627,7 @@
     </b>
     <img
       valign="middle"
-      src="https://api.iconify.design/fluent-color:star-24.svg"
+      src="assets/icons/repo/star.svg"
       width="16"
      />
     <a
@@ -652,7 +652,7 @@
   <li>
     <img
       valign="middle"
-      src="https://api.iconify.design/material-icon-theme:javascript.svg"
+      src="assets/icons/repo/javascript.svg"
       width="26"
      />
     <img
@@ -665,7 +665,7 @@
     </b>
     <img
       valign="middle"
-      src="https://api.iconify.design/fluent-color:star-24.svg"
+      src="assets/icons/repo/star.svg"
       width="16"
      />
     <a
@@ -685,7 +685,7 @@
   <li>
     <img
       valign="middle"
-      src="https://api.iconify.design/material-icon-theme:javascript.svg"
+      src="assets/icons/repo/javascript.svg"
       width="26"
      />
     <img
@@ -698,7 +698,7 @@
     </b>
     <img
       valign="middle"
-      src="https://api.iconify.design/fluent-color:star-24.svg"
+      src="assets/icons/repo/star.svg"
       width="16"
      />
     <a
@@ -718,7 +718,7 @@
   <li>
     <img
       valign="middle"
-      src="https://api.iconify.design/material-icon-theme:javascript.svg"
+      src="assets/icons/repo/javascript.svg"
       width="26"
      />
     <img
@@ -731,7 +731,7 @@
     </b>
     <img
       valign="middle"
-      src="https://api.iconify.design/fluent-color:star-24.svg"
+      src="assets/icons/repo/star.svg"
       width="16"
      />
     <a
@@ -756,7 +756,7 @@
   <li>
     <img
       valign="middle"
-      src="https://api.iconify.design/material-icon-theme:javascript.svg"
+      src="assets/icons/repo/javascript.svg"
       width="26"
      />
     <img
@@ -769,7 +769,7 @@
     </b>
     <img
       valign="middle"
-      src="https://api.iconify.design/fluent-color:star-24.svg"
+      src="assets/icons/repo/star.svg"
       width="16"
      />
     <a
@@ -789,7 +789,7 @@
   <li>
     <img
       valign="middle"
-      src="https://api.iconify.design/material-icon-theme:javascript.svg"
+      src="assets/icons/repo/javascript.svg"
       width="26"
      />
     <img
@@ -802,7 +802,7 @@
     </b>
     <img
       valign="middle"
-      src="https://api.iconify.design/fluent-color:star-24.svg"
+      src="assets/icons/repo/star.svg"
       width="16"
      />
     <a
@@ -827,7 +827,7 @@
   <li>
     <img
       valign="middle"
-      src="https://api.iconify.design/skill-icons:bash-dark.svg"
+      src="assets/icons/repo/shell.svg"
       width="26"
      />
     <img
@@ -840,7 +840,7 @@
     </b>
     <img
       valign="middle"
-      src="https://api.iconify.design/fluent-color:star-24.svg"
+      src="assets/icons/repo/star.svg"
       width="16"
      />
     <a
@@ -860,7 +860,7 @@
   <li>
     <img
       valign="middle"
-      src="https://api.iconify.design/material-icon-theme:javascript.svg"
+      src="assets/icons/repo/javascript.svg"
       width="26"
      />
     <img
@@ -873,7 +873,7 @@
     </b>
     <img
       valign="middle"
-      src="https://api.iconify.design/fluent-color:star-24.svg"
+      src="assets/icons/repo/star.svg"
       width="16"
      />
     <a
@@ -893,7 +893,7 @@
   <li>
     <img
       valign="middle"
-      src="https://api.iconify.design/material-icon-theme:handlebars.svg"
+      src="assets/icons/repo/handlebars.svg"
       width="26"
      />
     <img
@@ -906,7 +906,7 @@
     </b>
     <img
       valign="middle"
-      src="https://api.iconify.design/fluent-color:star-24.svg"
+      src="assets/icons/repo/star.svg"
       width="16"
      />
     <a
@@ -931,7 +931,7 @@
   <li>
     <img
       valign="middle"
-      src="https://api.iconify.design/material-icon-theme:javascript.svg"
+      src="assets/icons/repo/javascript.svg"
       width="26"
      />
     <img
@@ -944,7 +944,7 @@
     </b>
     <img
       valign="middle"
-      src="https://api.iconify.design/fluent-color:star-24.svg"
+      src="assets/icons/repo/star.svg"
       width="16"
      />
     <a
@@ -964,7 +964,7 @@
   <li>
     <img
       valign="middle"
-      src="https://api.iconify.design/material-icon-theme:javascript.svg"
+      src="assets/icons/repo/javascript.svg"
       width="26"
      />
     <img
@@ -977,7 +977,7 @@
     </b>
     <img
       valign="middle"
-      src="https://api.iconify.design/fluent-color:star-24.svg"
+      src="assets/icons/repo/star.svg"
       width="16"
      />
     <a
@@ -997,7 +997,7 @@
   <li>
     <img
       valign="middle"
-      src="https://api.iconify.design/fluent-color:code-block-24.svg"
+      src="assets/icons/repo/xc.svg"
       width="26"
      />
     <img
@@ -1010,7 +1010,7 @@
     </b>
     <img
       valign="middle"
-      src="https://api.iconify.design/fluent-color:star-24.svg"
+      src="assets/icons/repo/star.svg"
       width="16"
      />
     <a
@@ -1030,7 +1030,7 @@
   <li>
     <img
       valign="middle"
-      src="https://api.iconify.design/skill-icons:bash-dark.svg"
+      src="assets/icons/repo/shell.svg"
       width="26"
      />
     <img
@@ -1043,7 +1043,7 @@
     </b>
     <img
       valign="middle"
-      src="https://api.iconify.design/fluent-color:star-24.svg"
+      src="assets/icons/repo/star.svg"
       width="16"
      />
     <a
@@ -1063,7 +1063,7 @@
   <li>
     <img
       valign="middle"
-      src="https://api.iconify.design/skill-icons:bash-dark.svg"
+      src="assets/icons/repo/shell.svg"
       width="26"
      />
     <img
@@ -1076,7 +1076,7 @@
     </b>
     <img
       valign="middle"
-      src="https://api.iconify.design/fluent-color:star-24.svg"
+      src="assets/icons/repo/star.svg"
       width="16"
      />
     <a
@@ -1096,7 +1096,7 @@
   <li>
     <img
       valign="middle"
-      src="https://api.iconify.design/skill-icons:bash-dark.svg"
+      src="assets/icons/repo/shell.svg"
       width="26"
      />
     <img
@@ -1109,7 +1109,7 @@
     </b>
     <img
       valign="middle"
-      src="https://api.iconify.design/fluent-color:star-24.svg"
+      src="assets/icons/repo/star.svg"
       width="16"
      />
     <a
@@ -1129,7 +1129,7 @@
   <li>
     <img
       valign="middle"
-      src="https://api.iconify.design/material-icon-theme:javascript.svg"
+      src="assets/icons/repo/javascript.svg"
       width="26"
      />
     <img
@@ -1142,7 +1142,7 @@
     </b>
     <img
       valign="middle"
-      src="https://api.iconify.design/fluent-color:star-24.svg"
+      src="assets/icons/repo/star.svg"
       width="16"
      />
     <a
@@ -1167,7 +1167,7 @@
   <li>
     <img
       valign="middle"
-      src="https://api.iconify.design/skill-icons:bash-dark.svg"
+      src="assets/icons/repo/shell.svg"
       width="26"
      />
     <img
@@ -1180,7 +1180,7 @@
     </b>
     <img
       valign="middle"
-      src="https://api.iconify.design/fluent-color:star-24.svg"
+      src="assets/icons/repo/star.svg"
       width="16"
      />
     <a
@@ -1200,7 +1200,7 @@
   <li>
     <img
       valign="middle"
-      src="https://api.iconify.design/skill-icons:bash-dark.svg"
+      src="assets/icons/repo/shell.svg"
       width="26"
      />
     <img
@@ -1213,7 +1213,7 @@
     </b>
     <img
       valign="middle"
-      src="https://api.iconify.design/fluent-color:star-24.svg"
+      src="assets/icons/repo/star.svg"
       width="16"
      />
     <a

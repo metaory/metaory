@@ -58,6 +58,16 @@ function compose {
 
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
+function localize-icons {
+  mkdir -p assets/icons/repo
+  icons="$(jq -r 'to_entries[] | [.key, .value] | @tsv' <<<"$icons" | while IFS=$'\t' read -r k u; do
+    f="assets/icons/repo/${k,,}.svg"
+    p="${u#*://*/}" p="${p%.svg}" p="${p/:/\/}"
+    [ -f "$f" ] || curl -fsS -A "Mozilla/5.0" -o "$f" "${ICONIFY}/${p}.svg?width=128&height=128"
+    printf '%s\t%s\n' "$k" "$f"
+  done | jq -Rn 'reduce inputs as $l ({}; . + ($l | split("\t") | {(.[0]): .[1]}))')"
+}
+
 function repositories {
   gh repo list \
     --visibility=public \
@@ -102,6 +112,7 @@ function repositories {
 
 append header
 
+localize-icons
 repositories
 
 for i in {1..4}; do
