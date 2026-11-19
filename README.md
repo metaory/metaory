@@ -54,6 +54,39 @@
   <li>
     <img
       valign="middle"
+      src="assets/icons/repo/rust.svg"
+      width="26"
+     />
+    <img
+      valign="middle"
+      src="assets/icons/app.svg"
+      width="24"
+     />
+    <b>
+      4
+    </b>
+    <img
+      valign="middle"
+      src="assets/icons/repo/star.svg"
+      width="16"
+     />
+    <a
+      href="https://github.com/metaory/nyaa-tui"
+    >
+      <strong>
+        nyaa-tui
+      </strong>
+    </a>
+    <b>
+      &nbsp;
+    </b>
+    <i>
+      🞄 Browse nyaa.si from your terminal
+    </i>
+  </li>
+  <li>
+    <img
+      valign="middle"
       src="assets/icons/repo/shell.svg"
       width="26"
      />
@@ -3840,6 +3873,6 @@
   </sup>
   <br />
   <kbd>
-    updated @1794000000
+    updated @1795000000
   </kbd>
 </div>
