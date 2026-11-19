@@ -63,7 +63,40 @@
       width="24"
      />
     <b>
-      4
+      5
+    </b>
+    <img
+      valign="middle"
+      src="assets/icons/repo/star.svg"
+      width="16"
+     />
+    <a
+      href="https://github.com/metaory/treg"
+    >
+      <strong>
+        treg
+      </strong>
+    </a>
+    <b>
+      &nbsp;
+    </b>
+    <i>
+      🞄 Find the tool you installed and what it does
+    </i>
+  </li>
+  <li>
+    <img
+      valign="middle"
+      src="assets/icons/repo/rust.svg"
+      width="26"
+     />
+    <img
+      valign="middle"
+      src="assets/icons/app.svg"
+      width="24"
+     />
+    <b>
+      7
     </b>
     <img
       valign="middle"
